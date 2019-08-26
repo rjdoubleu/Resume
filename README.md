@@ -1,17 +1,15 @@
 # Ryan James Walden  
 A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the automotive & machine learning industries.
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/)
-<br>
+<br></br>
 ## STEM Extracurricular  (Ongoing)
 Aspiring inventor of emerging technology. Incredibly interested in the interaction between hardware and software systems.
-
 + Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19. Built custom augmented data set using H5PY and Canny edge detection; Google Colab IPython notebooks are publicly available on GitHub; seeking research paper sponsorship.
 +  Currently redesigning the Google Gruyere vulnerable web app to utilize a SQL database with SQLite3. This will allow for a deeper curriculum that includes SQL injection lessons unavailable in the original version; publicly available on GitHub.
 + Actively building a multi-channel mesh network model in NS3 using C++; currently private & offline (startup mvp).
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on several different makes & models.
 +  Extensive 3D printing, scanning, and design experience
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
-
 Intro to machine learning & intro to cyber security instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
 +   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow at both the beginner & advanced levels. Worked with a variety of datasets such as CIFAR-10 & MNIST. Supplied curriculum was insufficient so I created my own curriculum which is being adapted into a public GitHub repository.
 +   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. Conducted small CTFs using Google Gruyere to teach XSS.
