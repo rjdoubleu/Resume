@@ -2,6 +2,7 @@
 A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the automotive & machine learning industries.
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/)
 
+
   
 ## STEM Extracurricular  (Ongoing)
 
@@ -14,6 +15,7 @@ Aspiring inventor of emerging technology. Incredibly interested in the interac
 +  Extensive 3D printing, scanning, and design experience
     
 
+
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 
 Intro to machine learning & intro to cyber security instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
@@ -21,6 +23,8 @@ Intro to machine learning & intro to cyber security instructor for young adult
 +   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. Conducted small CTFs using Google Gruyere to teach XSS.
 +   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform.
 +  Lead Instuctor responsibilities included overnight activities, medicine management, camper check-in/out.
+
+
 
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
 Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
@@ -37,12 +41,16 @@ Concentration in hardware systems with a goal of learning how to best develop ma
 + Notable Business Electives: Accounting I & II, Business Legalities & Ethics, Economics, Intro to CIS
 + Avid participant of PayPal HackATL 2018, Emory HackATL 2018 & Volunteer/Coach at PantherHack 2019
 + GSU 5 Week Blockchain Lab: created & deployed Ethereum Smart Contracts developed in Solidity
-    
+
+
+
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
 + Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
 + Human Machines  - Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day
 + PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
+
+
 
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 
