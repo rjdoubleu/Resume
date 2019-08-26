@@ -3,7 +3,6 @@ A diverse & multifaceted individual with high level technical & general communic
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/)
 ---
 ## STEM Extracurricular  (Ongoing)
-
 Aspiring inventor of emerging technology. Incredibly interested in the interaction between hardware and software systems.
 
 + Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19. Built custom augmented data set using H5PY and Canny edge detection; Google Colab IPython notebooks are publicly available on GitHub; seeking research paper sponsorship.
