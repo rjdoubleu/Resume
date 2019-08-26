@@ -1,6 +1,6 @@
 # Ryan James Walden  
 A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the automotive & machine learning industries.
-#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) |  (404)935-2088 | GitHub: [rjdoubleu]([https://github.com/rjdoubleu](https://github.com/rjdoubleu)) | LinkedIn: [ryan-walden-28771a8b]([https://www.linkedin.com/in/ryan-walden-28771a8b/](https://www.linkedin.com/in/ryan-walden-28771a8b/))
+#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) |  (404)935-2088 | LinkedIn: [ryan-walden-28771a8b]([https://www.linkedin.com/in/ryan-walden-28771a8b/](https://www.linkedin.com/in/ryan-walden-28771a8b/))
 
   
 
