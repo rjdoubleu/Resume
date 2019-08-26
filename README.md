@@ -1,7 +1,7 @@
 # Ryan James Walden  
 A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the automotive & machine learning industries.
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/)
----
+===
 ## STEM Extracurricular  (Ongoing)
 
 Aspiring inventor of emerging technology. Incredibly interested in the interaction between hardware and software systems.
