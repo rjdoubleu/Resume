@@ -28,9 +28,8 @@ Intro to machine learning & intro to cyber security instructor for young adult
 
 ## STEM Extracurricular  (Ongoing)
 Aspiring inventor of emerging technology. Incredibly interested in the interaction between hardware and software systems.
-+ Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19. Built custom augmented data set using H5PY and Canny edge detection; Google Colab IPython notebooks are publicly available on GitHub; seeking research paper sponsorship.
++ Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19. Built custom augmented data set using H5PY and Canny edge detection; Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification).
 +  Currently redesigning the Google Gruyere vulnerable web app to utilize a SQL database with SQLite3. This will allow for a deeper curriculum that includes SQL injection lessons unavailable in the original version; publicly available on GitHub.
-+ Actively building a multi-channel mesh network model in NS3 using C++; currently private & offline (startup mvp).
 + Adapting a machine learning curriculum for graduate level CS students under my [Afferent Learning](https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline) GitHub organization.
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on several different makes & models.
 +  Extensive 3D printing, scanning, and design experience
