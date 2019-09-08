@@ -1,18 +1,11 @@
 # Ryan James Walden  
-A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the automotive & machine learning industries.
+A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the mechatronics & machine learning industries.
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/)
 
 ## Undergraduate Research Assistant (September 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics.
 +   Granted $8000 stipend from the National Science Foundation
 +   [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
-
-## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
-Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
-+   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
-+   Human Machines  - Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day
-+   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
-+   HealthHack 2020 Founder - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
 
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 + Develop advanced workshops primarily in the scope of robotics curriculum.
@@ -34,6 +27,12 @@ Aspiring inventor of emerging technology. Incredibly interested in the interac
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on several different makes & models.
 +  Extensive 3D printing, scanning, and design experience
 
+## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
+Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
++   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
++   Human Machines  - Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day
++   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
++   HealthHack 2020 Founder - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
 
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
 Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
