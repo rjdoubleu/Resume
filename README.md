@@ -10,7 +10,7 @@ Conducting research in ultra-high speed mobile visible light communication for r
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
 +   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
-+   Human Machines  - [Project Hand](https://github.com/rjdoubleu/Human-Machines) (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day
++   Human Machines  - Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day
 +   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
 +   HealthHack 2020 Founder - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
 
