@@ -8,7 +8,7 @@ Conducting research in ultra-high speed mobile visible light communication for r
 +   [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
 
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
-+ Develop advanced workshops primarily in the scope of robotics curriculum.
+Developing advanced workshops primarily in the scope of robotics curriculum.
 + Trained in laser cutting, CNC, sewing, wood fabrication, virtual reality rendering, & 3D Printer OS server administration.
 + Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, AITP
 
@@ -20,7 +20,7 @@ Intro to machine learning & intro to cyber security instructor for young adult
 +  Lead Instuctor responsibilities included overnight activities, medicine management, camper check-in/out.
 
 ## STEM Extracurricular  (Ongoing)
-Aspiring inventor of emerging technology. Incredibly interested in the interaction between hardware and software systems.
+Aspiring inventor of emerging technology.
 + Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19. Built custom augmented data set using H5PY and Canny edge detection; Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification).
 +  Currently redesigning the Google Gruyere vulnerable web app to utilize a SQL database with SQLite3. This will allow for a deeper curriculum that includes SQL injection lessons unavailable in the original version; publicly available on GitHub.
 + Adapting a machine learning curriculum for graduate level CS students under my [Afferent Learning](https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline) GitHub organization.
