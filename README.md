@@ -3,7 +3,7 @@ A diverse & multifaceted individual with high level technical & general communic
 
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | Currently Reading: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 
-## STEM Extracurricular  (Ongoing)
+## STEM Personal Extracurricular (Ongoing)
 Aspiring inventor of emerging technology.
 + Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19. 
 	- Built custom augmented data set using H5PY and Canny edge detection
