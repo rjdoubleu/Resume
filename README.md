@@ -1,6 +1,7 @@
 # Ryan James Walden  
 A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the mechatronics & machine learning industries.
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/)
+#### Currently Reading: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 
 ## Undergraduate Research Assistant (September 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Responsible for developing embedded system and machine learning robotic features.
@@ -10,7 +11,7 @@ Conducting research in ultra-high speed mobile visible light communication for r
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 Developing advanced workshops primarily in the scope of robotics curriculum.
 + Trained in laser cutting, CNC, sewing, wood fabrication, virtual reality rendering, & 3DPrinterOS server administration.
-+ Building a Li-Fi Synthesizer for Maker Faire 2020; utilizes OpenCV and Sonic Pi; [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
++ Building a Li-Fi Synthesizer for Maker Faire 2019; utilizes OpenCV and Sonic Pi; [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
 + Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, AITP
 
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
@@ -33,7 +34,7 @@ Responsible for organizing project development driven divisions & collaborating 
 +   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
 +   Human Machines  - Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day; [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 +   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
-+   HealthHack 2020 Founder - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
++   PantherHsck HealthHack 2020 Chief Organizer - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
 
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
 Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
