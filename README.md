@@ -30,9 +30,14 @@ Intro to machine learning & intro to cyber security instructor for young adult
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
 +   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
-+   Human Machines  - Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day; [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
++   Robotics Division Leader:
+	- Human Machines (Fall 2018 - Current)
+		1. Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day; [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
+	- Drone Development (Fall 2019)
+		1. Project Drone - Design and 3D Print a drone chassis for a drone built from scratch
+		1. Program Parrot Mambo drones in MATLAB
 +   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
-+   PantherHsck HealthHack 2020 Chief Organizer - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
++   PantherHack HealthHack 2020 Chief Organizer - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
 
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
 Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
