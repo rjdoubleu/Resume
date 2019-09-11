@@ -27,8 +27,8 @@ Developing advanced workshops primarily in the scope of robotics curriculum.
 
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cyber security instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
-+   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow at both the beginner & advanced levels. 
-	- Worked with a variety of datasets such as CIFAR-10 & MNIST. 
++   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow. 
+	- Worked with a variety of datasets such as CIFAR & MNIST. 
 	- Managed custom TensorFlow Anaconda development environment. 
 	- Supplied curriculum was insufficient so I created my own curriculum which is slowly being adapted into a [public GitHub repository](https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline).
 +   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. 
