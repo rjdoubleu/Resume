@@ -1,7 +1,6 @@
 # Ryan James Walden  
 A diverse & multifaceted individual with high level technical & general communication skills. Fascinated by robotic artificial intelligence; a well-studied individual of the mechatronics & machine learning industries.
-#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/)
-#### Currently Reading: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | Currently Reading: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 
 ## Undergraduate Research Assistant (September 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Responsible for developing embedded system and machine learning robotic features.
