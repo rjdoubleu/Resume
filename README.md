@@ -35,7 +35,7 @@ Responsible for organizing project development driven divisions & collaborating 
 		1. Project Hand (3D Printed Upper Limb Prosthesis) presented Spring 2019 GSU Demo Day; [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 	- Drone Development (Fall 2019)
 		1. Project Drone - Design and 3D Print a drone chassis for a drone built from scratch
-		1. Program Parrot Mambo drones in MATLAB
+		1. Drone Workshops - Parrot Mambo drones in MATLAB
 +   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
 +   PantherHack HealthHack 2020 Chief Organizer - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
 
