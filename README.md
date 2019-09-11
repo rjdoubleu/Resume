@@ -10,6 +10,7 @@ Conducting research in ultra-high speed mobile visible light communication for r
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 Developing advanced workshops primarily in the scope of robotics curriculum.
 + Trained in laser cutting, CNC, sewing, wood fabrication, virtual reality rendering, & 3D Printer OS server administration.
++ Building a Li-Fi Synthesizer for Maker Faire 2020; utilizes OpenCV and Sonic Pi 
 + Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, AITP
 
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
