@@ -9,7 +9,7 @@ Aspiring inventor of emerging technology.
 	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification).
 +  Currently redesigning the Google Gruyere vulnerable web app to utilize a SQL database with SQLite3. 
 	- This will allow for a deeper curriculum that includes SQL injection lessons unavailable in the original version
-	- [Publicly available on GitHub](https://github.com/rjdoubleu/gruyere).
+	- Python files are [publicly available on GitHub](https://github.com/rjdoubleu/gruyere).
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on several different makes & models.
 
 ## Undergraduate Research Assistant (September 2019 - Current)
@@ -19,14 +19,20 @@ Conducting research in ultra-high speed mobile visible light communication for r
 
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 Developing advanced workshops primarily in the scope of robotics curriculum.
-+ Trained in laser cutting, CNC, sewing, wood fabrication, virtual reality rendering, & 3DPrinterOS server administration.
-+ Building a Li-Fi Synthesizer for Maker Faire 2019; utilizes OpenCV and Sonic Pi; [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
++ Trained in CNC, wood fabrication, & 3DPrinterOS server administration.
++ Building a Li-Fi Synthesizer for Maker Faire 2019
+	- Utilizes OpenCV and Sonic Pi libraries
+	- Project is [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
 + Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, AITP
 
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cyber security instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
-+   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow at both the beginner & advanced levels. Worked with a variety of datasets such as CIFAR-10 & MNIST. Managed custom TensorFlow Anaconda development environment. Supplied curriculum was insufficient so I created my own curriculum which is slowly being adapted into a [public GitHub repository](https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline).
-+   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. Conducted small CTFs using Google Gruyere to teach XSS.
++   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow at both the beginner & advanced levels. 
+	- Worked with a variety of datasets such as CIFAR-10 & MNIST. 
+	- Managed custom TensorFlow Anaconda development environment. 
+	- Supplied curriculum was insufficient so I created my own curriculum which is slowly being adapted into a [public GitHub repository](https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline).
++   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. 
+	- Conducted small CTFs using Google Gruyere to teach XSS.
 +   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform.
 +   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out.
 +   First Aid/CPR Certified Expiration May 2021.
