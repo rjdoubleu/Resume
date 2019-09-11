@@ -32,7 +32,7 @@ Responsible for organizing project development driven divisions & collaborating 
 +   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
 +   Robotics Division Leader:
 	- Human Machines (Fall 2018 - Current)
-		1. Project Hand - 3D Printed Hand Prosthetic 
+		1. Project Gauntlet - 3D Printed Hand Prosthetic 
 			+ Presented at Spring 2019 GSU Demo Day
 			+ [Publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 	- Drone Development (Fall 2019)
