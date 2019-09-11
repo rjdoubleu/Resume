@@ -30,6 +30,7 @@ Intro to machine learning & intro to cyber security instructor for young adult
 +   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow. 
 	- Worked with a variety of datasets such as CIFAR & MNIST. 
 	- Managed custom TensorFlow Anaconda development environment. 
+	- Debugged more than 20 individual machine learning projects.
 	- Supplied curriculum was insufficient so I created my own curriculum which is slowly being adapted into a [public GitHub repository](https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline).
 +   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. 
 	- Conducted small CTFs using Google Gruyere to teach XSS.
