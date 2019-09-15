@@ -14,8 +14,9 @@ Aspiring inventor of emerging technology.
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on several different makes & models.
 
 ## Undergraduate Research Assistant (September 2019 - Current)
-Conducting research in ultra-high speed mobile visible light communication for robotics. Responsible for developing embedded system and machine learning robotic features.
+Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using Li-Fi.
 +   Granted $8000 stipend from the National Science Foundation
++   Multiple Co-Authorships
 +   [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
 
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
