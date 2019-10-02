@@ -5,16 +5,18 @@ A diverse & multifaceted individual with high level technical & general communic
 
 ## STEM Personal Extracurricular (Ongoing)
 Aspiring inventor of emerging technology.
-+ Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19. 
-	- Built custom augmented data set using H5PY and Canny edge detection
++ Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19.
+	- Achieved 95% classification accuracy of 55 unique bacteria strains.
+	- Built custom augmented data set using H5PY and Canny edge detection pre processing
 	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification).
-+  Currently redesigning the Google Gruyere vulnerable web app to utilize a SQL database with SQLite3. 
-	- This will allow for a deeper curriculum that includes SQL injection lessons unavailable in the original version
-	- Python files are [publicly available on GitHub](https://github.com/rjdoubleu/gruyere).
-+ Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on several different makes & models.
+	- Authoring paper for CVPR 2020 submission with co-author [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
++ Building a Deep LSTM-CNN for Bitcoin price predictions using Keras
+	- Successfully implemented "workbench" model using a 1D Conv layer feeding into an LSTM layer
+	- Currently reading research papers for architecture insiration 
++ Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models.
 
 ## Undergraduate Research Assistant (September 2019 - Current)
-Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using Li-Fi.
+Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio.
 +   Granted $8000 stipend from the National Science Foundation
 +   Multiple Co-Authorships
 +   [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
@@ -22,7 +24,8 @@ Conducting research in ultra-high speed mobile visible light communication for r
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 Developing advanced workshops primarily in the scope of robotics curriculum.
 + Trained in CNC, wood fabrication, & 3DPrinterOS server administration.
-+ Building a Li-Fi Synthesizer for Maker Faire 2019
++ Authored 10,000+ words of electronics curriculum within 30 days.
++ Building a Li-Fi Synthesizer
 	- Utilizes OpenCV and Sonic Pi libraries
 	- Project is [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
 + Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, AITP
@@ -33,8 +36,7 @@ Intro to machine learning & intro to cyber security instructor for young adult
 	- Worked with a variety of datasets such as CIFAR & MNIST. 
 	- Managed custom TensorFlow Anaconda development environment. 
 	- Debugged more than 20 individual machine learning projects.
-	- Created a custom curriculum which is slowly being adapted into a [public GitHub repository](https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline).
-+   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. 
+	+   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. 
 	- Conducted small CTFs using Google Gruyere to teach XSS.
 +   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform.
 +   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out.
@@ -42,15 +44,15 @@ Intro to machine learning & intro to cyber security instructor for young adult
 
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
-+   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub system
++   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub agile system
 +   Robotics Division Leader:
 	- Human Machines (Fall 2018 - Current)
-		1. Project Gauntlet - 3D Printed Hand Prosthetic 
+		1. Project Hand - 3D Printed Hand Prosthetic 
 			+ Presented at Spring 2019 GSU Demo Day
 			+ [Publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 	- Drone Development (Fall 2019)
 		1. Project Drone - Design and 3D Print a drone chassis for a drone built from scratch
-		1. Drone Workshops - Parrot Mambo drones in MATLAB
+		1. Drone Workshops - Parrot Mambo drones in Workbench, Swift and Python
 +   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
 +   PantherHack HealthHack 2020 Chief Organizer - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
 
@@ -68,5 +70,5 @@ Concentration in hardware systems with a goal of learning how to best develop ma
 + Certifications in Progress: Stanford Machine Learning (Coursera)
 + Notable Business Electives: Accounting I & II, Business Legalities & Ethics, Economics, Intro to CIS
 + Avid participant of PayPal HackATL 2018, Emory HackATL 2018 & Volunteer/Coach at PantherHack 2019
-+ GSU 5 Week Blockchain Lab: created & deployed Ethereum Smart Contracts developed in Solidity
++ GSU 5 Week Blockchain Lab: created & deployed an Ethereum smart contract
 + Embedded Systems Project: [3D Printer Climate Control System](https://github.com/rjdoubleu/3D-Printer-Climate-Control)
