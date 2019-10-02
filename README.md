@@ -16,20 +16,18 @@ Aspiring inventor of emerging technology.
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models
 
 ## Undergraduate Research Assistant (September 2019 - Current)
-Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio.
+Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio. [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
 +   Currently researching analog to digital wave conversion
 +   Granted $8000 stipend from the National Science Foundation
 +   Multiple Co-Authorships
-+   [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
 
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 Developing advanced workshops primarily in the scope of robotics curriculum. 
 + Project Generation Committee Member
 + Trained in CNC, wood fabrication, & 3DPrinterOS server administration
 + Authored 10,000+ words of electronics curriculum within 30 days
-+ Building a Li-Fi Synthesizer
++ Building a Li-Fi Synthesizer [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
 	- Utilizes OpenCV and Sonic Pi libraries
-	- Project is [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
 + Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, & AITP
 
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
@@ -49,9 +47,8 @@ Responsible for organizing project development driven divisions & collaborating 
 +   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub agile system
 +   Robotics Division Leader:
 	- Human Machines (Fall 2018 - Current)
-		1. Project Hand - 3D Printed Hand Prosthetic
+		1. Project Hand - 3D Printed Hand Prosthetic [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 			+ Presented at Spring 2019 GSU Demo Day
-			+ [Publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 	- Drone Development (Fall 2019)
 		1. Project Drone - Design and 3D Print a drone chassis for a drone built from scratch
 		1. Drone Workshops - Parrot Mambo drones in Workbench, Swift and Python
