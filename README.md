@@ -12,7 +12,7 @@ Aspiring inventor of emerging technology.
 	- Authoring paper for CVPR 2020 submission with co-author [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Building a Deep LSTM-CNN for Bitcoin price predictions using Keras
 	- Successfully implemented "workbench" model using a 1D Conv layer feeding into an LSTM layer
-	- Currently reading research papers for architecture insiration 
+	- Currently reading research papers for deep architecture inspiration 
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models.
 
 ## Undergraduate Research Assistant (September 2019 - Current)
