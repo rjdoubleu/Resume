@@ -26,6 +26,7 @@ Developing advanced workshops primarily in the scope of robotics curriculum.
 + Project Generation Committee Member
 + Trained in CNC, wood fabrication, & 3DPrinterOS server administration
 + Authored 10,000+ words of electronics curriculum within 30 days
+	- Utilize fritizing software for clear circuit diagrams
 + Building a Li-Fi Synthesizer [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
 	- Utilizes OpenCV and Sonic Pi libraries
 + Liaison for tech organizations at GSU including PantherHackers, ACM, Girls who Code, Computer Science Club, & AITP
