@@ -6,14 +6,14 @@ A diverse & multifaceted individual with high level technical & general communic
 ## STEM Personal Extracurricular (Ongoing)
 Aspiring inventor of emerging technology.
 + Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19.
-	- Achieved 95% classification accuracy of 55 unique bacteria strains.
+	- Achieved 95% classification accuracy of 55 unique bacteria strains
 	- Built custom augmented data set using H5PY and OpenCV Canny edge detection pre processing
-	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification).
+	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
 	- Authoring paper for CVPR 2020 submission with co-author [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Building a Deep LSTM-CNN for Bitcoin price predictions using Keras
 	- Successfully implemented "workbench" model using a 1D Conv layer feeding into an LSTM layer
 	- Currently reading research papers for deep architecture inspiration 
-+ Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models.
++ Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models
 
 ## Undergraduate Research Assistant (September 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio.
@@ -25,8 +25,8 @@ Conducting research in ultra-high speed mobile visible light communication for r
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
 Developing advanced workshops primarily in the scope of robotics curriculum. 
 + Project Generation Committee Member
-+ Trained in CNC, wood fabrication, & 3DPrinterOS server administration.
-+ Authored 10,000+ words of electronics curriculum within 30 days.
++ Trained in CNC, wood fabrication, & 3DPrinterOS server administration
++ Authored 10,000+ words of electronics curriculum within 30 days
 + Building a Li-Fi Synthesizer
 	- Utilizes OpenCV and Sonic Pi libraries
 	- Project is [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
@@ -35,14 +35,14 @@ Developing advanced workshops primarily in the scope of robotics curriculum.
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
 +   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow 1.12. 
-	- Worked with a variety of datasets such as CIFAR-10 & MNIST. 
-	- Managed custom TensorFlow Anaconda development environment. 
-	- Debugged more than 20 individual machine learning projects.
-	+   Intro to Cybersecurity - Encryption algorithm basics & introduction to the Python cryptography library. 
-	- Conducted small CTFs using Google Gruyere to teach XSS.
-+   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform.
-+   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out.
-+   First Aid/CPR Certified Expiration May 2021.
+	- Worked with a variety of datasets such as CIFAR-10 & MNIST
+	- Managed custom TensorFlow Anaconda development environment 
+	- Debugged more than 20 individual machine learning projects
++   Intro to Cybersecurity - Encryption algorithm basics & introduction to the Python cryptography library 
+	- Conducted small CTFs using Google Gruyere to teach XSS
++   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform
++   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out
++   First Aid/CPR Certified Expiration May 2021
 
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
@@ -56,7 +56,7 @@ Responsible for organizing project development driven divisions & collaborating 
 		1. Project Drone - Design and 3D Print a drone chassis for a drone built from scratch
 		1. Drone Workshops - Parrot Mambo drones in Workbench, Swift and Python
 +   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
-+   PantherHack HealthHack 2020 Chief Organizer - Awarded $10,000 budget from State Farm for multidisciplinary hackathon.
++   PantherHack HealthHack 2020 Chief Organizer - Awarded $10,000 budget from State Farm for multidisciplinary hackathon
 
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
 Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
