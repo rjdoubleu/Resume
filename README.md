@@ -7,7 +7,7 @@ A diverse & multifaceted individual with high level technical & general communic
 Aspiring inventor of emerging technology.
 + Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19.
 	- Achieved 95% classification accuracy of 55 unique bacteria strains.
-	- Built custom augmented data set using H5PY and Canny edge detection pre processing
+	- Built custom augmented data set using H5PY and OpenCV Canny edge detection pre processing
 	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification).
 	- Authoring paper for CVPR 2020 submission with co-author [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Building a Deep LSTM-CNN for Bitcoin price predictions using Keras
@@ -23,21 +23,22 @@ Conducting research in ultra-high speed mobile visible light communication for r
 +   [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
 
 ## GSU EXLAB - Content Consultant  (Aug 2019 – Current)
-Developing advanced workshops primarily in the scope of robotics curriculum.
+Developing advanced workshops primarily in the scope of robotics curriculum. 
++ Project Generation Committee Member
 + Trained in CNC, wood fabrication, & 3DPrinterOS server administration.
 + Authored 10,000+ words of electronics curriculum within 30 days.
 + Building a Li-Fi Synthesizer
 	- Utilizes OpenCV and Sonic Pi libraries
 	- Project is [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
-+ Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, AITP
++ Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, & AITP
 
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
-Intro to machine learning & intro to cyber security instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
-+   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow. 
-	- Worked with a variety of datasets such as CIFAR & MNIST. 
+Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
++   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow 1.12. 
+	- Worked with a variety of datasets such as CIFAR-10 & MNIST. 
 	- Managed custom TensorFlow Anaconda development environment. 
 	- Debugged more than 20 individual machine learning projects.
-	+   Intro to Cyber Security - Encryption algorithm basics & introduction to the Python cryptography library. 
+	+   Intro to Cybersecurity - Encryption algorithm basics & introduction to the Python cryptography library. 
 	- Conducted small CTFs using Google Gruyere to teach XSS.
 +   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform.
 +   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out.
@@ -48,7 +49,7 @@ Responsible for organizing project development driven divisions & collaborating 
 +   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub agile system
 +   Robotics Division Leader:
 	- Human Machines (Fall 2018 - Current)
-		1. Project Hand - 3D Printed Hand Prosthetic 
+		1. Project Hand - 3D Printed Hand Prosthetic
 			+ Presented at Spring 2019 GSU Demo Day
 			+ [Publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 	- Drone Development (Fall 2019)
