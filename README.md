@@ -28,7 +28,7 @@ Developing advanced workshops primarily in the scope of robotics curriculum.
 + Authored 10,000+ words of electronics curriculum within 30 days
 + Building a Li-Fi Synthesizer [publicly available on GitHub](https://github.com/rjdoubleu/Li-Fi-Synth)
 	- Utilizes OpenCV and Sonic Pi libraries
-+ Liaison for technology driven organizations at GSU including PantherHackers, ACM, IEEE, Computer Science Club, & AITP
++ Liaison for tech organizations at GSU including PantherHackers, ACM, Girls who Code, Computer Science Club, & AITP
 
 ## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
