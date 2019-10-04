@@ -17,7 +17,7 @@ Aspiring inventor of emerging technology.
 
 ## Undergraduate Research Assistant (September 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio. [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
-+   Currently researching analog to digital wave conversion
++   Currently researching GHz analog to digital wave conversion
 +   Granted $8000 stipend from the National Science Foundation
 +   Multiple Co-Authorships
 
