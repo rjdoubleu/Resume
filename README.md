@@ -12,12 +12,17 @@ Aspiring inventor of emerging technology.
 	- Authoring paper for CVPR 2020 submission with co-author [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Building a Deep LSTM-CNN for Bitcoin price predictions using Keras
 	- Successfully implemented "workbench" model using a 1D Conv layer feeding into an LSTM layer
-	- Currently reading research papers for deep architecture inspiration 
+	- Currently reading research papers for deep architecture inspiration
+	- Studying echo state networks as an alternative to LSTM
++ Performed multiple network and antivirus exploits across Fulton County Schools WAN network ([2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/))
+	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect
+	- Fully co-operated with GBI investigators and FCS technical staff
+	- Teach ethical hacking private lessons
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models
 
 ## Undergraduate Research Assistant (September 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio. [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
-+   Currently researching GHz analog to digital wave conversion
++   Currently researching LED to camera LiFi communication using computer vision
 +   Granted $8000 stipend from the National Science Foundation
 +   Multiple Co-Authorships
 
