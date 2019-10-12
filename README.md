@@ -14,7 +14,7 @@ Aspiring inventor of emerging technology.
 	- Successfully implemented "workbench" model using a 1D Conv layer feeding into an LSTM layer
 	- Currently reading research papers for deep architecture inspiration
 	- Studying echo state networks as an alternative to LSTM
-+ Performed multiple network and antivirus exploits across Fulton County Schools WAN ([2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/))
++ Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect
 	- Fully co-operated with GBI investigators and FCS technical staff
 	- Currently teach ethical hacking private lessons
