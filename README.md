@@ -6,7 +6,7 @@ A diverse & multifaceted individual with high level technical & general communic
 ## STEM Personal Extracurricular (Ongoing)
 Aspiring inventor of emerging technology.
 + Created a Pseudomonas Aeruginosa bacteria strain classification Keras model using transfer learning from VGG-19.
-	- Achieved 95% classification accuracy of 55 unique bacteria strains
+	- Achieved 95% classification accuracy of 69 unique bacteria strains
 	- Built custom augmented data set using H5PY and OpenCV Canny edge detection pre processing
 	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
 	- Authoring paper for CVPR 2020 submission with co-author [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
