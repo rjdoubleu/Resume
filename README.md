@@ -10,7 +10,7 @@ Aspiring inventor of emerging technology.
 	- Built custom augmented data set using H5PY and OpenCV Canny edge detection pre processing
 	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
 	- Authoring paper for CVPR 2020 submission with co-author [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
-+ Building a Deep LSTM-CNN for Bitcoin price predictions using Keras
++ Building a Deep LSTM-CNN for Bitcoin price predictions using Keras 2.2.5
 	- Successfully implemented "workbench" model using a 1D Conv layer feeding into an LSTM layer
 	- Currently reading research papers for deep architecture inspiration
 	- Studying echo state networks as an alternative to LSTM
@@ -44,6 +44,7 @@ Intro to machine learning & intro to cybersecurity instructor for young adults
 	- Debugged more than 20 individual machine learning projects
 +   Intro to Cybersecurity - Encryption algorithm basics & introduction to the Python cryptography library 
 	- Conducted small CTFs using Google Gruyere to teach XSS
+	- Created brute force ceaser cipher decryption software with language detection, [publicly available on GitHub](https://github.com/rjdoubleu/Caesar-Cipher-Brute-Force)
 +   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform
 +   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out
 +   First Aid/CPR Certified Expiration May 2021
