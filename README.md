@@ -17,7 +17,7 @@ Aspiring inventor of emerging technology.
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN ([2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/))
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect
 	- Fully co-operated with GBI investigators and FCS technical staff
-	- Teach ethical hacking private lessons
+	- Currently teach ethical hacking private lessons
 + Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models
 
 ## Undergraduate Research Assistant (September 2019 - Current)
