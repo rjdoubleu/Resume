@@ -5,7 +5,7 @@ A diverse & multifaceted individual with high level technical & general communic
 
 ## intermx - Data Science Consultant (Aug 2019 - Current)
 Develop deep learning solutions for advanced geospatial data science challenges.
-+ Developed custom patch for Papermill integration into Google Colab [Repo](https://github.com/rjdoubleu/Colab-Papermill-Patch) [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
++ Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) | [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
 + Developing anaomaly detection from deep embedded clustering at scale (Proprietary)
 	- LSTM - Auto Encoder architechture built in Tensorflow 2.0
 	- Increased model convergence speed by 25% using Masking and Dynamic Batches 
