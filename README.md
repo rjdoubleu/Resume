@@ -5,7 +5,7 @@ A diverse & multifaceted individual with high level technical & general communic
 
 ## intermx - Data Science Consultant (Aug 2019 - Current)
 Develop deep learning solutions for advanced geospatial data science challenges.
-+ Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) | [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
++ Developed custom patch for Papermill integration into Google Colab ([Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) | [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70))
 + Developing anaomaly detection from deep embedded clustering at scale (Proprietary)
 	- LSTM - Auto Encoder architechture built in Tensorflow 2.0
 	- Increased model convergence speed by 25% using Masking and Dynamic Batches 
@@ -18,7 +18,7 @@ My passion is pursuing unique projects using emerging technology.
 	- Achieved 98% classification accuracy of 69 unique bacteria strains
 	- Built custom augmented data set using H5PY and NPY datasets
 	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
-	- Co-authored paper for CVPR 2020 submission with[Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
+	- Co-authored paper for CVPR 2020 submission with [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
