@@ -20,8 +20,11 @@ My passion is pursuing unique projects using emerging technology.
 + Created a Pseudomonas Aeruginosa bacteria strain classification using transfer learning from VGG-19.
 	- Achieved 98% classification accuracy of 69 unique bacteria strains
 	- Built custom augmented data set using H5PY and NPY datasets
-	- Google Colab IPython notebooks are [publicly available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
+	- Google Colab IPython notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
 	- Co-authored paper for CVPR 2020 submission with [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
++ Currently conducting an addtional round of Pseudomonas Aeruginosa research for treatment resistance prediction.
+	- Developed deep vanilla multi-regression model using transfer learning from the original paper.
+	- Currently developing novel AutoMasking model with custom layers in Tensorflow 2.0
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
