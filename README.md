@@ -11,6 +11,9 @@ Develop deep learning solutions for advanced geospatial data science challenges.
 	- Increased model convergence speed by 25% using Masking and Dynamic Batches 
 	- Fully documented runs using Wandb + TensorBoard integration
 + Performing feature engineering on big data sets (TB)
+	- Utilize Pandas for Dataframe storage
+	- Utilize Numpy and Lambda for vectorized calculations
+	- Well versed in Shapely & QGIS libraries and GeoJSON Specification. 
 
 ## STEM Personal Extracurricular (Ongoing)
 My passion is pursuing unique projects using emerging technology.
