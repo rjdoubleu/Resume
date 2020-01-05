@@ -49,7 +49,7 @@ Developing advanced workshops primarily in the scope of robotics curriculum.
 + Authored 10,000+ words of electronics curriculum within 30 days
 + Liaisoned for tech organizations at GSU including PantherHackers, ACM, Girls who Code
 
-## [iD Tech Summer Camp](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
+## [iD Tech](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
 +   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow 1.12. 
 	- Worked with a variety of datasets such as CIFAR-10 & MNIST
