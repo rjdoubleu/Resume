@@ -34,7 +34,6 @@ My passion is pursuing unique projects using emerging technology.
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
 	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux
-+ Self-taught mechanic: performed engine swaps, custom engine builds, custom engine harness wiring, transmission swaps & regular maintenance on a variety of makes & models
 
 ## Undergraduate Research Assistant (Sept. 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio. [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
