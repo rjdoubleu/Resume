@@ -3,7 +3,7 @@ A diverse & multifaceted individual with high level technical & general communic
 
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) 
 
-## intermx - Data Science Consultant (Aug 2019 - Current)
+## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug 2019 - Current)
 Develop deep learning solutions to overcome geospatial data science challenges.
 + Developing trajectory anaomaly detection from deep embedded clustering (Proprietary)
 	- LSTM - Auto Encoder architechture built in Tensorflow 2.0
@@ -42,14 +42,14 @@ Conducting research in ultra-high speed mobile visible light communication for r
 +   Granted $8000 stipend from the National Science Foundation
 +   Co-Authorship on SECON 2020 Submission 
 
-## GSU EXLAB - Content Consultant  (Aug. 2019 – Nov. 2019)
+## [GSU EXLAB](https://technology.gsu.edu/technology-services/it-services/labs-and-classrooms/exlab/) - Content Consultant  (Aug. 2019 – Nov. 2019)
 Developing advanced workshops primarily in the scope of robotics curriculum. 
 + Project Generation Committee Member
 + Trained in CNC, wood fabrication, & 3DPrinterOS server administration
 + Authored 10,000+ words of electronics curriculum within 30 days
 + Liaisoned for tech organizations at GSU including PantherHackers, ACM, Girls who Code
 
-## iD Tech Summer Camp - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
+## [iD Tech Summer Camp](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
 +   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow 1.12. 
 	- Worked with a variety of datasets such as CIFAR-10 & MNIST
