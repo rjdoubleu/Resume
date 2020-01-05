@@ -4,8 +4,8 @@ A diverse & multifaceted individual with high level technical & general communic
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) 
 
 ## intermx - Data Science Consultant (Aug 2019 - Current)
-Develop deep learning solutions for advanced geospatial data science challenges.
-+ Developing anaomaly detection from deep embedded clustering (Proprietary)
+Develop deep learning solutions to overcome geospatial data science challenges.
++ Developing trajectory anaomaly detection from deep embedded clustering (Proprietary)
 	- LSTM - Auto Encoder architechture built in Tensorflow 2.0
 	- Decreased model convergence time by 75% without increasing loss using Masking and Dynamic Batches
 	- Researching various other high dimensional anomaly detection methods (MAD-GAN, HDBSCAN, VAEs, etc).
