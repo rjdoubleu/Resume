@@ -35,9 +35,9 @@ My passion is pursuing unique projects using emerging technology.
 	- Fully co-operated with GBI investigators and FCS technical staff
 	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux
 
-## Undergraduate Research Assistant (Sept. 2019 - Current)
-Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems using software defined radio. [Project Link](https://sites.google.com/view/highspeedmobilevlc/home)
-+   Currently researching LED to camera LiFi communication using computer vision
+## [Undergraduate Research Assistant](https://sites.google.com/view/highspeedmobilevlc/home) (Sept. 2019 - Current)
+Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems.
++   Researching LED to stereo camera VLC using YOLO brake light detection
 +   Developed vehicle to vehicle transmitter prototype with the Arduino Uno and Nvidia Xavier
 +   Granted $8000 stipend from the National Science Foundation
 +   Co-Authorship on SECON 2020 Submission 
@@ -75,6 +75,8 @@ Responsible for organizing project development driven divisions & collaborating 
 
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
 Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
++ GSU 5 Week Blockchain Lab: created & deployed an Ethereum smart contract
++ Software Engineering Project: [Food Oasis](https://github.com/Food-Oasis)
 + Relevant CS Coursework:
 	+ Intro to Machine Learning (Fall 18 B-)
 		+ Built & trained neural networks in Python using Georgia Tech lab data with the NanoNet API
@@ -86,5 +88,3 @@ Concentration in hardware systems with a goal of learning how to best develop ma
 + Certifications: Deep Learning with MATLAB, Certified Bitcoin Professional (C4)
 + Notable Business Electives: Accounting I & II, Business Legalities & Ethics, Economics, Intro to CIS
 + Avid participant of PayPal HackATL 2018, Emory HackATL 2018 & Volunteer/Coach at PantherHack 2019
-+ GSU 5 Week Blockchain Lab: created & deployed an Ethereum smart contract
-+ Software Engineering Project: [Food Oasis](https://github.com/Food-Oasis)
