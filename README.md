@@ -17,7 +17,7 @@ Develop deep learning solutions to overcome geospatial data science challenges.
 
 ## STEM Personal Extracurricular (Ongoing)
 My passion is pursuing unique projects using emerging technology.
-+ Developed custom patch for Papermill integration into Google Colab ([Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) | [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70))
++ Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
 + Created a Pseudomonas Aeruginosa bacteria strain classification using transfer learning from VGG-19.
 	- Achieved 98% classification accuracy of 69 unique bacteria strains
 	- Utilized Keras 2.24 for model construction
