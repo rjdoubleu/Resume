@@ -23,7 +23,7 @@ My passion is pursuing unique projects using emerging technology.
 	- Utilized Keras 2.24 for model construction
 	- Built custom augmented data set using H5PY and NPY file systems
 	- Google Colab IPython notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
-	- Co-authored paper for CVPR 2020 submission with [Sam Brown (PhD](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
+	- Co-authored paper for CVPR 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Currently conducting an addtional round of Pseudomonas Aeruginosa research for treatment resistance prediction.
 	- Developed deep vanilla multi-regression model using transfer learning from the original paper.
 	- Currently developing novel AutoMasking model with custom layers in Tensorflow 2.0
@@ -65,14 +65,13 @@ Intro to machine learning & intro to cybersecurity instructor for young adults
 
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
-+   Designed & lead division centralization & standardization of operations to a G Suite, Trello & GitHub agile system
++   Founder of HealthHack Hackathon (March 27-29 2020)
 +   Robotics Division Leader:
 	- Human Machines (Fall 2018 - Current)
 		1. Project Hand - 3D Printed Hand Prosthetic [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
 			+ Presented at Spring 2019 GSU Demo Day
-	- Drone Development (Fall 2019)
-		1. Project Drone - Design and 3D Print a drone chassis for a drone built from scratch
-		1. Drone Workshops - Parrot Mambo drones in Workbench, Swift and Python
+			+ Presented at GSU Honor's College Fall 2019 GSU Reseach Series
+	- Drone Workshops - Parrot Mambo drones in Workbench and Swift
 +   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
 
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
