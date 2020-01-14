@@ -10,6 +10,7 @@ Develop deep learning solutions to overcome geospatial data science challenges.
 	- Decreased model convergence time by 75% without increasing loss using Masking and Dynamic Batches
 	- Researching various other high dimensional anomaly detection methods (MAD-GAN, HDBSCAN, VAEs, etc).
 + Performing feature engineering and deep learning at scale on big data sets (TB)
+	- Manage a Jupyter Lab AI instance on GCP
 	- Fully documented runs using Weights and Biases + TensorBoard integration
 	- Currently dividing workflow and parameterizing notebooks using Scrapbook and Papermill
 	- Utilize Pandas for Dataframe storage; Numpy and Lambda for vectorized calculations
