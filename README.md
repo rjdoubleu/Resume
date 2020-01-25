@@ -24,7 +24,7 @@ My passion is pursuing unique projects using emerging technology.
 + Created a Pseudomonas Aeruginosa bacteria strain classification using transfer learning from VGG-19 and ImageNet.
 	- Collaborated across 3 universities (GSU, UW-Madison, Georgia Tech).
 	- Solely responsible for model design and implementation (Keras 2.24)
-	- Used custom data augmentation to accomidate only 4 source samples per class 
+	- Used custom data augmentation to accommodate only 4 source samples per class 
 	- Achieved 98% classification accuracy across 69 unique bacteria strains 
 	- Utilized H5PY and NPY file systems for storage
 	- Google Colab IPython notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
@@ -32,9 +32,8 @@ My passion is pursuing unique projects using emerging technology.
 + Currently conducting an addtional round of P. Aeruginosa research for treatment resistance prediction.
 	- Developed deep vanilla multi-regression model using transfer learning from the original paper.
 	- Currently developing novel AutoMasking model with custom layers in Tensorflow 2.1
-+ On going crypto-currency prediction research
-	- Built CNN-LSTM for Bitcoin daily price predictions in Tensorflow 2.1
-	- Currently integrating into Dataiku DSS on private home server
+	- Aquired additional GSU undergraduate students to help document and research the new models
+	- Planning on CVPR 2021 submission
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
