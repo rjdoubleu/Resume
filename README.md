@@ -5,43 +5,47 @@ A diverse & multifaceted individual with high level technical & general communic
 
 ## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug 2019 - Current)
 Develop deep learning solutions to overcome geospatial data science challenges.
-+ Developing trajectory anaomaly detection from deep embedded clustering (Proprietary)
-	- LSTM - Auto Encoder architechture built in Tensorflow 2.0
++ Developing trajectory anaomaly detection from reconstruction error analysis (Proprietary)
+	- LSTM - Auto Encoder architechture built in Tensorflow 2.1
 	- Decreased model convergence time by 75% without increasing loss using Masking and Dynamic Batches
-	- Researching various other high dimensional anomaly detection methods (MAD-GAN, HDBSCAN, VAEs, etc).
+	- Researching efficiceny optimization methods (Attention for feature selection, Teacher-Student Networks, etc.)
+	- Researching other high dimensional anomaly detection methods (MAD-GAN, Ensemble S-RNN-AEs, T-CNNs, etc).
 + Performing feature engineering and deep learning at scale on big data sets (TB)
-	- Manage a Jupyter Lab AI instance on GCP
-	- Fully documented runs using Weights and Biases + TensorBoard integration
-	- Currently dividing workflow and parameterizing notebooks using Scrapbook and Papermill
+	- Manage a Jupyter Lab K80 AI instance on GCP
+	- Fully documented runs using Weights and Biases + TensorBoard
+	- Parameterizing notebooks using Scrapbook and Papermill
 	- Utilize Pandas for Dataframe storage; Numpy and Lambda for vectorized calculations
 	- Well versed in Shapely & QGIS libraries and GeoJSON Specification. 
-
+	- Initiated scaling process with AWS EMR Notebooks and Apache Superset
+	
 ## STEM Personal Extracurricular (Ongoing)
 My passion is pursuing unique projects using emerging technology.
 + Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
-+ Created a Pseudomonas Aeruginosa bacteria strain classification using transfer learning from VGG-19.
-	- Achieved 98% classification accuracy of 69 unique bacteria strains
-	- Utilized Keras 2.24 for model construction
-	- Built custom augmented data set using H5PY and NPY file systems
++ Created a Pseudomonas Aeruginosa bacteria strain classification using transfer learning from VGG-19 and ImageNet.
+	- Collaborated across 3 universities (GSU, UW-Madison, Georgia Tech).
+	- Solely responsible for model design and implementation (Keras 2.24)
+	- Used custom data augmentation to accomidate only 4 source samples per class 
+	- Achieved 98% classification accuracy across 69 unique bacteria strains 
+	- Utilized H5PY and NPY file systems for storage
 	- Google Colab IPython notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
 	- Co-authored paper for CVPR 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
-+ Currently conducting an addtional round of Pseudomonas Aeruginosa research for treatment resistance prediction.
++ Currently conducting an addtional round of P. Aeruginosa research for treatment resistance prediction.
 	- Developed deep vanilla multi-regression model using transfer learning from the original paper.
-	- Currently developing novel AutoMasking model with custom layers in Tensorflow 2.0
+	- Currently developing novel AutoMasking model with custom layers in Tensorflow 2.1
 + On going crypto-currency prediction research
-	- Built CNN-LSTM for Bitcoin daily price predictions in Tensorflow 2.0
+	- Built CNN-LSTM for Bitcoin daily price predictions in Tensorflow 2.1
 	- Currently integrating into Dataiku DSS on private home server
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
-	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux
+	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux, Python and Scratch
 
 ## [Undergraduate Research Assistant](https://sites.google.com/view/highspeedmobilevlc/home) (Sept. 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems.
 +   Researching LED to stereo camera VLC using YOLO brake light detection
 +   Developed vehicle to vehicle transmitter prototype with the Arduino Uno and Nvidia Xavier
 +   Granted $8000 stipend from the National Science Foundation
-+   Co-Authorship on SECON 2020 Submission 
++   Co-Authorship on MobiCom 2020 submission
 
 ## [GSU EXLAB](https://technology.gsu.edu/technology-services/it-services/labs-and-classrooms/exlab/) - Content Consultant  (Aug. 2019 – Nov. 2019)
 Developing advanced workshops primarily in the scope of robotics curriculum. 
@@ -66,7 +70,8 @@ Intro to machine learning & intro to cybersecurity instructor for young adults
 
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
-+   Founder of HealthHack Hackathon (March 27-29 2020)
++   Founder of HealthHack Hackathon (April 3-5 2020)
++   Personally funded PantherHackers CTF 2020
 +   Robotics Division Leader:
 	- Human Machines (Fall 2018 - Current)
 		1. Project Hand - 3D Printed Hand Prosthetic [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
