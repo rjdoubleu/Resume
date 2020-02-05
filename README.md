@@ -15,13 +15,13 @@ Develop deep learning solutions to overcome geospatial data science challenges.
 	- Fully documented runs using Weights and Biases + TensorBoard
 	- Parameterizing notebooks using Scrapbook and Papermill
 	- Utilize Pandas for Dataframe storage; Numpy and Lambda for vectorized calculations
-	- Well versed in Shapely & QGIS libraries and GeoJSON Specification. 
+	- Well versed in Shapely & QGIS libraries and GeoJSON Specification
 	- Initiated scaling process with AWS EMR Notebooks and Apache Superset
 	
 ## STEM Personal Extracurricular (Ongoing)
 My passion is pursuing unique projects using emerging technology.
 + Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
-+ Created a Pseudomonas Aeruginosa bacteria strain classification using transfer learning from VGG-19 and ImageNet.
++ Created a bacteria strain classification model using transfer learning from VGG-19 and ImageNet.
 	- Collaborated across 3 universities (GSU, UW-Madison, Georgia Tech).
 	- Solely responsible for model design and implementation (Keras 2.24)
 	- Used custom data augmentation to accommodate only 4 source samples per class 
@@ -29,11 +29,6 @@ My passion is pursuing unique projects using emerging technology.
 	- Utilized H5PY and NPY file systems for storage
 	- Google Colab IPython notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
 	- Co-authored paper for CVPR 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
-+ Currently conducting an addtional round of P. Aeruginosa research for treatment resistance prediction.
-	- Developed deep vanilla multi-regression model using transfer learning from the original paper.
-	- Currently developing novel AutoMasking model with custom layers in Tensorflow 2.1
-	- Aquired additional GSU undergraduate students to help document and research the new models
-	- Planning on CVPR 2021 submission
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
@@ -45,13 +40,6 @@ Conducting research in ultra-high speed mobile visible light communication for r
 +   Developed vehicle to vehicle transmitter prototype with the Arduino Uno and Nvidia Xavier
 +   Granted $8000 stipend from the National Science Foundation
 +   Co-Authorship on MobiCom 2020 submission
-
-## [GSU EXLAB](https://technology.gsu.edu/technology-services/it-services/labs-and-classrooms/exlab/) - Content Consultant  (Aug. 2019 – Nov. 2019)
-Developing advanced workshops primarily in the scope of robotics curriculum. 
-+ Project Generation Committee Member
-+ Trained in CNC, wood fabrication, & 3DPrinterOS server administration
-+ Authored 10,000+ words of electronics curriculum within 30 days
-+ Liaisoned for tech organizations at GSU including PantherHackers, ACM, Girls who Code
 
 ## [iD Tech](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. 
@@ -67,20 +55,9 @@ Intro to machine learning & intro to cybersecurity instructor for young adults
 +   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out
 +   First Aid/CPR Certified Expiration May 2021
 
-## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
-Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
-+   Founder of HealthHack Hackathon (April 3-5 2020)
-+   Personally funded PantherHackers CTF 2020
-+   Robotics Division Leader:
-	- Human Machines (Fall 2018 - Current)
-		1. Project Hand - 3D Printed Hand Prosthetic [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
-			+ Presented at Spring 2019 GSU Demo Day
-			+ Presented at GSU Honor's College Fall 2019 GSU Reseach Series
-	- Drone Workshops - Parrot Mambo drones in Workbench and Swift
-+   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
-
 ## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
 Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
++ FY21 Georgia State University Innovations Fund Voting Committee Member
 + GSU 5 Week Blockchain Lab: created & deployed an Ethereum smart contract
 + Software Engineering Project: [Food Oasis](https://github.com/Food-Oasis)
 + Relevant CS Coursework:
@@ -94,3 +71,22 @@ Concentration in hardware systems with a goal of learning how to best develop ma
 + Certifications: Deep Learning with MATLAB, Certified Bitcoin Professional (C4)
 + Notable Business Electives: Accounting I & II, Business Legalities & Ethics, Economics, Intro to CIS
 + Avid participant of PayPal HackATL 2018, Emory HackATL 2018 & Volunteer/Coach at PantherHack 2019
+
+## [GSU EXLAB](https://technology.gsu.edu/technology-services/it-services/labs-and-classrooms/exlab/) - Content Consultant  (Aug. 2019 – Nov. 2019)
+Developing advanced workshops primarily in the scope of robotics curriculum. 
++ Project Generation Committee Member
++ Trained in CNC, wood fabrication, & 3DPrinterOS server administration
++ Authored 10,000+ words of electronics curriculum within 30 days
++ Liaisoned for tech organizations at GSU including PantherHackers, ACM, Girls who Code
+
+## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
+Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
++   Founder of HealthHack Hackathon (April 3-5 2020)
++   Personally funded PantherHackers CTF 2020
++   Robotics Division Leader:
+	- Human Machines (Fall 2018 - Current)
+		1. Project Hand - 3D Printed Hand Prosthetic [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
+			+ Presented at Spring 2019 GSU Demo Day
+			+ Presented at GSU Honor's College Fall 2019 GSU Reseach Series
+	- Drone Workshops - Parrot Mambo drones in Workbench and Swift
++   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
