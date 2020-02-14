@@ -1,7 +1,12 @@
-# Ryan James Walden  
+# Ryan James Walden
+#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) 
+
 A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning with Tensorflow.
 
-#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) 
+|   |  Languages | Packages  | 
+|---|---|---|
+|**Proficient**| Python, Java  | Tensorflow 2.x, Pandas, Numpy, Papermill, Scrapbook, Plotly, Matplot |
+| **Familiar** | Scala, C++, MATLAB, SQL  | Spark, OpenCV, H3, Android Studio, MATLAB Image Processing Toolbox  | 
 
 ## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug 2019 - Current)
 Develop deep learning solutions to overcome geospatial data science challenges.
