@@ -1,5 +1,5 @@
 # Ryan James Walden
-#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) 
+#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
 
 A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning with Tensorflow.
 
