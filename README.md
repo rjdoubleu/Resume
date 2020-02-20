@@ -85,7 +85,6 @@ Developing advanced workshops primarily in the scope of robotics curriculum.
 
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Feb. 2020)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
-+   Founder of HealthHack Hackathon (April 3-5 2020)
 +   Personally funded PantherHackers CTF 2020
 +   Robotics Division Leader:
 	- Human Machines (Fall 2018 - Current)
