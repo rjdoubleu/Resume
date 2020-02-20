@@ -10,41 +10,40 @@ A diverse & multifaceted individual with high level technical & general communic
 
 ## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug 2019 - Current)
 Develop deep learning solutions to overcome geospatial data science challenges.
-+ Developing trajectory anaomaly detection from reconstruction error analysis (Proprietary)
-	- LSTM - Auto Encoder architechture built in Tensorflow 2.1
-	- Decreased model convergence time by 75% without increasing loss using Masking and Dynamic Batches
-	- Researching efficiceny optimization methods (Attention for feature selection, Teacher-Student Networks, etc.)
-	- Researching other high dimensional anomaly detection methods (MAD-GAN, Ensemble S-RNN-AEs, T-CNNs, etc).
-+ Performing feature engineering and deep learning at scale on big data sets (TB)
-	- Manage a Jupyter Lab K80 AI instance on GCP
-	- Fully documented runs using Weights and Biases + TensorBoard
-	- Parameterizing notebooks using Scrapbook and Papermill
-	- Utilize Pandas for Dataframe storage; Numpy and Lambda for vectorized calculations
-	- Well versed in Shapely & QGIS libraries and GeoJSON Specification
-	- Initiated scaling process with AWS EMR Notebooks and Apache Superset
++ Developing a deep unsupervised ETL pipeline anaomaly detection model on semi-structured time series data
+	- Model architechture built in Tensorflow 2.1, trained on Google Colab 
+	- Decreased model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
+	- Built a prototype inference pipeline (IP) on GCP AI Platform via Scrapbook and Papermill
+	- Working towards IP deployment on SageMaker with active learning via Spark on EMR
+	- Generate feature correlation and anomaly scoring reports using Plotly and AWS API Gateway
+	- Record and communicate training results internally via Weights and Biases
++ Developing feature engineering streaming job to handle 500 TB/month ETL pipeline
+	- Initially developed prototype in Python, currently refactoring to Scala
+	- Techniques include tokenizaiton, physics engineering, and cyclical feature engineering
+	- Working towards deployment on Apache Druid with realtime monitoring via Apache Superset
 	
 ## STEM Personal Extracurricular (Ongoing)
 My passion is pursuing unique projects using emerging technology.
 + Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
 + Created a bacteria strain classification model using transfer learning from VGG-19 and ImageNet.
 	- Collaborated across 3 universities (GSU, UW-Madison, Georgia Tech).
-	- Solely responsible for model design and implementation (Keras 2.24)
-	- Used custom data augmentation to accommodate only 4 source samples per class 
+	- Implemented using Google Colab and Keras 2.24
 	- Achieved 98% classification accuracy across 69 unique bacteria strains 
++ Used custom data augmentation to accommodate only 4 source samples per class 
 	- Utilized H5PY and NPY file systems for storage
 	- Google Colab IPython notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
-	- Co-authored paper for CVPR 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
+	- Co-authored paper for ECCV 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
-	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux, Python and Scratch
+	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux, Python, and Scratch
 
 ## [Undergraduate Research Assistant](https://sites.google.com/view/highspeedmobilevlc/home) (Sept. 2019 - Current)
 Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems.
 +   Researching LED to stereo camera VLC using YOLO brake light detection
-+   Developed vehicle to vehicle transmitter prototype with the Arduino Uno and Nvidia Xavier
++   Developed vehicle to vehicle transmitter prototype with C++ and Python
 +   Granted $8000 stipend from the National Science Foundation
-+   Co-Authorship on MobiCom 2020 submission
++   Co-Authorship on MobiCom 2020 submission with [Ashwin Ashok (PhD)](https://cas.gsu.edu/profile/ashwin-ashok/)
 
 ## [iD Tech](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. 
@@ -84,7 +83,7 @@ Developing advanced workshops primarily in the scope of robotics curriculum.
 + Authored 10,000+ words of electronics curriculum within 30 days
 + Liaisoned for tech organizations at GSU including PantherHackers, ACM, Girls who Code
 
-## PantherHackers - Chief Technical Officer  (Nov. 2018 – Current)
+## PantherHackers - Chief Technical Officer  (Nov. 2018 – Feb. 2020)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
 +   Founder of HealthHack Hackathon (April 3-5 2020)
 +   Personally funded PantherHackers CTF 2020
