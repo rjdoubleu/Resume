@@ -14,9 +14,9 @@ Develop deep learning solutions to overcome geospatial data science challenges.
 	- Model architechture built in Tensorflow 2.1, trained on Google Colab 
 	- Decreased model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
 	- Built a prototype inference pipeline (IP) on GCP AI Platform via Scrapbook and Papermill
-	- Working towards IP deployment on SageMaker with active learning via Spark on EMR
+	- Working towards Spark IP endpoint deployment via SageMaker
 	- Generate feature correlation and anomaly scoring reports using Plotly and AWS API Gateway
-	- Record and communicate training results internally via Weights and Biases
+	- Record and communicate training results internally via custom Weights and Biases callback
 + Developing feature engineering streaming job to handle 500 TB/month ETL pipeline
 	- Initially developed prototype in Python, currently refactoring to Scala
 	- Techniques include tokenizaiton, physics engineering, and cyclical feature engineering
