@@ -3,6 +3,15 @@
 
 A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning with Tensorflow. Passionate about productionized machine learning in cloud environments.
 
+| Certification | Organization |
+|---|---|
+| Analyze Data with SQL Skill Path | Codecademy |
+| Developing Machine Learning Apps | AWS|
+| Deep Learning with MATLAB 	   | MATLAB |
+| Python (Programming Langauge)	   | LinkedIn Assesments|
+| Certified Bitcoin Proffesional   | C4 |
+
+
 |   |  Languages | Packages  | 
 |---|---|---|
 |**Proficient**| Python, Java, SQL  | Tensorflow 2.x, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplot |
