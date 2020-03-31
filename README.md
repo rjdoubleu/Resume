@@ -1,47 +1,45 @@
 # Ryan James Walden
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
 
-A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning with Tensorflow.
+A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning with Tensorflow. Passionate about productionized machine learning in cloud environments.
 
 |   |  Languages | Packages  | 
 |---|---|---|
-|**Proficient**| Python, Java  | Tensorflow 2.x, Pandas, Numpy, Papermill, Scrapbook, Plotly, Matplot |
-| **Familiar** | Scala, Docker, MATLAB, C++, SQL  | Spark, OpenCV, H3, Android Studio, MATLAB Image Processing Toolbox  | 
+|**Proficient**| Python, Java, SQL  | Tensorflow 2.x, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplot |
+| **Familiar** | Scala, Docker, MATLAB, C++  | Spark, OpenCV, H3, Android Studio, MATLAB Image Processing Toolbox  | 
 
 ## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug 2019 - Current)
 Develop deep learning solutions to overcome geospatial data science challenges.
-+ Developing a deep unsupervised ETL pipeline anaomaly detection model on semi-structured time series data
-	- Model architechture built in Tensorflow 2.1, trained on Google Colab 
++ Developing a deep unsupervised trajectory anomaly detection model on semi-structured time series data
+	- Tools used: TensorFlow, Docker AWS, GCP, Pandas, JupyterLab, Weights and Biases
 	- Decreased model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
-	- Built a prototype inference pipeline (IP) on GCP AI Platform via Scrapbook and Papermill
-	- Working towards Spark IP endpoint deployment via SageMaker
-	- Generate feature correlation and anomaly scoring reports using Plotly and AWS API Gateway
-	- Record and communicate training results internally via custom Weights and Biases callback
+	- Custom container for integrating Weights and Biases into SageMaker 
 + Developing feature engineering streaming job to handle 500 TB/month ETL pipeline
-	- Initially developed prototype in Python, currently refactoring to Scala
-	- Techniques include tokenizaiton, physics engineering, and cyclical feature engineering
-	- Working towards deployment on Apache Druid with realtime monitoring via Apache Superset
+	- Tools used: Spark, SQL, Scala, Apache Kafka
+	- Discriminates form of travel in a real-time stream through physics engineering
 	
-## STEM Personal Extracurricular (Ongoing)
+## STEM Personal Research & Development (Ongoing)
 My passion is pursuing unique projects using emerging technology.
 + Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
-+ Created a bacteria strain classification model using transfer learning from VGG-19 and ImageNet.
-	- Collaborated across 3 universities (GSU, UW-Madison, Georgia Tech).
-	- Implemented using Google Colab and Keras 2.24
-	- Achieved 98% classification accuracy across 69 unique bacteria strains 
-+ Used custom data augmentation to accommodate only 4 source samples per class 
-	- Utilized H5PY and NPY file systems for storage
-	- Google Colab IPython notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
-	- Co-authored paper for ECCV 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
++ Created a bacteria strain classification model using data augmentation and transfer learning from VGG-19 and ImageNet.
+	- Tools used: TensorFlow, Weights and Biases, GCP, JupyterLab, H5PY, Numpy
+	- Custom data augmentation technique resulted in 96% accuracy across 69 classes with only 4 original samples per class
+	- Collaborated remotely across 3 universities (GSU, UW-Madison, Georgia Tech).
+	- Performed a combination of automated hyperparamter optimization and hand-tuning.
+	- JupyterLab notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
+	- Co-authored paper for MICCAI 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
 + Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
 	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
 	- Fully co-operated with GBI investigators and FCS technical staff
 	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux, Python, and Scratch
 
 ## [Undergraduate Research Assistant](https://sites.google.com/view/highspeedmobilevlc/home) (Sept. 2019 - Current)
-Conducting research in ultra-high speed mobile visible light communication for robotics. Specifically assigned to developing autonomous vehicle communication systems.
+Conducting research in mobile visible light communication for autonomous vehicle warning systems.
++   Hardware used: Arduino IDE, Jetson Xavier, Adafruit supplies
 +   Researching LED to stereo camera VLC using YOLO brake light detection
 +   Developed vehicle to vehicle transmitter prototype with C++ and Python
++   Customized container and wirring harnesss for easy transportation
++   Currently downsizing by 1:10 for RC car fitment
 +   Granted $8000 stipend from the National Science Foundation
 +   Co-Authorship on MobiCom 2020 submission with [Ashwin Ashok (PhD)](https://cas.gsu.edu/profile/ashwin-ashok/)
 
