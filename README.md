@@ -1,7 +1,7 @@
 # Ryan James Walden
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
 
-A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning with Tensorflow. Passionate about productionized machine learning in cloud environments.
+A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning engineering.
 
 | Certification | Organization |
 |---|---|
@@ -14,43 +14,64 @@ A diverse & multifaceted individual with high level technical & general communic
 
 |   |  Languages | Packages  | 
 |---|---|---|
-|**Proficient**| Python, Java, SQL  | Tensorflow 2.x, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplot |
-| **Familiar** | Scala, Docker, MATLAB, C++  | Spark, OpenCV, H3, Android Studio, MATLAB Image Processing Toolbox  | 
+|**Proficient**| Python, Java, SQL, C# | TensorFlow 2.x, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplot |
+| **Familiar** | Scala, Docker, MATLAB, C++  | Spark, OpenCV, Unity, Android Studio, MATLAB Image Processing Toolbox  | 
 
-## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug 2019 - Current)
-Develop deep learning solutions to overcome geospatial data science challenges.
-+ Developing a deep unsupervised trajectory anomaly detection model on semi-structured time series data
-	- Tools used: TensorFlow, Docker AWS, GCP, Pandas, JupyterLab, Weights and Biases
-	- Decreased model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
-	- Custom container for integrating Weights and Biases into SageMaker 
-+ Developing feature engineering streaming job to handle 500 TB/month ETL pipeline
-	- Tools used: Spark, SQL, Scala, Apache Kafka
-	- Discriminates form of travel in a real-time stream through physics engineering
-	
-## STEM Personal Research & Development (Ongoing)
-My passion is pursuing unique projects using emerging technology.
-+ Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
-+ Created a bacteria strain classification model using data augmentation and transfer learning from VGG-19 and ImageNet.
-	- Tools used: TensorFlow, Weights and Biases, GCP, JupyterLab, H5PY, Numpy
+## Independent Deep Learning Research & Development (Ongoing)
+My passion is productionizing unique projects powered by deep learning.
++ Actively researching models for space domain awareness. 
+	- Investigating residual cnn and vanilla cnn network performance on blurred images
+	- Investigating multi task and curriculum learning techniques
+	- Tools used: TensorFlow, Weights and Biases, AWS, Unity Engine, Numpy/NumSharp, H5PY
+	- Synthetic data generation via 3D rendering in Unity
+	- Leading research team of GSU undergraduates, Accepted into AMOS 2020
+	- Member of GSU's Remote Sensing For Space Sciences research group
++ Developed several bioinformatics models for bacteria strain classification
+	- Investigated transfer learning using VGG-16/19.
+	- Tools used: TensorFlow, Weights and Biases, GCP, H5PY, Numpy
 	- Custom data augmentation technique resulted in 96% accuracy across 69 classes with only 4 original samples per class
 	- Collaborated remotely across 3 universities (GSU, UW-Madison, Georgia Tech).
-	- Performed a combination of automated hyperparamter optimization and hand-tuning.
 	- JupyterLab notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
 	- Co-authored paper for MICCAI 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
-+ Performed multiple network and antivirus exploits across Fulton County Schools WAN, [2015 AJC Article](https://www.ajc.com/news/north-springs-student-accused-hacking-system-changing-grades/oUaGYBoPcynVYKoFG4zFdL/)
-	- This incredible series of ethical and moral mistakes was a hard lesson learned in respect of privacy
-	- Fully co-operated with GBI investigators and FCS technical staff
-	- Currently teach weekly ethical hacking & computer science private lessons using Kali Linux, Python, and Scratch
++ Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
++ Currently teach weekly computer sciences lessons (ages 10 through 13).
 
-## [Undergraduate Research Assistant](https://sites.google.com/view/highspeedmobilevlc/home) (Sept. 2019 - Current)
+## [The Proven Method](https://www.provenmethod.com/) - Software Engineer (May 2020 - Current)
+Contractor for The Home Depot
++ Member of the insights team, focused on developing a platform for supplier analytics 
++ Additionally researching TensorFlow Hub Transformers for customer segmentation for the machine learning team
+	
+## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
+Developed deep learning solutions to overcome geospatial data science challenges.
++ Deep unsupervised trajectory anomaly detection model on semi-structured time series data
+	- Tools used: TensorFlow, Docker AWS, GCP, Pandas, Weights and Biases
+	- Decreased model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
+	- Developed custom container for integrating Weights and Biases into SageMaker
++ Investigated feature engineering streaming job to handle 500 TB/month ETL pipeline
+	- Tools used: Spark, SQL, Scala, Apache Kafka
+	- Discriminates form of travel in a real-time stream through physics engineering
+
+## Georgia State University – B.S. Computer Science
+In my final year and half, changed my focus and curriculum to encompass machine learning research and development.
++ Intro to Machine Learning
+	- Conducted image segmentation techniques in Julia & Python.
+	- Began my Pseudomonas Aeruginosa research 
++ Intro to Deep Learning
+	- Used NumPy to implement simple neural networks, backpropagation, weight normalization, etc.
+	- Began my Space Domain Awareness research
++ Big Data Programming
+	- Used Scala to develop Apache Spark programs
+	- Familiarized myself with many features within AWS
+
+## [Undergraduate Research Assistant](https://sites.google.com/view/highspeedmobilevlc/home) (Sept. 2019 - May 2020)
 Conducting research in mobile visible light communication for autonomous vehicle warning systems.
 +   Hardware used: Arduino IDE, Jetson Xavier, Adafruit supplies
 +   Researching LED to stereo camera VLC using YOLO brake light detection
 +   Developed vehicle to vehicle transmitter prototype with C++ and Python
 +   Customized container and wirring harnesss for easy transportation
-+   Currently downsizing by 1:10 for RC car fitment
 +   Granted $8000 stipend from the National Science Foundation
 +   Co-Authorship on MobiCom 2020 submission with [Ashwin Ashok (PhD)](https://cas.gsu.edu/profile/ashwin-ashok/)
+
 
 ## [iD Tech](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. 
@@ -65,30 +86,6 @@ Intro to machine learning & intro to cybersecurity instructor for young adults
 +   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform
 +   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out
 +   First Aid/CPR Certified Expiration May 2021
-
-## Georgia State University – B.S. Computer Science  (Jan. 2016 – May 2020)
-Concentration in hardware systems with a goal of learning how to best develop machine learning models  for robotics.
-+ FY21 Georgia State University Innovations Fund Voting Committee Member
-+ GSU 5 Week Blockchain Lab: created & deployed an Ethereum smart contract
-+ Software Engineering Project: [Food Oasis](https://github.com/Food-Oasis)
-+ Relevant CS Coursework:
-	+ Intro to Machine Learning (Fall 18 B-)
-		+ Built & trained neural networks in Python using Georgia Tech lab data with the NanoNet API
-		+ Conducted image segmentation techniques in Julia & Python
-	+ Design & Analysis of Algorithms (Spring 19 B-)
-		+ Translated binary tree, Prim’s MST, & Dijkstra’s SPT pseudocode into Java, Python & C
-	+ Intro to Computer Vision (Spring 19 B)
-		+ MATLAB Image Processing Toolbox to perform edge, object & motion detection
-+ Certifications: Deep Learning with MATLAB, Certified Bitcoin Professional (C4)
-+ Notable Business Electives: Accounting I & II, Business Legalities & Ethics, Economics, Intro to CIS
-+ Avid participant of PayPal HackATL 2018, Emory HackATL 2018 & Volunteer/Coach at PantherHack 2019
-
-## [GSU EXLAB](https://technology.gsu.edu/technology-services/it-services/labs-and-classrooms/exlab/) - Content Consultant  (Aug. 2019 – Nov. 2019)
-Developing advanced workshops primarily in the scope of robotics curriculum. 
-+ Project Generation Committee Member
-+ Trained in CNC, wood fabrication, & 3DPrinterOS server administration
-+ Authored 10,000+ words of electronics curriculum within 30 days
-+ Liaisoned for tech organizations at GSU including PantherHackers, ACM, Girls who Code
 
 ## PantherHackers - Chief Technical Officer  (Nov. 2018 – Feb. 2020)
 Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
