@@ -6,7 +6,7 @@ A diverse & multifaceted individual with high level technical & general communic
 |   |  Languages | Packages  | 
 |---|---|---|
 |**Proficient**| Python, Java, SQL, C#, Bash | TensorFlow, Sklearn, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplotlib |
-| **Familiar** | Scala, Docker, MATLAB, C++, HMTL+CSS  | Spark, OpenCV, Unity, Flask, Android Studio, MATLAB Image Processing Toolbox  | 
+| **Familiar** | Scala, Docker, MATLAB, C, HMTL+CSS  | Spark, OpenCV, Unity, Flask, MATLAB Image Processing Toolbox  | 
 
 ## Independent Deep Learning Research & Development (Ongoing)
 My passion is productionizing unique projects powered by deep learning in the cloud.
