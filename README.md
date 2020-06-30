@@ -3,65 +3,69 @@
 
 A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning engineering.
 
-| Certification | Organization |
-|---|---|
-| Analyze Data with SQL Skill Path | Codecademy |
-| Developing Machine Learning Apps | AWS|
-| Deep Learning with MATLAB 	   | MATLAB |
-| Python (Programming Langauge)	   | LinkedIn Assesments|
-| Certified Bitcoin Proffesional   | C4 |
-
-
 |   |  Languages | Packages  | 
 |---|---|---|
-|**Proficient**| Python, Java, SQL, C# | TensorFlow 2.x, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplot |
-| **Familiar** | Scala, Docker, MATLAB, C++  | Spark, OpenCV, Unity, Android Studio, MATLAB Image Processing Toolbox  | 
+|**Proficient**| Python, Java, SQL, C#, Bash | TensorFlow, Sklearn, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplotlib |
+| **Familiar** | Scala, Docker, MATLAB, C++, HMTL+CSS  | Spark, OpenCV, Unity, Flask, Android Studio, MATLAB Image Processing Toolbox  | 
 
 ## Independent Deep Learning Research & Development (Ongoing)
-My passion is productionizing unique projects powered by deep learning.
+My passion is productionizing unique projects powered by deep learning in the cloud.
 + Actively researching models for space domain awareness. 
-	- Investigating residual cnn and vanilla cnn network performance on blurred images
-	- Investigating multi task and curriculum learning techniques
-	- Tools used: TensorFlow, Weights and Biases, AWS, Unity Engine, Numpy/NumSharp, H5PY
-	- Synthetic data generation via 3D rendering in Unity
-	- Leading research team of GSU undergraduates, Accepted into AMOS 2020
+	- Investigating residual cnn and vanilla cnn network performance on blurred satellite image analysis
+	- Investigating multi-task and curriculum learning techniques
+	- Synthetic dataset generation via 3D rendering
+	- Multi-GPU EC2 instance clustering for parallel hyperparameter optimizaiton
+	- Leading research team of GSU undergraduates, Accepted into AMOSTech 2020
 	- Member of GSU's Remote Sensing For Space Sciences research group
+	- Cloud: Amazon Web Services (AWS)
+	- Languages: Bash, Docker, Python, C#
+	- Tools: TensorFlow 2.0, Unity Engine, Docker+ECR, S3, SageMaker, AWS Batch, Weights and Biases, NumPy, Pandas, Sklearn
 + Developed several bioinformatics models for bacteria strain classification
 	- Investigated transfer learning using VGG-16/19.
-	- Tools used: TensorFlow, Weights and Biases, GCP, H5PY, Numpy
 	- Custom data augmentation technique resulted in 96% accuracy across 69 classes with only 4 original samples per class
 	- Collaborated remotely across 3 universities (GSU, UW-Madison, Georgia Tech).
-	- JupyterLab notebooks are [privately available on GitHub](https://github.com/rjdoubleu/Pseudomonas-Aeruginosa-Colony-Classification)
-	- Co-authored paper for MICCAI 2020 submission with [Sam Brown (PhD)](https://biosciences.gatech.edu/people/sam-brown) and [Daniel Pimentel-Alarcón (PhD)](https://danielpimentel.github.io/)
-+ Developed custom patch for Papermill integration into Google Colab [Repository](https://github.com/rjdoubleu/Colab-Papermill-Patch) & [Medium Story](https://medium.com/@ryanwalden/how-to-use-papermill-in-google-colab-9f83df1dcb70)
+	- Invited to participate in PhD. research by Daniel Pimentel-Alarcón
+	- Pre-print coming soon to arXiv.
+	- Cloud: Google Cloud Platform (GCP)
+	- Languages: Bash, Python
+	- Tools: TensorFlow 2.0, H5PY, Weigths and Biases, AI Platform, NumPy, Pandas
 + Currently teach weekly computer sciences lessons (ages 10 through 13).
 
-## [The Proven Method](https://www.provenmethod.com/) - Software Engineer (May 2020 - Current)
-Contractor for The Home Depot
-+ Member of the insights team, focused on developing a platform for supplier analytics 
-+ Additionally researching TensorFlow Hub Transformers for customer segmentation for the machine learning team
+## [The Home Depot](https://www.homedepot.com/) - Software Engineer (May 2020 - Current)
+The Proven Method Contract Software Engineer for The Home Depot
++ Full Stack engineer on the EDW team
++ Developed a SQL and MDX Flask endpoint for load testing our AtScale Cubes
++ Introduced the EDW Machine Learning team to transformers (BERT & XLNet)
+	- Developed HuggingFace and TensorFlow Hub proof of concept notebooks
++ Implemented customer project embeddings proof of concept for customer receipt clustering
+	- Utilized exisiting Gensim item embeddings and implemented a rolling window mean embedding notebook
+	- Performed CPU multithreading for generating new embeddings
+	- Visualized and compared embeddings with Wordles and cosine simularity
++ Cloud: Google Cloud Platform (GCP)
++ Languages: Python, SQL, Bash
++ Tools: BigQuery, AI Platform, GCS, AtScale, Flask, PyTorch, TensorFlow
 	
 ## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
 Developed deep learning solutions to overcome geospatial data science challenges.
 + Deep unsupervised trajectory anomaly detection model on semi-structured time series data
-	- Tools used: TensorFlow, Docker AWS, GCP, Pandas, Weights and Biases
-	- Decreased model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
-	- Developed custom container for integrating Weights and Biases into SageMaker
-+ Investigated feature engineering streaming job to handle 500 TB/month ETL pipeline
-	- Tools used: Spark, SQL, Scala, Apache Kafka
-	- Discriminates form of travel in a real-time stream through physics engineering
+	- Decreased LSTM model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
+	- Developed custom container for integrating Weights and Biases into SageMaker Estimators
++ Cloud: Google Cloud Platform (GCP)
++ Languages: Python, SQL, Bash, Scala
++ Tools used: TensorFlow, Docker, AWS, GCP, Pandas, Weights and Biases, Spark, QGIS
 
 ## Georgia State University – B.S. Computer Science
 In my final year and half, changed my focus and curriculum to encompass machine learning research and development.
 + Intro to Machine Learning
 	- Conducted image segmentation techniques in Julia & Python.
-	- Began my Pseudomonas Aeruginosa research 
+	- Began my bacteria research 
 + Intro to Deep Learning
 	- Used NumPy to implement simple neural networks, backpropagation, weight normalization, etc.
-	- Began my Space Domain Awareness research
+	- Invited to participate in PhD. research by Professor Jonathan Shihao Ji
+	- Began my space domain awareness research
 + Big Data Programming
 	- Used Scala to develop Apache Spark programs
-	- Familiarized myself with many features within AWS
+	- Developed a severless website using AWS (CloudFront, API Gateway, Lambda, IAM, S3)
 
 ## [Undergraduate Research Assistant](https://sites.google.com/view/highspeedmobilevlc/home) (Sept. 2019 - May 2020)
 Conducting research in mobile visible light communication for autonomous vehicle warning systems.
@@ -71,7 +75,6 @@ Conducting research in mobile visible light communication for autonomous vehicle
 +   Customized container and wirring harnesss for easy transportation
 +   Granted $8000 stipend from the National Science Foundation
 +   Co-Authorship on MobiCom 2020 submission with [Ashwin Ashok (PhD)](https://cas.gsu.edu/profile/ashwin-ashok/)
-
 
 ## [iD Tech](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
 Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. 
