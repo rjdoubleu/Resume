@@ -6,7 +6,7 @@ A diverse & multifaceted individual with high level technical & general communic
 |   |  Languages | Packages  | 
 |---|---|---|
 |**Proficient**| Python, Java, SQL, C#, Docker | TensorFlow, Sklearn, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplotlib |
-| **Familiar** | Scala, Bash, MATLAB, HMTL+CSS, Golang  | Flask, Spark, OpenCV, Unity Engine, Flask, MATLAB Image Processing Toolbox  | 
+| **Familiar** | Scala, Bash, MATLAB, HMTL+CSS, Golang  | Flask, Spark, OpenCV, Unity Engine, MATLAB Image Processing Toolbox  | 
 
 | Paper | Conference | Contribution | Year | 
 |---|---|---|---|
