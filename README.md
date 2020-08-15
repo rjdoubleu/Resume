@@ -1,12 +1,17 @@
 # Ryan James Walden
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
 
-A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and deep learning engineering.
+A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and applied deep learning engineering and research.
 
 |   |  Languages | Packages  | 
 |---|---|---|
-|**Proficient**| Python, Java, SQL, C#, Bash | TensorFlow, Sklearn, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplotlib |
-| **Familiar** | Scala, Docker, MATLAB, HMTL+CSS, Golang  | Spark, OpenCV, Unity Engine, Flask, MATLAB Image Processing Toolbox  | 
+|**Proficient**| Python, Java, SQL, C#, Docker | TensorFlow, Sklearn, Pandas, NumPy, Papermill, Scrapbook, Plotly, Matplotlib |
+| **Familiar** | Scala, Bash, MATLAB, HMTL+CSS, Golang  | Flask, Spark, OpenCV, Unity Engine, Flask, MATLAB Image Processing Toolbox  | 
+
+| Paper | Conference | Contribution | Year | 
+|---|---|---|---|
+| See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
+| Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA |  AMOS Conference | Primary Author |  2020 |
 
 ## Independent Deep Learning Research & Development (Ongoing)
 My passion is productionizing unique projects powered by deep learning in the cloud.
