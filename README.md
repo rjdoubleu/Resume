@@ -6,52 +6,56 @@ A diverse & multifaceted individual with high level technical & general communic
 |   |  Languages | Packages  | 
 |---|---|---|
 |**Proficient**| Python, Java, SQL, C#, Docker | TensorFlow, Weights and Biases, Scikit-learn, Pandas, NumPy, Plotly, Matplotlib |
-| **Familiar** | Scala, Bash, MATLAB, HMTL+CSS, Golang  | Flask, Spark, OpenCV, Unity Engine, Pytorch  | 
+| **Familiar** | Scala, Bash, MATLAB, HMTL+CSS, Golang  | Unity Engine (Simulation), Pytorch, Kubernetes, Flask, Spark  | 
 
 | Paper | Conference | Contribution | Year | 
 |---|---|---|---|
 | See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
-| Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA |  AMOS Conference | Primary Author |  2020 |
+| [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
 
-## Independent Deep Learning Research & Development (Ongoing)
-My passion is productionizing unique projects powered by deep learning.
-+ Actively researching deep CNN models for space domain awareness. 
+## Rosenblatt LLC - Founder (Ongoing)
+My part-time deep learning research and development group.
++ Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
 	- Leading and personally funding a sattellite characterization research team
 	- Primary author and presenter of paper accepted into AMOSTech 2020
-	- Developed the first restoration-free satellite characterization model for classifying Kolmogorov blurred images
+	- Invited to present at L3Harris Data Science Working Group 2020
+	- Developed the first restoration-free satellite characterization model for classifying Kolmogorov blurred images with >90% accuracy
+	- Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
 	- Orchestrated cost optimized multi-GPU, multi-worker training cluster on AWS Batch
+	- Cloud: Amazon Web Services (AWS)
 	- Languages: Bash, Docker, Python, C#
 	- Tools: TensorFlow 2.3, Unity Engine, Docker+ECR, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn
 + Developed several bioinformatics CNN models for bacteria strain classification
 	- Investigated transfer learning using VGG-16/19 on GCP AI Platform
 	- Custom data augmentation technique resulted in 96% accuracy across 69 classes with only 4 original samples per class
+	- Cloud: Google Cloud Platform (GCP)
 	- Collaborated remotely across 3 universities (GSU, UW-Madison, Georgia Tech).
 	- Languages: Bash, Python
-	- Tools: TensorFlow 2.0, H5PY, Weigths and Biases, GCP AI Platform, NumPy, Pandas
+	- Tools: TensorFlow 2.0, H5PY, Weigths and Biases, AI Platform, NumPy, Pandas
 
 ## The Home Depot - Software Engineer (May 2020 - Current)
 The Proven Method Contract Software Engineer for The Home Depot
 + Flask API engineer on the EDW team
-	- Developed SQL and MDX endpoints for load testing, resulting in API bottleneck identifications
+	- Created aggregate service reducing api response time by 50% on average
+	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
 	- Reformatted procedural library to fully object oriented, minimizing redundant results caching
-	- Utilized dynamic programming to rebuild search functions, decreasing maximum search time by 50%
 + Introduced the EDW Machine Learning team to transformers (BERT & XLNet)
-+ Implemented customer project embeddings proof of concept for EDW Machine Learning team
-	- Proof of concept proved "invaluable" to the marketing depratment, seeking Q4 direct funding
++ Implemented NLP customer project embeddings proof of concept for EDW Machine Learning team
+	- Results proved "invaluable" to the marketing depratment, seeking Q4 direct funding
 	- Implemented CPU multithreading, resutling in 4x faster embedding generation
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
 + Cloud: Google Cloud Platform (GCP)
 + Languages: Python, SQL, Bash, Docker
-+ Tools: BigQuery, AI Platform, GCS, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman
++ Tools: BigQuery, GKE, AI Platform, GCS, GCR, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman
 	
 ## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
 Developed deep learning solutions to overcome geospatial data science challenges.
 + Deep unsupervised trajectory anomaly detection model on semi-structured time series data
 	- Decreased LSTM model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
 	- Developed custom container for integrating Weights and Biases into SageMaker Estimators
-+ Cloud: Google Cloud Platform (GCP)
++ Cloud: Google Cloud Platform (GCP) & Amazon Web Services (AWS)
 + Languages: Python, SQL, Bash, Scala
-+ Tools: TensorFlow, Docker, AWS, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
++ Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
 
 ## Georgia State University – B.S. Computer Science
 In my final year and half, changed my focus and curriculum to encompass machine learning research and development.
