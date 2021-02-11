@@ -3,23 +3,32 @@
 
 A diverse & multifaceted individual with high level technical & general communication skills. Experienced in object oriented programming and cloud based deep learning engineering and research.
 
-|   |  Languages | Packages  | 
-|---|---|---|
-|**Proficient**| Python, Java, SQL, C#, Docker | TensorFlow, Weights and Biases, Scikit-learn, Pandas, NumPy, Plotly, Matplotlib |
-| **Familiar** | Scala, Bash, MATLAB, HMTL+CSS, Golang  | Unity Engine (Simulation), Pytorch, Kubernetes, Flask, Spark  | 
+|   |  Languages | Libraries  | Frameworks | IDEs | 
+|---|---|---|---|---|
+| **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab |
+| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C | PyTorch, BeautifulSoup, Scikit-learn | Spark, Flask, Unity Engine | Databricks, PyCharm, Eclipse |
 
 | Paper | Conference | Contribution | Year | 
 |---|---|---|---|
-| See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
 | [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
+| [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
 
-## Rosenblatt LLC - Founder (Ongoing)
+## Rosenblatt LLC - Founder (Jan. 2020 - Current)
 My part-time deep learning research and development group.
++ Owner of JobReport.ai
+	- Developing a web app which gives users insight on the hiring trends for over 5000 publicly listed companies (NYSE & NASDAQ).
+	- Leading a team of 4 developers and 3 marketing associates
+	- Created Terraform VPC with infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
+	- Pre-Beta release coming soon
+	- Personally funding all project expenses, seeking seed investment round soon
+	- Cloud: Amazon Web Services (AWS)
+	- Langauges: Bash, Docker, Python
+	- Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3
 + Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
-	- Leading and personally funding a sattellite characterization research team
+	- Lead and personally funded a sattellite characterization research team
+	- We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
 	- Primary author and presenter of paper accepted into AMOSTech 2020
-	- Invited to present at L3Harris Data Science Working Group 2020
-	- Developed the first restoration-free satellite characterization model for classifying Kolmogorov blurred images with >90% accuracy
+	- Presenter at L3Harris Data Science Working Group Fall 2020
 	- Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
 	- Orchestrated cost optimized multi-GPU, multi-worker training cluster on AWS Batch
 	- Cloud: Amazon Web Services (AWS)
@@ -33,20 +42,32 @@ My part-time deep learning research and development group.
 	- Languages: Bash, Python
 	- Tools: TensorFlow 2.0, H5PY, Weigths and Biases, AI Platform, NumPy, Pandas
 
-## The Home Depot - Software Engineer (May 2020 - Current)
+## A Place For Mom - Data Engineer (Dec. 2020 - Current)
+First permanent U.S. based data engineer in the company 
++ Delta Lake Engineer on the Data Services team
+	- Used PySpark to migrate existing infastructure to Databricks
+	- Perform CI/CD with Apache Airflow
++ Responsible for interviewing new U.S. based data engineers
+	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad
+	- Currently interviewing candidates for senior positions
++ Cloud: Amazon Web Services (AWS)
++ Lanuages: Python, SQL
+Tools: Apache Airflow, (Py)Spark, Databricks
+
+## The Home Depot - Software Engineer (May 2020 - Dec. 2020)
 The Proven Method Contract Software Engineer for The Home Depot
 + Flask API engineer on the EDW team
-	- Created aggregate service reducing api response time by 50% on average
+	- Created aggregate service reducing API response time by ~48%
 	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
 	- Reformatted procedural library to fully object oriented, minimizing redundant results caching
 + Introduced the EDW Machine Learning team to transformers (BERT & XLNet)
 + Implemented NLP customer project embeddings proof of concept for EDW Machine Learning team
-	- Results proved "invaluable" to the marketing depratment, seeking Q4 direct funding
+	- Results proved "invaluable" to the marketing depratment, obtained Q4 direct funding
 	- Implemented CPU multithreading, resutling in 4x faster embedding generation
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
 + Cloud: Google Cloud Platform (GCP)
 + Languages: Python, SQL, Bash, Docker
-+ Tools: BigQuery, GKE, AI Platform, GCS, GCR, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman
++ Tools: BigQuery, GKE, AI Platform, GCS, GCR, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, K8s
 	
 ## [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
 Developed deep learning solutions to overcome geospatial data science challenges.
@@ -78,28 +99,3 @@ Conducting research in mobile visible light communication for autonomous vehicle
 +   Researched LED to stereo camera VLC using YOLOv3
 +   Languages: C++, Python
 +   Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
-
-
-## [iD Tech](https://www.idtech.com/) - CyberSec & ML Lead Instructor  (May 2019 – Aug. 2019)
-Intro to machine learning & intro to cybersecurity instructor for young adults aged 13-17. 
-+   Promoted prior to regional training by regional manager because of demonstrating highly effective communication skills.
-+   Intro to Machine Learning - Convolutional neural network & regression model development in TensorFlow 1.12. 
-	- Worked with a variety of datasets such as CIFAR-10 & MNIST
-	- Managed custom TensorFlow Anaconda development environment 
-	- Debugged more than 20 individual machine learning projects
-+   Intro to Cybersecurity - Encryption algorithm basics & introduction to the Python cryptography library 
-	- Conducted small CTFs using Google Gruyere to teach XSS
-+   PiTops: Build your own take home laptop  - Oversaw basic embedded systems projects using the PiTop platform
-+   Lead Instuctor specific responsibilities included overnight activities, medicine management, camper check-in/out
-+   First Aid/CPR Certified Expiration May 2021
-
-## PantherHackers - Chief Technical Officer  (Nov. 2018 – Feb. 2020)
-Responsible for organizing project development driven divisions & collaborating with other technology driven student organizations. This role demands constant leadership and negotiation skills with both faculty and students.
-+   Personally funded PantherHackers CTF 2020
-+   Robotics Division Leader:
-	- Human Machines (Fall 2018 - Current)
-		1. Project Hand - 3D Printed Hand Prosthetic [publicly available on GitHub](https://github.com/rjdoubleu/Human-Machines)
-			+ Presented at Spring 2019 GSU Demo Day
-			+ Presented at GSU Honor's College Fall 2019 GSU Reseach Series
-	- Drone Workshops - Parrot Mambo drones in Workbench and Swift
-+   PantherHack Hackathon - Coach of 3rd Place Winning Team (Race Car Banked Turn Max Speed Calculator)
