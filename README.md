@@ -61,7 +61,7 @@ The Proven Method Contract Software Engineer for The Home Depot
 	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
 	- Reformatted procedural library to fully object oriented, minimizing redundant results caching
 + Introduced the EDW Machine Learning team to transformers (BERT & XLNet)
-+ Implemented NLP customer project embeddings proof of concept for EDW Machine Learning team
++ Implemented NLP (Doc2Vec) customer project embeddings proof of concept for EDW Machine Learning team
 	- Results proved "invaluable" to the marketing depratment, obtained Q4 direct funding
 	- Implemented CPU multithreading, resutling in 4x faster embedding generation
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
@@ -78,7 +78,7 @@ Developed deep learning solutions to overcome geospatial data science challenges
 + Languages: Python, SQL, Bash, Scala
 + Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
 
-## Georgia State University – B.S. Computer Science
+## Georgia State University – B.S. Computer Science (Aug. 2016 - May 2020)
 In my final year and half, changed my focus and curriculum to encompass machine learning research and development.
 + Intro to Machine Learning (Grade: A)
 	- Conducted image segmentation techniques in Julia & Python.
