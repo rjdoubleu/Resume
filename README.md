@@ -17,10 +17,10 @@ A diverse & multifaceted individual with high level technical & general communic
 My part-time deep learning research and development group.
 + Owner of JobReport.ai
 	- Developing a web app which gives users insight on the hiring trends for over 5000 publicly listed companies (NYSE & NASDAQ).
-	- Leading a team of 4 developers and 3 marketing associates
+	- Leading a team of 2 developers and 3 marketing associates
 	- Created Terraform VPC with infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
-	- Pre-Beta release coming soon
-	- Personally funding all project expenses, seeking seed investment round soon
+	- Alpha release coming soon
+	- Personally funding all project expenses, seeking seed investment round after Beta
 	- Cloud: Amazon Web Services (AWS)
 	- Langauges: Bash, Docker, Python
 	- Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3
