@@ -50,7 +50,7 @@ Conducting research in mobile visible light communication for autonomous vehicle
 
 <br></br><h2 align="center">Work Experience</h2>
 
-### A Place For Mom - Data Engineer (Dec. 2020 - Current)
+### A Place For Mom - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
 + Delta Lake Engineer on the Data Services team
 	- Used PySpark to migrate existing infastructure to Databricks
