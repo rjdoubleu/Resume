@@ -1,6 +1,6 @@
 # Ryan James Walden
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
-
+<br>
 <h2 align="center">Technical Overview</h2>
 Experienced in object oriented programming and cloud based data science and engineering.
 
@@ -9,9 +9,11 @@ Experienced in object oriented programming and cloud based data science and engi
 | **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Plotly Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab |
 | **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C | PyTorch, BeautifulSoup, Scikit-learn | Spark, Flask, Unity Engine | Databricks, PyCharm, Eclipse |
 
-<br></br>**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java
+<br>
+**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java
 
-<br></br><h2 align="center">Work Experience</h2>
+<br>
+<h2 align="center">Work Experience</h2>
 High level technical skills and general communication skills. 
 
 ### Rosenblatt LLC - Founder (Dec. 2020 - Current)
@@ -61,7 +63,8 @@ Developed deep learning solutions to overcome geospatial data science challenges
 + Languages: Python, SQL, Bash, Scala
 + Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
 
-<br></br><h2 align="center">Academic & Research Experience</h2>
+<br>
+<h2 align="center">Academic & Research Experience</h2>
 A published applied deep learning researcher with experience in team environments.
 
 | Paper | Conference | Contribution | Year | 
