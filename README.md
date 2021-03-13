@@ -61,6 +61,7 @@ Developed deep learning solutions to overcome geospatial data science challenges
 + Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
 
 <br></br><h2 align="center">Academic & Research Experience</h2>
+A published applied deep learning researcher with experience in team environments.
 
 | Paper | Conference | Contribution | Year | 
 |---|---|---|---|
