@@ -27,10 +27,10 @@ My part-time deep learning engineering group.
 ### A Place For Mom - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
 + Member of the Data Services team working primarily in Databricks
-	- Used PySpark to migrate existing infastructure to Databricks
+	- Using PySpark to migrate existing infastructure to Databricks
 	- Perform CI/CD with Apache Airflow
 + Responsible for interviewing new data engineers
-	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad
+	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
 	- Currently interviewing candidates for senior positions
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL
@@ -42,20 +42,21 @@ The Proven Method Contract Software Engineer for The Home Depot
 	- Created aggregate service reducing API response time by ~48%
 	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
 	- Reformatted procedural library to fully object oriented, minimizing redundant results caching
-+ Introduced the EDW Machine Learning team to transformers (BERT & XLNet)
-+ Implemented NLP (Doc2Vec) customer project embeddings proof of concept for EDW Machine Learning team
-	- Results proved "invaluable" to the marketing depratment, obtained Q4 direct funding
++ Demo'd senetence transformers (S-BERT & modified XLNet) to the EDW Machine Learning team
++ Implemented Natural Language Processing (Doc2Vec) customer project embeddings proof of concept for EDW Machine Learning team
+	- Reported directly to the Staff ML Engineer
+	- Results proved "invaluable" to the marketing depratment, obtained direct funding to continue development
 	- Implemented CPU multithreading, resutling in 4x faster embedding generation
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
 + Cloud: Google Cloud Platform (GCP)
-+ Languages: Python, SQL, Bash, Docker
-+ Tools: BigQuery, GKE, AI Platform, GCS, GCR, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, K8s
++ Languages: Python, SQL, Bash
++ Tools: BigQuery,K8s, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim
 	
 ### [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
 Developed deep learning solutions to overcome geospatial data science challenges.
 + Deep unsupervised trajectory anomaly detection model on semi-structured time series data
-	- Decreased LSTM model convergence latency by 75% without increasing loss using Masking and Dynamic Batches
-	- Developed custom container for integrating Weights and Biases into SageMaker Estimators
+	- Decreased LSTM autoencoder model convergence latency by 75% without increasing loss
+	- Developed custom docker container for integrating Weights and Biases into SageMaker Estimators
 + Cloud: Google Cloud Platform (GCP) & Amazon Web Services (AWS)
 + Languages: Python, SQL, Bash, Scala
 + Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
@@ -75,7 +76,8 @@ Published primary author in deep learning for Space Domain Awareness ([paper lin
 + Published primary author and presenter of paper accepted into AMOSTech 2020
 + Accepted invitation to membership in CUI government research group (contact me directly for details)
 + Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
-+ Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch
++ Searched over 400 multi-task deep convolutional neural network architecture using TensorFlow
++ Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch 
 + Cloud: Amazon Web Services (AWS)
 + Languages: Bash, Python, C#
 + Tools: TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
@@ -85,7 +87,7 @@ Conducting research in mobile visible light communication for autonomous vehicle
 + Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication
 + Awarded 2-semester stipend from the National Science Foundation
 + Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
-+ Researched LED to stereo camera VLC using YOLOv3
++ Researched LED to stereo camera VLC using YOLOv3 object detection model
 + Languages: C++, Python
 + Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
 
