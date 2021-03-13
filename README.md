@@ -1,9 +1,8 @@
 # Ryan James Walden
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
 
-A diverse and multifaceted individual with high level technical and general communication skills. Experienced in object oriented programming and cloud based data science and engineering.
-
 <br></br><h2 align="center">Technical Overview</h2>
+Experienced in object oriented programming and cloud based data science and engineering.
 
 |   |  Languages | Libraries  | Frameworks | IDEs | 
 |---|---|---|---|---|
@@ -13,6 +12,7 @@ A diverse and multifaceted individual with high level technical and general comm
 <br></br>**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java
 
 <br></br><h2 align="center">Work Experience</h2>
+High level technical skills and general communication skills. 
 
 ### Rosenblatt LLC - Founder (Dec. 2020 - Current)
 My part-time deep learning engineering group.
@@ -26,15 +26,15 @@ My part-time deep learning engineering group.
 
 ### A Place For Mom - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
-+ Delta Lake Engineer on the Data Services team
++ Member of the Data Services team working primarily in Databricks
 	- Used PySpark to migrate existing infastructure to Databricks
 	- Perform CI/CD with Apache Airflow
-+ Responsible for interviewing new U.S. based data engineers
++ Responsible for interviewing new data engineers
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad
 	- Currently interviewing candidates for senior positions
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL
-Tools: Apache Airflow, (Py)Spark, Databricks
++ Tools: Apache Airflow, (Py)Spark, Databricks
 
 ### The Home Depot - Software Engineer (May 2020 - Dec. 2020)
 The Proven Method Contract Software Engineer for The Home Depot
