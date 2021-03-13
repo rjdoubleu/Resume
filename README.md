@@ -1,6 +1,8 @@
 # Ryan James Walden
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
+
 <br>
+
 <h2 align="center">Technical Overview</h2>
 Experienced in object oriented programming and cloud based data science and engineering.
 
@@ -10,9 +12,11 @@ Experienced in object oriented programming and cloud based data science and engi
 | **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C | PyTorch, BeautifulSoup, Scikit-learn | Spark, Flask, Unity Engine | Databricks, PyCharm, Eclipse |
 
 <br>
+
 **LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java
 
 <br>
+
 <h2 align="center">Work Experience</h2>
 High level technical skills and general communication skills. 
 
@@ -64,6 +68,7 @@ Developed deep learning solutions to overcome geospatial data science challenges
 + Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
 
 <br>
+
 <h2 align="center">Academic & Research Experience</h2>
 A published applied deep learning researcher with experience in team environments.
 
