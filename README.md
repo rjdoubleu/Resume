@@ -19,8 +19,31 @@ A diverse and multifaceted individual with high level technical and general comm
 | [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
 | [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
 
-### Rosenblatt LLC - Founder (Jan. 2020 - Current)
-My part-time deep learning research and development group.
+### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
+Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
++ Lead sattellite characterization undergraduate research team
++ We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
++ Published primary author and presenter of paper accepted into AMOSTech 2020
++ Accepted invitation to membership in CUI government research group (contact me directly for details)
++ Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
++ Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch
++ Cloud: Amazon Web Services (AWS)
++ Languages: Bash, Python, C#
++ Tools: TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
+
+### [MORSE Studio Lab](https://sites.google.com/view/highspeedmobilevlc/home) - Undergraduate Research Assistant (Sept. 2019 - May 2020)
+Conducting research in mobile visible light communication for autonomous vehicle warning systems.
++ Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication
++ Awarded 2-semester stipend from the National Science Foundation
++ Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
++ Researched LED to stereo camera VLC using YOLOv3
++ Languages: C++, Python
++ Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
+
+<br></br><h2 align="center">Work Experience</h2>
+
+### Rosenblatt LLC - Founder (Dec. 2020 - Current)
+My part-time deep learning engineering group.
 + Owner of JobReport.ai
 	- Developing a web app which gives users insight on the hiring trends for over 6000 publicly listed companies (NYSE & NASDAQ).
 	- Leading a team of 2 developers and 3 marketing associates
@@ -28,27 +51,6 @@ My part-time deep learning research and development group.
 	- Cloud: Amazon Web Services (AWS)
 	- Langauges: Bash, Python
 	- Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3, Docker, Zyte (formerly Crawlera)
-+ Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
-	- Lead sattellite characterization undergraduate research team
-	- We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
-	- Published primary author and presenter of paper accepted into AMOSTech 2020
-	- Accepted invitation to membership in CUI government research group (contact me directly for details)
-	- Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
-	- Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch
-	- Cloud: Amazon Web Services (AWS)
-	- Languages: Bash, Python, C#
-	- Tools: TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
-
-### [MORSE Studio Lab](https://sites.google.com/view/highspeedmobilevlc/home) - Undergraduate Research Assistant (Sept. 2019 - May 2020)
-Conducting research in mobile visible light communication for autonomous vehicle warning systems.
-+   Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication
-+   Awarded 2-semester stipend from the National Science Foundation
-+   Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
-+   Researched LED to stereo camera VLC using YOLOv3
-+   Languages: C++, Python
-+   Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
-
-<br></br><h2 align="center">Work Experience</h2>
 
 ### A Place For Mom - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
@@ -95,4 +97,3 @@ In my final year and half, changed my focus and curriculum to encompass machine 
 + Big Data Programming (Grade: A)
 	- Used Scala to develop Apache Spark programs
 	- Developed a severless website using AWS (CloudFront, API Gateway, Lambda, IAM, S3)
-
