@@ -1,7 +1,7 @@
 # Ryan James Walden
 #### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [StackOverflow](https://stackoverflow.com/users/10521726/ryan-walden) | [GitHub](https://github.com/rjdoubleu)
 
-<br></br><h2 align="center">Technical Overview</h2>
+<h2 align="center">Technical Overview</h2>
 Experienced in object oriented programming and cloud based data science and engineering.
 
 |   |  Languages | Libraries  | Frameworks | IDEs | 
