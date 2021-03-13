@@ -12,34 +12,6 @@ A diverse and multifaceted individual with high level technical and general comm
 
 <br></br>**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java
 
-<br></br><h2 align="center">Research Experience</h2>
-
-| Paper | Conference | Contribution | Year | 
-|---|---|---|---|
-| [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
-| [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
-
-### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
-Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
-+ Lead sattellite characterization undergraduate research team
-+ We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
-+ Published primary author and presenter of paper accepted into AMOSTech 2020
-+ Accepted invitation to membership in CUI government research group (contact me directly for details)
-+ Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
-+ Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch
-+ Cloud: Amazon Web Services (AWS)
-+ Languages: Bash, Python, C#
-+ Tools: TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
-
-### [MORSE Studio Lab](https://sites.google.com/view/highspeedmobilevlc/home) - Undergraduate Research Assistant (Sept. 2019 - May 2020)
-Conducting research in mobile visible light communication for autonomous vehicle warning systems.
-+ Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication
-+ Awarded 2-semester stipend from the National Science Foundation
-+ Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
-+ Researched LED to stereo camera VLC using YOLOv3
-+ Languages: C++, Python
-+ Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
-
 <br></br><h2 align="center">Work Experience</h2>
 
 ### Rosenblatt LLC - Founder (Dec. 2020 - Current)
@@ -87,6 +59,34 @@ Developed deep learning solutions to overcome geospatial data science challenges
 + Cloud: Google Cloud Platform (GCP) & Amazon Web Services (AWS)
 + Languages: Python, SQL, Bash, Scala
 + Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
+
+<br></br><h2 align="center">Academic & Research Experience</h2>
+
+| Paper | Conference | Contribution | Year | 
+|---|---|---|---|
+| [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
+| [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
+
+### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
+Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
++ Lead sattellite characterization undergraduate research team
++ We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
++ Published primary author and presenter of paper accepted into AMOSTech 2020
++ Accepted invitation to membership in CUI government research group (contact me directly for details)
++ Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
++ Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch
++ Cloud: Amazon Web Services (AWS)
++ Languages: Bash, Python, C#
++ Tools: TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
+
+### [MORSE Studio Lab](https://sites.google.com/view/highspeedmobilevlc/home) - Undergraduate Research Assistant (Sept. 2019 - May 2020)
+Conducting research in mobile visible light communication for autonomous vehicle warning systems.
++ Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication
++ Awarded 2-semester stipend from the National Science Foundation
++ Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
++ Researched LED to stereo camera VLC using YOLOv3
++ Languages: C++, Python
++ Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
 
 ### Georgia State University – B.S. Computer Science (Aug. 2016 - May 2020)
 In my final year and half, changed my focus and curriculum to encompass machine learning research and engineering.
