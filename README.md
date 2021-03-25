@@ -33,7 +33,7 @@ My part-time deep learning engineering group.
 	- Langauges: Bash, Python
 	- Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3, Docker, Zyte (formerly Crawlera)
 
-### A Place For Mom - Big Data Engineer (Dec. 2020 - Current)
+### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
 + Member of the Data Services team working primarily in Databricks
  	- Deployed linear regression and random forest ensemble model, automated model drift detection and retraining 
@@ -47,7 +47,7 @@ First permanent U.S. based data engineer in the company
 + Lanuages: Python, SQL, Bash, R
 + Tools: Apache Airflow, (Py)Spark, Databricks, Docker, Terraform, GitHub Actions, Astronomer (Apache Airflow)
 
-### The Home Depot - Software Engineer (May 2020 - Dec. 2020)
+### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (May 2020 - Dec. 2020)
 The Proven Method Contract Software Engineer for The Home Depot
 + Flask API engineer on the EDW team
 	- Created aggregate service reducing API response time by ~48%
@@ -107,7 +107,7 @@ Conducting research in mobile visible light communication for autonomous vehicle
 + Languages: C++, Python
 + Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
 
-### Georgia State University – B.S. Computer Science (Aug. 2016 - May 2020)
+### [Georgia State University](https://www.usnews.com/best-colleges/georgia-state-university-1574) – B.S. Computer Science (Aug. 2016 - May 2020)
 In my final year and half, changed my focus and curriculum to encompass machine learning research and engineering.
 + Intro to Machine Learning (Grade: B)
 	- Conducted image segmentation techniques in Julia & Python.
