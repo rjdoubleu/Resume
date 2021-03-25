@@ -6,10 +6,13 @@
 <h2 align="center">Technical Overview</h2>
 Experienced in object oriented programming and cloud based data science and engineering.
 
+<br>
+<br>
+
 |   |  Languages | Libraries  | Frameworks | IDEs | 
 |---|---|---|---|---|
-| **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Plotly Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab |
-| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C, R | PyTorch, BeautifulSoup, Scikit-learn | Spark, Flask, Unity Engine | Databricks, PyCharm, Eclipse |
+| **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab |
+| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C, R | PyTorch, BeautifulSoup, Scikit-learn | Flask, Unity Engine | Databricks, PyCharm, Eclipse |
 
 <br>
 
@@ -74,7 +77,10 @@ Developed deep learning solutions to overcome geospatial data science challenges
 <h2 align="center">Academic & Research Experience</h2>
 A published applied deep learning researcher with experience in team environments.
 
-| Paper | Conference | Contribution | Year | 
+<br>
+<br>
+
+| Paper | Conference/Journal | Contribution | Year | 
 |---|---|---|---|
 | [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
 | [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2021 |
