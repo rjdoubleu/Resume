@@ -9,7 +9,7 @@ Experienced in object oriented programming and cloud based data science and engi
 |   |  Languages | Libraries  | Frameworks | IDEs | 
 |---|---|---|---|---|
 | **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Plotly Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab |
-| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C | PyTorch, BeautifulSoup, Scikit-learn | Spark, Flask, Unity Engine | Databricks, PyCharm, Eclipse |
+| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C, R | PyTorch, BeautifulSoup, Scikit-learn | Spark, Flask, Unity Engine | Databricks, PyCharm, Eclipse |
 
 <br>
 
@@ -22,8 +22,8 @@ High level technical skills and general communication skills.
 
 ### Rosenblatt LLC - Founder (Dec. 2020 - Current)
 My part-time deep learning engineering group.
-+ Owner of JobReport.ai
-	- Developing a web app which gives users insight on the hiring trends for over 6000 publicly listed companies (NYSE & NASDAQ).
++ Owner of JobReport.ai (stealth stage)
+	- Developing a web app which gives retail traders daily insight on the hiring trends for publicly listed companies (NYSE & NASDAQ).
 	- Leading a team of 2 developers and 2 marketing associates
 	- Used Terraform to create a VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
 	- Cloud: Amazon Web Services (AWS)
@@ -33,14 +33,16 @@ My part-time deep learning engineering group.
 ### A Place For Mom - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
 + Member of the Data Services team working primarily in Databricks
-	- Using PySpark to migrate existing infastructure to Databricks
-	- Perform CI/CD with Apache Airflow
+ 	- Deployed linear regression and random forest ensemble model, automated model drift detection and retraining 
+ 	- Developed community web profile scoring ETL used in our search engine ranking
+	- Used PySpark to migrate legacy call center queries to Databricks, reducing signifigant technical debt
+	- Dockerized and deployed a data lineage visualization system to AWS Fargate, reducing communication friction
 + Responsible for interviewing new data engineers
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
-	- Currently interviewing candidates for senior positions
+	- Responsible for interviewing candidates for senior positions
 + Cloud: Amazon Web Services (AWS)
-+ Lanuages: Python, SQL
-+ Tools: Apache Airflow, (Py)Spark, Databricks
++ Lanuages: Python, SQL, Bash, R
++ Tools: Apache Airflow, (Py)Spark, Databricks, Docker, Terraform, GitHub Actions, Astronomer (Apache Airflow)
 
 ### The Home Depot - Software Engineer (May 2020 - Dec. 2020)
 The Proven Method Contract Software Engineer for The Home Depot
@@ -56,7 +58,7 @@ The Proven Method Contract Software Engineer for The Home Depot
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
 + Cloud: Google Cloud Platform (GCP)
 + Languages: Python, SQL, Bash
-+ Tools: BigQuery,K8s, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim
++ Tools: Kubernetes, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim
 	
 ### [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
 Developed deep learning solutions to overcome geospatial data science challenges.
@@ -75,7 +77,7 @@ A published applied deep learning researcher with experience in team environment
 | Paper | Conference | Contribution | Year | 
 |---|---|---|---|
 | [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
-| [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2020 |
+| [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2021 |
 
 ### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
 Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
@@ -101,7 +103,7 @@ Conducting research in mobile visible light communication for autonomous vehicle
 
 ### Georgia State University – B.S. Computer Science (Aug. 2016 - May 2020)
 In my final year and half, changed my focus and curriculum to encompass machine learning research and engineering.
-+ Intro to Machine Learning (Grade: A)
++ Intro to Machine Learning (Grade: B)
 	- Conducted image segmentation techniques in Julia & Python.
 + Intro to Deep Learning (Grade: A)
 	- Used NumPy to implement simple neural networks, backpropagation, weight normalization, etc.
