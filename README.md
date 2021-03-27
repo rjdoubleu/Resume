@@ -4,7 +4,7 @@
 <br>
 
 <h2 align="center">Technical Overview</h2>
-Experienced in object oriented programming and cloud based data science and engineering.
+Experienced in agile object oriented programming and cloud based data science and engineering.
 
 <br>
 <br>
@@ -25,19 +25,19 @@ High level technical skills and general communication skills.
 
 ### Rosenblatt LLC - Founder (Dec. 2020 - Current)
 My part-time deep learning engineering group.
-+ Owner of JobReport.ai (stealth stage)
++ Owner of JobReport.ai
 	- Developing a web app which gives retail traders daily insight on the hiring trends for publicly listed companies (NYSE & NASDAQ).
 	- Leading a team of 2 developers and 2 marketing associates
 	- Used Terraform to create a VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
-	- Cloud: Amazon Web Services (AWS)
-	- Langauges: Bash, Python
-	- Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3, Docker, Zyte (formerly Crawlera)
++ Cloud: Amazon Web Services (AWS)
++ Langauges: Bash, Python
++ Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3, Docker, Zyte (formerly Crawlera)
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
 + Member of the Data Services team working primarily in Databricks
- 	- Deployed linear regression and random forest ensemble model, automated model drift detection and retraining 
- 	- Developed community web profile scoring ETL used in our search engine ranking
+	- Maintain linear regression and random forest ensemble model 
+	- Developed community web profile scoring ETL for our community search engine ranking
 	- Used PySpark to migrate legacy call center queries to Databricks, reducing signifigant technical debt
 	- Dockerized and deployed a data lineage visualization system to AWS Fargate, reducing communication friction
 + Responsible for interviewing new data engineers
@@ -88,22 +88,22 @@ A published applied deep learning researcher with experience in team environment
 ### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
 Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
 + Lead sattellite characterization undergraduate research team
-+ We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
-+ Published primary author and presenter of paper accepted into AMOSTech 2020
+	- We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
+	- Published primary author and presenter of paper accepted into AMOSTech 2020
+	-  Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
+	-  Searched over 400 multi-task deep convolutional neural network architecture using TensorFlow
+	-  Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch 
 + Accepted invitation to membership in CUI government research group (contact me directly for details)
-+ Performed synthetic dataset generation in Unity Engine and bayesian neural architecture search with Weights and Biases
-+ Searched over 400 multi-task deep convolutional neural network architecture using TensorFlow
-+ Orchestrated cost optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch 
 + Cloud: Amazon Web Services (AWS)
 + Languages: Bash, Python, C#
 + Tools: TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
 
 ### [MORSE Studio Lab](https://sites.google.com/view/highspeedmobilevlc/home) - Undergraduate Research Assistant (Sept. 2019 - May 2020)
 Conducting research in mobile visible light communication for autonomous vehicle warning systems.
-+ Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication
-+ Awarded 2-semester stipend from the National Science Foundation
-+ Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
-+ Researched LED to stereo camera VLC using YOLOv3 object detection model
++ Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication ([paper link](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858)).
+	- Awarded 2-semester stipend from the National Science Foundation
+	- Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
+	- Researched LED to stereo camera VLC using YOLOv3 object detection model
 + Languages: C++, Python
 + Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
 
