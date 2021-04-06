@@ -16,7 +16,7 @@ Experienced in agile object oriented programming and cloud based data science an
 
 <br>
 
-**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java
+**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java, Google Cloud Platform (GCP)
 
 <br>
 
