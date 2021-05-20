@@ -21,7 +21,6 @@ Experienced in agile object oriented programming and cloud based data science an
 <br>
 
 <h2 align="center">Work Experience</h2>
-High level technical skills and general communication skills. 
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
