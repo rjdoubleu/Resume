@@ -11,41 +11,30 @@ Experienced in agile object oriented programming and cloud based data science an
 
 |   |  Languages | Libraries  | Frameworks | IDEs | 
 |---|---|---|---|---|
-| **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab |
-| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS, C, R | PyTorch, BeautifulSoup, Scikit-learn | Flask, Unity Engine | Databricks, PyCharm, Eclipse |
+| **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab, Databricks |
+| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS | PyTorch, BeautifulSoup, Scikit-learn, Seaborn | Flask, Unity Engine | PyCharm, Eclipse |
 
 <br>
 
-**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java, Google Cloud Platform (GCP)
+**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java, Google Cloud Platform (GCP), HTML
 
 <br>
 
 <h2 align="center">Work Experience</h2>
 High level technical skills and general communication skills. 
 
-### Rosenblatt LLC - Founder (Dec. 2020 - Current)
-My part-time deep learning engineering group.
-+ Owner of JobReport.ai
-	- Developing a web app which gives retail traders daily insight on the hiring trends for publicly listed companies (NYSE & NASDAQ).
-	- Leading a team of 2 developers and 2 marketing associates
-	- Used Terraform to create a VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
-+ Cloud: Amazon Web Services (AWS)
-+ Langauges: Bash, Python
-+ Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3, Docker, Zyte (formerly Crawlera)
-
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
 First permanent U.S. based data engineer in the company 
 + Member of the Data Services team working primarily in Databricks
-	- Maintain linear regression and random forest ensemble model 
+	- Responsible for developing our community matching recommendation model (SparkMLlib)
 	- Developed community web profile scoring ETL for our community search engine ranking
-	- Used PySpark to migrate legacy call center queries to Databricks, reducing signifigant technical debt
-	- Dockerized and deployed a data lineage visualization system to AWS Fargate, reducing communication friction
+	- Migrated legacy call center queries to Databricks, reducing signifigant technical debt and latency
 + Responsible for interviewing new data engineers
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
-	- Responsible for interviewing candidates for senior positions
+	- Interviewed candidates for senior positions and reported directly to the VP of Data Services
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL, Bash, R
-+ Tools: Apache Airflow, (Py)Spark, Databricks, Docker, Terraform, GitHub Actions, Astronomer (Apache Airflow)
++ Tools: Apache Airflow, (Py)Spark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow)
 
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (May 2020 - Dec. 2020)
 The Proven Method Contract Software Engineer for The Home Depot
@@ -61,7 +50,7 @@ The Proven Method Contract Software Engineer for The Home Depot
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
 + Cloud: Google Cloud Platform (GCP)
 + Languages: Python, SQL, Bash
-+ Tools: Kubernetes, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim
++ Tools: Kubernetes, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim, BigQuery
 	
 ### [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
 Developed deep learning solutions to overcome geospatial data science challenges.
@@ -70,7 +59,17 @@ Developed deep learning solutions to overcome geospatial data science challenges
 	- Developed custom docker container for integrating Weights and Biases into SageMaker Estimators
 + Cloud: Google Cloud Platform (GCP) & Amazon Web Services (AWS)
 + Languages: Python, SQL, Bash, Scala
-+ Tools: TensorFlow, Docker, Amazon Sagemaker, GCP, Pandas, Weights and Biases, Scala/Spark, QGIS
++ Tools: TensorFlow, Docker, Amazon Sagemaker, Pandas, Weights and Biases, Spark, QGIS
+
+### Rosenblatt LLC - Founder (Dec. 2020 - Current)
+My part-time deep learning engineering group.
++ Owner of JobReport.ai (stealth mode)
+	- Developed a web app which gives retail traders daily insight on the hiring trends for publicly listed companies (NYSE & NASDAQ).
+	- Leading a team of 2 developers and 2 marketing associates
+	- Used Terraform to create a VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
++ Cloud: Amazon Web Services (AWS)
++ Langauges: Bash, Python
++ Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3, Docker, Zyte (formerly Crawlera), SQLAlchemy
 
 <br>
 
