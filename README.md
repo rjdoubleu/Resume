@@ -7,42 +7,45 @@
 Experienced in agile object oriented programming and cloud based data science and engineering.
 
 <br>
+
+|   |  Languages | Libraries  | Frameworks |
+|---|---|---|---|
+| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-learn, Seaborn | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s |
+| **Familiar** | C#, Scala, Bash, C, MATLAB, HMTL+CSS | Ray [Tune, Serve, etc], BeautifulSoup, D3.js | Flask, Unity Engine |
 <br>
 
-|   |  Languages | Libraries  | Frameworks | IDEs | 
-|---|---|---|---|---|
-| **Proficient** | Python, Java, SQL | TensorFlow, Pandas, NumPy, Plotly, Matplotlib | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s | VSCode, Jupyter Lab, Databricks |
-| **Familiar** | C#, Scala, Bash, MATLAB, HMTL+CSS | PyTorch, BeautifulSoup, Scikit-learn, Seaborn | Flask, Unity Engine | PyCharm, Eclipse |
-
-<br>
-
-**LinkedIn Assesments**: Python (Programming Language), Amazon Web Services (AWS), Object Oriented Programming (OOP), Java, Google Cloud Platform (GCP), HTML
+**Completed LinkedIn Assesments**
+- Python (Programming Language)
+- Amazon Web Services (AWS)
+- Object Oriented Programming (OOP)
+- Java
+- Google Cloud Platform (GCP)
+- HTML
 
 <br>
 
 <h2 align="center">Work Experience</h2>
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
-First permanent U.S. based data engineer in the company 
++ Report directly to the VP of Data Services
 + Member of the Data Services team working primarily in Databricks
-	- Responsible for developing our community matching recommendation model (SparkMLlib)
-	- Developed community web profile scoring ETL for our community search engine ranking
-	- Migrated legacy call center queries to Databricks, reducing signifigant technical debt and latency
+	- Regulary work with tables between 1M-100M records
+ 	- Developed unit testing library for all ETLs
+ 	- Responsible for migrating ETLs from Microsoft SQL Server to Databricks
+	- Performed exploratory data analysis of our communities data resulting in funding for a new recommendation engine team
 + Responsible for interviewing new data engineers
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
-	- Interviewed candidates for senior positions and reported directly to the VP of Data Services
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL, Bash, R
-+ Tools: Apache Airflow, (Py)Spark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow)
++ Tools: Apache Airflow, (Py)Spark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow), Scikit-Learn
 
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (May 2020 - Dec. 2020)
-The Proven Method Contract Software Engineer for The Home Depot
-+ Flask API engineer on the EDW team
++ Flask API engineer on the EDW team (Contract)
 	- Created aggregate service reducing API response time by ~48%
 	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
 	- Reformatted procedural library to fully object oriented, minimizing redundant results caching
 + Demo'd senetence transformers (S-BERT & modified XLNet) to the EDW Machine Learning team
-+ Implemented Natural Language Processing (Doc2Vec) customer project embeddings proof of concept for EDW Machine Learning team
++ Implemented Natural Language Processing (Doc2Vec) customer project embeddings p.o.c. for EDW Machine Learning team
 	- Reported directly to the Staff ML Engineer
 	- Results proved "invaluable" to the marketing depratment, obtained direct funding to continue development
 	- Implemented CPU multithreading, resutling in 4x faster embedding generation
@@ -52,8 +55,7 @@ The Proven Method Contract Software Engineer for The Home Depot
 + Tools: Kubernetes, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim, BigQuery
 	
 ### [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
-Developed deep learning solutions to overcome geospatial data science challenges.
-+ Deep unsupervised trajectory anomaly detection model on semi-structured time series data
++ Deep unsupervised trajectory anomaly detection model on semi-structured geospatial time series data
 	- Decreased LSTM autoencoder model convergence latency by 75% without increasing loss
 	- Developed custom docker container for integrating Weights and Biases into SageMaker Estimators
 + Cloud: Google Cloud Platform (GCP) & Amazon Web Services (AWS)
@@ -61,18 +63,24 @@ Developed deep learning solutions to overcome geospatial data science challenges
 + Tools: TensorFlow, Docker, Amazon Sagemaker, Pandas, Weights and Biases, Spark, QGIS
 
 ### Rosenblatt LLC - Founder (Dec. 2020 - Current)
-My part-time deep learning engineering group.
-+ Owner of JobReport.ai (stealth mode)
-	- Developed a web app which gives retail traders daily insight on the hiring trends for publicly listed companies (NYSE & NASDAQ).
-	- Leading a team of 2 developers and 2 marketing associates
-	- Used Terraform to create a VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
-+ Cloud: Amazon Web Services (AWS)
-+ Langauges: Bash, Python
-+ Tools: Dash (Flask, Plotly, HTLM+CSS, React.js), Terraform, BeautifulSoup, Bash, K8s, Pandas, Boto3, Docker, Zyte (formerly Crawlera), SQLAlchemy
-
++ My part-time deep learning company
++ ML Engineer at [Fraxses](https://intenda.tech/fraxses/) (Aug. 2021 - Sep. 2021) (Contract)
+	- Developed automl api for training and serving deep unsupervised anomaly dectectors using Tensorflow
+	- Deployed on Azure K8s cluster
+	- Performed distributed training using Ray Tune
++ Big Data Consultant at [Fraxses](https://intenda.tech/fraxses/) (Feb. 2021 - Mar. 2021) (Contract)
+	- Gave lectures on different approches to building data lakes
+	- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
++ JobReport.ai (Feb. 2021 - Apr. 2021)
+	- Developed a Plotly Dash web app which gives retail traders daily insight on the hiring trends for publicly listed companies (NYSE & NASDAQ).
+	- Lead a team of 2 developers and 2 marketing associates
+	- Scraped public data using Zyte (formerly Crawlera) and BeautifulSoup
+	- Used Terraform to create am AWS VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
++ Private Computer Science Instructor (Mar. 2020 - Current)
+	- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
 <br>
 
-<h2 align="center">Academic & Research Experience</h2>
+<h2 align="center">Research Experience</h2>
 A published applied deep learning researcher with experience in team environments.
 
 <br>
@@ -104,6 +112,10 @@ Conducting research in mobile visible light communication for autonomous vehicle
 	- Researched LED to stereo camera VLC using YOLOv3 object detection model
 + Languages: C++, Python
 + Tools: Arduino IDE, Jetson Xavier, Adafruit supplies
+
+<br>
+
+<h2 align="center">Academic Experience</h2>
 
 ### [Georgia State University](https://www.usnews.com/best-colleges/georgia-state-university-1574) – B.S. Computer Science (Aug. 2016 - May 2020)
 In my final year and half, changed my focus and curriculum to encompass machine learning research and engineering.
