@@ -4,7 +4,7 @@
 <br>
 
 <h2 align="center">Technical Overview</h2>
-
+<br>
 |   |  Languages | Libraries  | Frameworks |
 |---|---|---|---|
 | **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-Learn, Seaborn | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s |
