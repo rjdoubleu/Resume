@@ -95,7 +95,7 @@
 | [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2021 |
 
 ### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
-Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
++ Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
 + Lead sattellite characterization undergraduate research team
 	- We developed the first restoration-free satellite classification model for blurred images with >90% accuracy
 	- Published primary author and presenter of paper accepted into AMOSTech 2020
@@ -108,7 +108,7 @@ Published primary author in deep learning for Space Domain Awareness ([paper lin
 + Tools: TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
 
 ### [MORSE Studio Lab](https://sites.google.com/view/highspeedmobilevlc/home) - Undergraduate Research Assistant (Sept. 2019 - May 2020)
-Conducting research in mobile visible light communication for autonomous vehicle warning systems.
++ Conducting research in mobile visible light communication for autonomous vehicle warning systems.
 + Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication ([paper link](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858)).
 	- Awarded 2-semester stipend from the National Science Foundation
 	- Responsible for building transmitter and designing wirring harnesss for on-vehicle testing
