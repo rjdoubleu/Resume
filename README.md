@@ -4,8 +4,6 @@
 <br>
 
 <h2 align="center">Technical Overview</h2>
-<br>
-<br>
 
 |   |  Languages | Libraries  | Frameworks |
 |---|---|---|---|
@@ -22,6 +20,8 @@
 - Java
 - Google Cloud Platform (GCP)
 - HTML
+
+<br>
 
 <h2 align="center">Work Experience</h2>
 
@@ -80,8 +80,6 @@
 <br>
 
 <h2 align="center">Research Experience</h2>
-<br>
-<br>
 
 | Paper | Conference/Journal | Contribution | Year | 
 |---|---|---|---|
