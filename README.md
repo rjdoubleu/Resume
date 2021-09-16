@@ -25,8 +25,6 @@
 	- Google Cloud Platform (GCP)
 	- HTML
 
-<br>
-
 <h2 align="center">Work Experience</h2>
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
