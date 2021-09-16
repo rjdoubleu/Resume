@@ -14,14 +14,17 @@
 <br>
 
 **Assesments and Certificates**
-- DataCamp Introduction to Airflow 
-- Codecademy HTML & CSS
-- Python (Programming Language)
-- Amazon Web Services (AWS)
-- Object Oriented Programming (OOP)
-- Java
-- Google Cloud Platform (GCP)
-- HTML
++ Certifications:
+	- UT Austin PGP AIML: Business Applications (March 2022)
+	- DataCamp Introduction to Airflow 
+	- Codecademy HTML & CSS
++ LinkendIn Assesments:
+	- Python (Programming Language)
+	- Amazon Web Services (AWS)
+	- Object Oriented Programming (OOP)
+	- Java
+	- Google Cloud Platform (GCP)
+	- HTML
 
 <br><br>
 
