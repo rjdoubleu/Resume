@@ -13,7 +13,6 @@
 
 <br>
 
-**Assesments and Certificates**
 + Certifications:
 	- UT Austin PGP AIML: Business Applications (March 2022)
 	- DataCamp Introduction to Airflow 
