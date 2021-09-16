@@ -25,7 +25,7 @@
 	- Google Cloud Platform (GCP)
 	- HTML
 
-<br><br>
+<br>
 
 <h2 align="center">Work Experience</h2>
 
