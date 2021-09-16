@@ -4,17 +4,18 @@
 <br>
 
 <h2 align="center">Technical Overview</h2>
-Experienced in agile object oriented programming and cloud based data science and engineering.
-
+<br>
 <br>
 
 |   |  Languages | Libraries  | Frameworks |
 |---|---|---|---|
-| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-learn, Seaborn | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s |
-| **Familiar** | C#, Scala, Bash, C, MATLAB, HMTL+CSS | Ray [Tune, Serve, etc], BeautifulSoup, D3.js | Flask, Unity Engine |
+| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-Learn, Seaborn | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s |
+| **Familiar** | C#, Scala, Bash, C, MATLAB, HMTL+CSS | Ray [Tune, Serve, etc], BeautifulSoup, D3.js, Airflow | Flask, Unity Engine |
 <br>
 
-**Completed LinkedIn Assesments**
+**Assesments and Certificates**
+- DataCamp Introduction to Airflow 
+- Codecademy HTML & CSS
 - Python (Programming Language)
 - Amazon Web Services (AWS)
 - Object Oriented Programming (OOP)
@@ -22,12 +23,10 @@ Experienced in agile object oriented programming and cloud based data science an
 - Google Cloud Platform (GCP)
 - HTML
 
-<br>
-
 <h2 align="center">Work Experience</h2>
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
-+ Report directly to the VP of Data Services
++ Report directly to the VP of Data Services (Permanent Employee)
 + Member of the Data Services team working primarily in Databricks
 	- Regulary work with tables between 1M-100M records
  	- Developed unit testing library for all ETLs
@@ -36,8 +35,8 @@ Experienced in agile object oriented programming and cloud based data science an
 + Responsible for interviewing new data engineers
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
 + Cloud: Amazon Web Services (AWS)
-+ Lanuages: Python, SQL, Bash, R
-+ Tools: Apache Airflow, (Py)Spark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow), Scikit-Learn
++ Lanuages: Python, SQL, Bash
++ Tools: Apache Airflow, PySpark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow), Scikit-Learn
 
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (May 2020 - Dec. 2020)
 + Flask API engineer on the EDW team (Contract)
@@ -72,17 +71,15 @@ Experienced in agile object oriented programming and cloud based data science an
 	- Gave lectures on different approches to building data lakes
 	- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
 + JobReport.ai (Feb. 2021 - Apr. 2021)
-	- Developed a Plotly Dash web app which gives retail traders daily insight on the hiring trends for publicly listed companies (NYSE & NASDAQ).
+	- Developed a Plotly Dash web app which gives retail traders daily insight on the hiring trends for publicly listed companies.
 	- Lead a team of 2 developers and 2 marketing associates
 	- Scraped public data using Zyte (formerly Crawlera) and BeautifulSoup
-	- Used Terraform to create am AWS VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
+	- Used Terraform to create VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
 + Private Computer Science Instructor (Mar. 2020 - Current)
 	- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
 <br>
 
 <h2 align="center">Research Experience</h2>
-A published applied deep learning researcher with experience in team environments.
-
 <br>
 <br>
 
@@ -117,8 +114,17 @@ Conducting research in mobile visible light communication for autonomous vehicle
 
 <h2 align="center">Academic Experience</h2>
 
+### [University of Texas Austin](https://www.mccombs.utexas.edu/execed/take-a-class/greatlearning) – P.G.P. AI/ML (Aug. 2021 - Mar 2022)
++ This course focuses on data science techniques applied to business applications including
+	- Dataset cleaning and engineering with Pandas 
+	- Exploratory data analysis through statistics and visualization with Seaborn and Matplotlib
+	- Model building and tuning with Sckit Learn and Tensorflow
+	- Feature engineering and ensemble learning (baggging and boosting)
+	- Building collaborative filtering recommendation systems
+	- Real time deployments on Kubernetes
+
 ### [Georgia State University](https://www.usnews.com/best-colleges/georgia-state-university-1574) – B.S. Computer Science (Aug. 2016 - May 2020)
-In my final year and half, changed my focus and curriculum to encompass machine learning research and engineering.
++ In my final year and a half, I changed my focus and curriculum to encompass machine learning research and engineering.
 + Intro to Machine Learning (Grade: B)
 	- Conducted image segmentation techniques in Julia & Python.
 + Intro to Deep Learning (Grade: A)
