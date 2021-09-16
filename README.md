@@ -79,7 +79,7 @@
 	- Used Terraform to create VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
 + Private Computer Science Instructor (Mar. 2020 - Current)
 	- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
-<br>
+<br><br><br>
 
 <h2 align="center">Research Experience</h2>
 
