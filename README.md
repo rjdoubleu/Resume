@@ -23,7 +23,7 @@
 - Google Cloud Platform (GCP)
 - HTML
 
-<br>
+<br><br>
 
 <h2 align="center">Work Experience</h2>
 
@@ -38,7 +38,7 @@
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL, Bash
-+ Tools: Apache Airflow, PySpark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow), Scikit-Learn
++ Tools: PySpark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow), Scikit-Learn
 
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (May 2020 - Dec. 2020)
 + Flask API engineer on the EDW team (Contract)
