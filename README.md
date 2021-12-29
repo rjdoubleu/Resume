@@ -8,46 +8,42 @@
 
 |   |  Languages | Libraries  | Frameworks |
 |---|---|---|---|
-| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-Learn, Seaborn | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s |
-| **Familiar** | C#, Scala, Bash, C, MATLAB, HMTL+CSS | Ray [Tune, Serve, etc], BeautifulSoup, D3.js, Airflow | Flask, Unity Engine |
+| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, SciPy, Plotly, Matplotlib, Scikit-Learn, Seaborn | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s, Nvidia RAPIDS |
+| **Familiar** | C#, Scala, Bash, C, C++, JavaScript, HMTL+CSS | Ray, BeautifulSoup, D3.js, Hyperopt, MLFlow, Numba, HuggingFace | Flask, Unity Engine, Airflow |
 
 <br>
 
-+ Certifications:
-	- UT Austin PGP AIML: Business Applications (March 2022)
-	- DataCamp Introduction to Airflow 
-	- Codecademy HTML & CSS
-+ LinkendIn Assesments:
-	- Python (Programming Language)
-	- Amazon Web Services (AWS)
-	- Object Oriented Programming (OOP)
-	- Java
-	- Google Cloud Platform (GCP)
-	- HTML
-
 <h2 align="center">Work Experience</h2>
 
-### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Current)
-+ Report directly to the VP of Data Services (Permanent Employee)
+### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Machine Learning Engineer (Nov. 2021 - Current)
++ Member of the Community Search team in charge of search engine algorithim development
+	- Using differential programming to learn new parameters for existing business logic
+	- Developed fast feature engineering pipelines with Spark-RAPIDS to train binary classifiers
+	- Developed custom docker and anaconda based Spark-RAPIDS cluster for geospatial analysis of model performance
+	- Created evaluation systems for existing and future models
++ Cloud: Amazon Web Services (AWS)
++ Lanuages: Python, SQL, Bash, C#
++ Tools: PySpark, Databricks, Pandas, Plotly, Seaborn, Matplotlib, Scikit-Learn, MLFlow, Hyperopt, HDBSCAN, Spark MLlib, RAPIDS CuML & CuDF, Docker, Numba
+### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Nov. 2021)
 + Member of the Data Services team working primarily in Databricks
 	- Regulary work with tables between 1M-100M records
- 	- Developed unit testing library for all ETLs
- 	- Responsible for migrating ETLs from Microsoft SQL Server to Databricks
-	- Performed exploratory data analysis of our communities data resulting in funding for a new recommendation engine team
+	- Developed unit testing library for all ETLs
+	- Responsible for migrating ETLs from Microsoft SQL Server to Databricks
+	- Performed exploratory data analysis of our communities data
 + Responsible for interviewing new data engineers
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL, Bash
-+ Tools: PySpark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow), Scikit-Learn
++ Tools: PySpark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow)
 
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (May 2020 - Dec. 2020)
-+ Flask API engineer on the EDW team (Contract)
++ Flask API engineer on the EDW team
 	- Created aggregate service reducing API response time by ~48%
 	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
 	- Reformatted procedural library to fully object oriented, minimizing redundant results caching
 + Demo'd senetence transformers (S-BERT & modified XLNet) to the EDW Machine Learning team
 + Implemented Natural Language Processing (Doc2Vec) customer project embeddings p.o.c. for EDW Machine Learning team
-	- Reported directly to the Staff ML Engineer
+	- Reported directly to the Staff Engineer
 	- Results proved "invaluable" to the marketing depratment, obtained direct funding to continue development
 	- Implemented CPU multithreading, resutling in 4x faster embedding generation
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
@@ -63,27 +59,20 @@
 + Languages: Python, SQL, Bash, Scala
 + Tools: TensorFlow, Docker, Amazon Sagemaker, Pandas, Weights and Biases, Spark, QGIS
 
-### Rosenblatt LLC - Founder (Dec. 2020 - Current)
-+ My part-time deep learning company
-+ ML Engineer at [Fraxses](https://intenda.tech/fraxses/) (Aug. 2021 - Sep. 2021) (Contract)
-	- Developed automl api for training and serving deep unsupervised anomaly dectectors using Tensorflow
-	- Deployed on Azure K8s cluster
-	- Performed distributed training using Ray Tune
-+ Big Data Consultant at [Fraxses](https://intenda.tech/fraxses/) (Feb. 2021 - Mar. 2021) (Contract)
-	- Gave lectures on different approches to building data lakes
-	- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
-+ JobReport.ai (Feb. 2021 - Apr. 2021)
-	- Developed a Plotly Dash web app which gives retail traders daily insight on the hiring trends for publicly listed companies.
-	- Lead a team of 2 developers and 2 marketing associates
-	- Scraped public data using Zyte (formerly Crawlera) and BeautifulSoup
-	- Used Terraform to create VPC with EKS cluster and infastructure design estimated to scale to 500k+ users ([AWS Estimate](https://aws.amazon.com/blogs/startups/scaling-on-aws-part-3-500k-users/))
-+ Private Computer Science Instructor (Mar. 2020 - Current)
-	- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
-<br>
-<br>
-<br>
-<br>
-<br>
+### RosenblattAI - Founder (Dec. 2020 - Current)
++ My part-time data science consulting company
+	+  [SprtsIQ](https://sprtsiq.com/) - Data Scientist (Dec. 2021 - Current)
+		- Developing sports betting predictive models
+		- Introduced version controled data science 
+	+  [Fraxses](https://intenda.tech/fraxses/) - ML Engineer (Aug. 2021 - Sep. 2021)
+		- Developed automl api for training and serving deep unsupervised anomaly dectectors using Tensorflow
+		- Deployed on Azure K8s cluster
+		- Performed distributed training using Ray Tune
+	+  [Fraxses](https://intenda.tech/fraxses/) - Big Data Consultant (Feb. 2021 - Mar. 2021) (Contract)
+		- Gave lectures on different approches to building data lakes
+		- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
+	+ Private Computer Science Instructor (Mar. 2020 - Current)
+		- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
 <br>
 <br>
 
@@ -125,7 +114,7 @@
 	- Dataset cleaning and engineering with Pandas 
 	- Exploratory data analysis through statistics and visualization with Seaborn and Matplotlib
 	- Model building and tuning with Sckit Learn and Tensorflow
-	- Feature engineering and ensemble learning (baggging and boosting)
+	- Feature engineering and ensemble learning (bagging and boosting)
 	- Building collaborative filtering recommendation systems
 	- Real time deployments on Kubernetes
 
