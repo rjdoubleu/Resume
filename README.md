@@ -6,24 +6,30 @@
 <h2 align="center">Technical Overview</h2>
 <br>
 
-|   |  Languages | Libraries  | Frameworks |
-|---|---|---|---|
-| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, SciPy, Plotly, Matplotlib, Scikit-Learn, Seaborn | Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s, Nvidia RAPIDS |
-| **Familiar** | C#, Scala, Bash, C, C++, JavaScript, HMTL+CSS | Ray, BeautifulSoup, D3.js, Hyperopt, MLFlow, Numba, HuggingFace | Flask, Unity Engine, Airflow |
+|   |  Languages | Libraries / Frameworks |
+|---|---|---|
+| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-Learn, Seaborn, XGBoost, LightGBM, Hyperopt, MLFlow, Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s, NVIDIA RAPIDS, FastAPI, GitHub Workflows |
+| **Familiar** | C#, Scala, Bash, C, C++, JavaScript, TypeScript, HMTL+CSS | SciPy, Ray, BeautifulSoup, D3.js, HuggingFace, Flask, Unity Engine, Airflow |
 
 <br>
 
 <h2 align="center">Work Experience</h2>
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Machine Learning Engineer (Nov. 2021 - Current)
-+ Member of the Community Search team in charge of search engine algorithim development
-	- Using differential programming to learn new parameters for existing business logic
-	- Developed fast feature engineering pipelines with Spark-RAPIDS to train binary classifiers
-	- Developed custom docker and anaconda based Spark-RAPIDS cluster for geospatial analysis of model performance
-	- Created evaluation systems for existing and future models
++ In CoLabL leadership training program
+	- Mentor has worked in data science/analytics 20+ years
+	- Conducted interviews for and hired a data scientist onto our team
+	- Oversee all data science jobs and clusters in Databricks
+	- Organize weekly games and mixers for the data scientists at APFM
++ Member of Data Services asigned to Community Search team in charge of search engine algorithim development
+	- Developed a dataset feature engineering pipeline for all historical search data (PySpark)
+	- Created several baseline models to evaluate against the current search algorithim (XGBoost, LightGBM, RandomForest)
+	- Hyperparameter searched LambdaMART model with XGBRanker using MLFlow and Hyperopt
+	- Produced a final model with a significant improvement in NDCG (+10%)
+	- Deployed model with < 120ms responses using FastAPI with async requests to a MySQL Feature Store (Docker, FastAPI, SQLAlchemy, asyncmy, ONNX, MLFlow)
 + Cloud: Amazon Web Services (AWS)
-+ Lanuages: Python, SQL, Bash, C#
-+ Tools: PySpark, Databricks, Pandas, Plotly, Seaborn, Matplotlib, Scikit-Learn, MLFlow, Hyperopt, HDBSCAN, Spark MLlib, RAPIDS CuML & CuDF, Docker, Numba
++ Lanuages: Python, SQL, Bash, C#, TypeScript
+
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Nov. 2021)
 + Member of the Data Services team working primarily in Databricks
 	- Regulary work with tables between 1M-100M records
@@ -61,16 +67,22 @@
 
 ### RosenblattAI - Founder (Dec. 2020 - Current)
 + My part-time data science consulting company
-	+  [SprtsIQ](https://sprtsiq.com/) - Data Scientist (Dec. 2021 - Current)
-		- Developing sports betting predictive models
-		- Introduced version controled data science 
-	+  [Fraxses](https://intenda.tech/fraxses/) - ML Engineer (Aug. 2021 - Sep. 2021)
-		- Developed automl api for training and serving deep unsupervised anomaly dectectors using Tensorflow
-		- Deployed on Azure K8s cluster
-		- Performed distributed training using Ray Tune
-	+  [Fraxses](https://intenda.tech/fraxses/) - Big Data Consultant (Feb. 2021 - Mar. 2021) (Contract)
-		- Gave lectures on different approches to building data lakes
-		- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
+	
+	+  Advisor to Founders working in Applied Machine Learning
+		- Nicole Toole - ECGO
+		- WenZhan Song - HomeDots
+		- Anthony Joiner - Blooksy
+	+ Consulting Experience:
+		+  [SprtsIQ](https://sprtsiq.com/) - Data Scientist (Dec. 2021 - Mar. 2022)
+			- Developed sports betting predictive models
+			- Introduced version controled data science 
+		+  [Fraxses](https://intenda.tech/fraxses/) - ML Engineer (Aug. 2021 - Sep. 2021)
+			- Developed automl api for training and serving deep unsupervised anomaly dectectors using Tensorflow
+			- Deployed on Azure K8s cluster
+			- Performed distributed training using Ray Tune
+		+  [Fraxses](https://intenda.tech/fraxses/) - Big Data Consultant (Feb. 2021 - Mar. 2021) (Contract)
+			- Gave lectures on different approches to building data lakes
+			- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
 	+ Private Computer Science Instructor (Mar. 2020 - Current)
 		- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
 <br>
@@ -116,7 +128,6 @@
 	- Model building and tuning with Sckit Learn and Tensorflow
 	- Feature engineering and ensemble learning (bagging and boosting)
 	- Building collaborative filtering recommendation systems
-	- Real time deployments on Kubernetes
 
 ### [Georgia State University](https://www.usnews.com/best-colleges/georgia-state-university-1574) – B.S. Computer Science (Aug. 2016 - May 2020)
 + In my final year and a half, I changed my focus and curriculum to encompass machine learning research and engineering.
