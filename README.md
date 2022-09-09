@@ -8,83 +8,73 @@
 
 |   |  Languages | Libraries / Frameworks |
 |---|---|---|
-| **Proficient** | Python, Java, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-Learn, Seaborn, XGBoost, LightGBM, Hyperopt, MLFlow, Spark, Plotly Dash, Weights & Biases, Docker, Terraform, K8s, NVIDIA RAPIDS, FastAPI, GitHub Workflows |
-| **Familiar** | C#, Scala, Bash, C, C++, JavaScript, TypeScript, HMTL+CSS | SciPy, Ray, BeautifulSoup, D3.js, HuggingFace, Flask, Unity Engine, Airflow |
+| **Versed** | Python, SQL | TensorFlow, PyTorch, Pandas, NumPy, Plotly, Matplotlib, Scikit-Learn, Seaborn, XGBoost, LightGBM, Hyperopt, MLFlow, Spark, Weights & Biases, Docker, Terraform, K8s, NVIDIA RAPIDS, FastAPI, GitHub Workflows |
+| **Familiar** | Java, C#, Scala, Bash, C, C++, JavaScript, TypeScript, HMTL+CSS | Plotly Dash, SciPy, Ray, BeautifulSoup, D3.js, HuggingFace, Flask, Unity Engine, Airflow |
 
 <br>
 
 <h2 align="center">Work Experience</h2>
 
+### RosenblattAI - Founder (Dec. 2020 - Current)
++ My part-time data science consulting company
+	
+	+  Advisor to Founders working in Applied Machine Learning
+		- Nicole Toole - [ECGO](https://www.ecgo.co/)
+		- Anthony Joiner - [Blooksy](https://www.blooksy.com/)
+	+ Consulting Experience:
+		+  [ECGO Recycling App](https://apps.apple.com/us/app/ecgo/id1638181650) - Tech Lead (Jun. 2022 - Current)
+			- Worked with two frontend developers and a UI/UX designer to deliver an entirely new app for incentivized recycling
+			- Built a new backend for the app (MySQL Database, CRUD and MLaaS API, AWS-Terraform Infrastructure, Github Workflows)
+			- Created seperate VPC dup-environments for dev, staging, and production
+			- Introduced CLIP based approach to item search
+		+  [SprtsIQ NFL Predictions](https://sprtsiq.com/) - Data Scientist (Dec. 2021 - Mar. 2022)
+			- Developed sports betting predictive models which out preformed previous best model performance while using less features
+			- Introduced version controled data science
+		+  [Fraxses Big Data Competitors](https://intenda.tech/fraxses/) - Big Data Consultant (Feb. 2021 - Mar. 2021) (Contract)
+			- Gave lectures on different approches to building data lakes
+			- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
+	+ Private Computer Science Instructor (Mar. 2020 - Current)
+		- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
+
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Machine Learning Engineer (Nov. 2021 - Current)
-+ In CoLabL leadership training program
++ Participated in CoLabL leadership training program
 	- Mentor has worked in data science/analytics 20+ years
-	- Conducted interviews for and hired a data scientist onto our team
-	- Oversee all data science jobs and clusters in Databricks
+	- Developed a data science take home test, conducted interviews, and hired a data scientist onto our team
+	- Oversee all data science jobs and clusters in APFM Databricks
 	- Organize weekly games and mixers for the data scientists at APFM
 + Member of Data Services asigned to Community Search team in charge of search engine algorithim development
-	- Developed a dataset feature engineering pipeline for all historical search data (PySpark)
-	- Created several baseline models to evaluate against the current search algorithim (XGBoost, LightGBM, RandomForest)
-	- Hyperparameter searched LambdaMART model with XGBRanker using MLFlow and Hyperopt
-	- Produced a final model with a significant improvement in NDCG (+10%)
-	- Deployed model with < 120ms responses using FastAPI with async requests to a MySQL Feature Store (Docker, FastAPI, SQLAlchemy, asyncmy, ONNX, MLFlow)
+	- Used PySpark to transform multimillion record tables into feature engineered datasets
+	- Created baseline models to evaluate against the current search algorithm (XGBoost, LightGBM, RandomForest)
+	- Built model deployment container using FastAPI with async requests to a MySQL Feature Store (Docker, FastAPI, SQLAlchemy, asyncmy, MLFlow, Aurora)
+	- Deployed LambdaMART-based models into production which improved performance across all evaluation criteria
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL, Bash, C#, TypeScript
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (Dec. 2020 - Nov. 2021)
 + Member of the Data Services team working primarily in Databricks
 	- Regulary work with tables between 1M-100M records
-	- Developed unit testing library for all ETLs
-	- Responsible for migrating ETLs from Microsoft SQL Server to Databricks
+	- Developed unit testing library for ETLs
+	- Worked with team to migrate ETLs from Microsoft SQL Server to Databricks
 	- Performed exploratory data analysis of our communities data
 + Responsible for interviewing new data engineers
 	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
 + Cloud: Amazon Web Services (AWS)
 + Lanuages: Python, SQL, Bash
-+ Tools: PySpark, Databricks, Pandas, Plotly, Astronomer (Apache Airflow)
 
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (May 2020 - Dec. 2020)
-+ Flask API engineer on the EDW team
++ Flask API engineer on the EDW team working on contract through The Proven Method
 	- Created aggregate service reducing API response time by ~48%
 	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
 	- Reformatted procedural library to fully object oriented, minimizing redundant results caching
 + Demo'd senetence transformers (S-BERT & modified XLNet) to the EDW Machine Learning team
 + Implemented Natural Language Processing (Doc2Vec) customer project embeddings p.o.c. for EDW Machine Learning team
-	- Reported directly to the Staff Engineer
 	- Results proved "invaluable" to the marketing depratment, obtained direct funding to continue development
 	- Implemented CPU multithreading, resutling in 4x faster embedding generation
 	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
 + Cloud: Google Cloud Platform (GCP)
 + Languages: Python, SQL, Bash
 + Tools: Kubernetes, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim, BigQuery
-	
-### [Intermx](http://www.intermx.com/) - Data Science Consultant (Aug. 2019 - May 2020)
-+ Deep unsupervised trajectory anomaly detection model on semi-structured geospatial time series data
-	- Decreased LSTM autoencoder model convergence latency by 75% without increasing loss
-	- Developed custom docker container for integrating Weights and Biases into SageMaker Estimators
-+ Cloud: Google Cloud Platform (GCP) & Amazon Web Services (AWS)
-+ Languages: Python, SQL, Bash, Scala
-+ Tools: TensorFlow, Docker, Amazon Sagemaker, Pandas, Weights and Biases, Spark, QGIS
 
-### RosenblattAI - Founder (Dec. 2020 - Current)
-+ My part-time data science consulting company
-	
-	+  Advisor to Founders working in Applied Machine Learning
-		- Nicole Toole - ECGO
-		- WenZhan Song - HomeDots
-		- Anthony Joiner - Blooksy
-	+ Consulting Experience:
-		+  [SprtsIQ](https://sprtsiq.com/) - Data Scientist (Dec. 2021 - Mar. 2022)
-			- Developed sports betting predictive models
-			- Introduced version controled data science 
-		+  [Fraxses](https://intenda.tech/fraxses/) - ML Engineer (Aug. 2021 - Sep. 2021)
-			- Developed automl api for training and serving deep unsupervised anomaly dectectors using Tensorflow
-			- Deployed on Azure K8s cluster
-			- Performed distributed training using Ray Tune
-		+  [Fraxses](https://intenda.tech/fraxses/) - Big Data Consultant (Feb. 2021 - Mar. 2021) (Contract)
-			- Gave lectures on different approches to building data lakes
-			- Performed market analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
-	+ Private Computer Science Instructor (Mar. 2020 - Current)
-		- Teaching algebra and computer science to children ages 8-15 using Minecraft Education Edition
 <br>
 <br>
 
@@ -94,6 +84,10 @@
 |---|---|---|---|
 | [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
 | [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2021 |
+| Machine learning identification of Pseudomonas aeruginosa strains from colony image data | Pending | Co-Author | 2022 |
+
+<br>
+<br>
 
 ### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
 + Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
@@ -131,8 +125,6 @@
 
 ### [Georgia State University](https://www.usnews.com/best-colleges/georgia-state-university-1574) – B.S. Computer Science (Aug. 2016 - May 2020)
 + In my final year and a half, I changed my focus and curriculum to encompass machine learning research and engineering.
-+ Intro to Machine Learning (Grade: B)
-	- Conducted image segmentation techniques in Julia & Python.
 + Intro to Deep Learning (Grade: A)
 	- Used NumPy to implement simple neural networks, backpropagation, weight normalization, etc.
 + Big Data Programming (Grade: A)
