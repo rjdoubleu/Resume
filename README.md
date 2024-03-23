@@ -9,8 +9,8 @@
 |   |  Languages | Libraries / Frameworks / Platforms |
 |---|---|---|
 | **Expert** | Python, SQL | Spark, Pandas, Docker, Terraform, FastAPI, GitHub Workflows, Databricks, AWS |
-| **Versed** | Bash | TensorFlow, PyTorch, PyMC, NumPy, Plotly, Matplotlib, Scikit-Learn, Seaborn, XGBoost, LightGBM, Hyperopt, MLFlow, Weights & Biases, K8s, NVIDIA RAPIDS, HuggingFace, BeautifulSoup, GCP, Firebase, SageMaker, Neuron SDK |
-| **Familiar** | Flutter, Java, C#, Scala, C, C++, JavaScript, TypeScript, HMTL+CSS | Plotly Dash, SciPy, Ray, D3.js, HuggingFace, Unity Engine, Airflow, Riverpod |
+| **Versed** | Bash | TensorFlow, PyTorch, Plotly, Matplotlib, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, K8s, HuggingFace, BeautifulSoup, GCP, Firebase, SageMaker |
+| **Familiar** | Flutter, Java, C#, Scala, C, C++, JavaScript, TypeScript, HMTL+CSS | Plotly Dash, SciPy, Ray, D3.js, Unity Engine, Airflow, Riverpod |
 
 <br>
 
@@ -26,30 +26,26 @@
 ### Rosenblatt AI Consulting - Founder (Dec. 2020 - Current)
 
 +  [ECGO Recycling App](https://apps.apple.com/us/app/ecgo/id1638181650) - Tech Lead (Jun. 2022 - Current)
-	- Turned an idea into a B2B2C platform with over 3k users and over $100k in annually recurring revenue
-	- Developed API and infrastructure while leading a team of 2 front-end developers, 2 data annotators, and a quality assurance tester
+	- Turned an MVP into a B2B2C platform with over 3k users and over $100k in annually recurring revenue
+	- Lead a team of 2 front-end developers, 2 data annotators, and a quality assurance tester
 	- Managed design, development, and deployment of 2 web apps, 1 mobile app, and 1 API
+ 	- Architected and developed our app environments including over 20 AWS Services, and 30 fully relational tables 
 	- Raised over $400k in funding from accelerators and angel investors
-	- Manage contract relationships with prestigious universities (e.g. Georgia Tech, UC Berkeley)
-	- Curated a proprietary dataset of over 150k images to fine-tune a [contrastive captioning model](https://arxiv.org/abs/2205.01917)
-	- Tech Stack: Flutter, Python, MySQL, FastAPI, Docker, Terraform, Github Workflows, HuggingFace, Riverpod, AWS, Firebase
-+  [Blooksy](https://www.blooksy.com/) - AI Advisor (Apr. 2022)
-	- Advisor to the founder on leading LLM APIs and modeling approaches
- 	- Presented on machine learning basics and LLM tuning techniques (prompt engineering vs retrieval vs finetuning)
+	- Manage multiple annual licenses with prestigious universities (e.g. Georgia Tech, UC Berkeley, etc.)
+	- Curated a proprietary dataset of over 150k images to fine-tune a contrastive captioning model ([CoCa](https://arxiv.org/abs/2205.01917))
+	- Tech Stack: Flutter, Python, MySQL, FastAPI, Docker, Terraform, Github Workflows, HuggingFace, Riverpod, AWS, Firebase, Bash
 +  [SprtsIQ NFL Predictions](https://sprtsiq.com/) - Data Scientist (Dec. 2021 - Mar. 2022)
 	- Developed sports betting regression models that outperformed the previous best model while using fewer features
- 	- Tech Stack: Python, Scikit Learn, XGBoost, LightGBM, Pandas, Matplotlib, NumPy, SciPy, Jupyter
-+  [Fraxses Big Data Competitors](https://intenda.tech/fraxses/) - Big Data Consultant (Feb. 2021 - Mar. 2021)
-	- Gave lectures on different approaches to building data lakes, warehouses, and meshes
-	- Performed SWOT analysis of various data providers (TIBCO, Denodo, Informatica, etc.)
+ 	- Tech Stack: Python, Scikit Learn, XGBoost, LightGBM, Pandas, Matplotlib, NumPy, SciPy, Jupyter, Bash
 
 ### Expedia - Machine Learning Engineer - Contract - (Oct. 2022 - Mar. 2024)
-+ Built Media Mix Modeling feature engineering ETL and reporting app 
-	- Used the PyMC Bayesian modeling framework to perform MMM on click, spend, and impression measurements across different channels
++ Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
+	- Used the PyMC Bayesian inference framework to perform MMM on click, spend, and impression measurements across different channels
+ 	- Model results were reported monthly to regional marketing teams, leading to $100M+ ad-spend decisions
  	- Ensured full unit testing coverage and thorough documentation of all ETL functions
- 	- Fully automated, tested, and deployed 10 major reports to the production environment
+ 	- Fully automated, tested, and deployed 10 major monthly reports to the production environment
   	- Cost champion for the team, overseeing all Databricks clusters and reporting cost trends to management
- 	- Tech Stack: Python, Pandas, Meta Prophet, Spark, NumPy, PyMC, JAX, PyTests, Databricks, Docker, Github Workflows, Kubernetes, AWS
+ 	- Tech Stack: Python, Pandas, Meta Prophet, Spark, NumPy, PyMC, JAX, PyTests, Databricks, Docker, Github Workflows, Kubernetes, AWS, Bash
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Machine Learning Engineer - Employee - (Nov. 2021 - Oct. 2022)
 + Participated in the CoLabL leadership training program
@@ -59,11 +55,8 @@
 	- Organize weekly games and mixers for the data scientists at APFM
 + Member of Data Services assigned to Community Search team in charge of search engine algorithm development
 	- Used PySpark to transform multimillion record tables into feature-engineered datasets
-	- Created baseline models to evaluate against the current search algorithm (XGBoost, LightGBM, RandomForest)
-	- Built model deployment container using FastAPI with async requests to a MySQL Feature Store (Docker, FastAPI, SQLAlchemy, asyncmy, MLFlow, Aurora)
-	- Deployed LambdaMART-based models into production which improved performance across all evaluation criteria
-+ Cloud: Amazon Web Services (AWS)
-+ Languages: Python, SQL, Bash, C#, TypeScript
+  	- Deployed LambdaMART learning-to-rank models into production which improved performance across all evaluation criteria (e.g. +20% top-5 accuracy)
+	- Tech Stack: XGBoost, LightGBM, RandomForest, Docker, FastAPI, Spark,  MLFlow, GitHub Actions, Databricks, AWS, Python, SQL, Bash, C#, TypeScript
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (FTE Dec. 2020 - Nov. 2021)
 + Member of the Data Services team working primarily in Databricks
