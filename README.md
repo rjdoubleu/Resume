@@ -86,15 +86,15 @@
 <br>
 <br>
 
-<h2 align="center">Research Experience</h2>
-<br>
+<h2 align="center">Research Publications</h2>
+
 | Paper | Conference/Journal | Contribution | Year | 
 |---|---|---|---|
 | [Machine learning identification of Pseudomonas aeruginosa strains from colony image data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011699) | PLoS Computational Biology | Co-Author | 2023 |
 | [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2021 |
 | [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
 <br>
-<br>
+<h2 align="center">Research Exeperience</h2>
 
 ### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
 + Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
