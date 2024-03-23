@@ -87,7 +87,7 @@
 <br>
 
 <h2 align="center">Research Experience</h2>
-
+<br>
 | Paper | Conference/Journal | Contribution | Year | 
 |---|---|---|---|
 | [Machine learning identification of Pseudomonas aeruginosa strains from colony image data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011699) | PLoS Computational Biology | Co-Author | 2023 |
