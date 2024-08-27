@@ -24,7 +24,7 @@
 
 <h2 align="center">Work Experience</h2>
 
-### [Travelers](https://www.travelers.com/) - SWE II (July 2024 - Current)
+### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - Current)
 + Lead developer on the business insurance GenAI team overseeing 3 developers
 + Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation for risk control
 + Team member of Policy Pilot GenAI app for assisting underwritters in note taking via LLMs
