@@ -77,7 +77,6 @@
 + Tools: Kubernetes, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim, BigQuery
 
 <br>
-<br>
 
 <h2 align="center">Entrepreneurship</h2>
 
@@ -110,7 +109,6 @@
 	- Tech Stack: Flutter, Python, MySQL, FastAPI, Docker, Terraform, Github Workflows, HuggingFace, Riverpod, AWS, Firebase, Bash
 + Resigned after loss of confidence in CEO from flawed business discovery process causing product market fit incapability and failure to adapt to a new business model
 
-<br>
 <br>
 
 <h2 align="center">Research</h2>
