@@ -8,9 +8,9 @@
 
 |   |  Languages | Libraries / Frameworks / Platforms |
 |---|---|---|
-| **Expert** | Python, SQL | Spark, Pandas, Docker, Terraform, FastAPI, GitHub Workflows, Databricks, AWS |
-| **Versed** | Bash | TensorFlow, PyTorch, Plotly, Matplotlib, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, K8s, HuggingFace, BeautifulSoup, GCP, Firebase, SageMaker |
-| **Familiar** | Flutter, Java, C#, Scala, C, C++, JavaScript, TypeScript, HMTL+CSS | Plotly Dash, SciPy, Ray, D3.js, Unity Engine, Airflow, Riverpod |
+| **Expert** | Python, SQL | Spark, Pandas, Docker, Terraform, FastAPI, GitHub CI/CD, Databricks, AWS, MySQL |
+| **Versed** | Bash, Flutter | SageMaker, TensorFlow, PyTorch, Plotly, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, Kubernetes, HuggingFace, BeautifulSoup, GCP, Firebase, Riverpod |
+| **Familiar** | Java, C#, Scala, C, C++, TypeScript, HMTL+CSS | PyMC, Hyperopt, Spacy, NLTK, SciPy, Ray, Unity Engine, Airflow, Postgres, MongoDB |
 
 <br>
 
@@ -22,42 +22,13 @@
 <li>2021 GSU Outstanding Undergraduate Researcher (One student selected annually) (<a href="https://csds.gsu.edu/2021/03/22/computer-science-students-receive-awards-7/">Article</a>)</li>
 <br>
 
-<h2 align="center">Work Experience</h2>
+<h2 align="center">Employment</h2>
 
 ### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - Current)
 + Lead developer on the business insurance GenAI team overseeing 3 developers
 + Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation for risk control
 + Team member of Policy Pilot GenAI app for assisting underwritters in note taking via LLMs
 + Developing a multi-billion record migration from on-premise IBM FileNet servers to AWS for foundation model training
-
-### [Rosenblatt AI](https://www.upwork.com/agencies/1801666643235864576/) - Owner (May. 2024 - Current)
-+ Started an AI agency which has scaled to a team of 7, achieving over $20k in MRR after only 3 months
-+ Awarded Rising Talent badge and earned the Upwork machine learning skill ceritificate
-	+ [Branch Politics](https://branch.vote/) - AI Consultant (May. 2024 - Current)
-	  	- Lead team of 2 senior machine learning engineers to develop sentence relevancy and topic matching models
-	  	- Performed unsupervised topic modeling of web scraped text using BERTopic
-	  	- Designed model architectures leading to >95% setence relevance recall and >90% topic matching accuracy (Scikit-Learn, SentenceTransformers, NLTK, SageMaker, PyTorch)
-	+ [Artbat Live](https://www.artbatlive.com/#1) - Fractional CTO (Jun. 2024 - Current)
-	  	- Lead team of 4 engineers on developing the MVP web app and contrastive learning models for mulit modal search (image and text)
-	  	- Designed microservice MVP architecture within AWS (Lambda, OpenSearch, SageMaker, S3, RDS, MLFlow, PyTorch)
-	+ [Salient Live](https://www.salient.com/) - AI Consultant (May. 2024 - Current)
-	  	- Developed anomaly detection data engineering pipeline to automate business logic (Python, Pandas)
-	  	- Oversee 1 senior data scientist on sales forecasting of multi billion record dataset
-	+ [Good Agriculture](https://goodagriculture.com/) - AI Consultant (May. 2024)
-	  	- Led interviews and created technical exames to identifiy and hire a tech lead
-	  	- Consulted on prompt engineering techniques
-
-### [ECGO](https://apps.apple.com/us/app/ecgo/id1638181650) - Chief Technical Officer (Apr. 2022 - Jul. 2024)
-+  Co-Founder and CTO; hands on leadership authoring the entirety of the Python backend, GitHub CI/CD, and AWS-Terraform infrastructure for the company
-	- Turned an MVP into a B2B2C platform with 4k users and over $100k in revenue
-  	- Raised over $500k in funding from accelerators and angel investors
-	- Lead a team of 2 front-end developers, 2 data annotators, and a quality assurance tester
-	- Managed design, development, and deployment of 2 web apps, 1 mobile app, and 1 API
- 	- Architected and developed our app environments including over 20 AWS Services, and 30 fully relational tables in MySQL
-	- Manage multiple annual licenses with prestigious universities (e.g. Georgia Tech, UC Berkeley, etc.)
-	- Curated a proprietary dataset of over 150k images to fine-tune a contrastive captioning model ([CoCa](https://arxiv.org/abs/2205.01917))
-	- Tech Stack: Flutter, Python, MySQL, FastAPI, Docker, Terraform, Github Workflows, HuggingFace, Riverpod, AWS, Firebase, Bash
-+ Resigned after loss of confidence in CEO from flawed business discovery process causing product market fit incapability and failure to adapt to a new business model
 
 ### [Expedia](https://www.expedia.com/) - Machine Learning Engineer - Contract - (Oct. 2022 - Mar. 2024)
 + Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
@@ -107,7 +78,41 @@
 <br>
 <br>
 
-<h2 align="center">Research Publications</h2>
+<h2 align="center">Entrepreneurship</h2>
+
+### [Rosenblatt AI](https://www.upwork.com/agencies/1801666643235864576/) - Owner (May. 2024 - Current)
++ Started an AI agency which has scaled to a team of 7, achieving over $20k in MRR after only 3 months
++ Awarded Rising Talent badge and earned the Upwork machine learning skill ceritificate
+	+ [Branch Politics](https://branch.vote/) - AI Consultant (May. 2024 - Current)
+	  	- Lead team of 2 senior machine learning engineers to develop sentence relevancy and topic matching models
+	  	- Performed unsupervised topic modeling of web scraped text using BERTopic
+	  	- Designed model architectures leading to >95% setence relevance recall and >90% topic matching accuracy (Scikit-Learn, SentenceTransformers, NLTK, SageMaker, PyTorch)
+	+ [Artbat Live](https://www.artbatlive.com/#1) - Fractional CTO (Jun. 2024 - Current)
+	  	- Lead team of 4 engineers on developing the MVP web app and contrastive learning models for mulit modal search (image and text)
+	  	- Designed microservice MVP architecture within AWS (Lambda, OpenSearch, SageMaker, S3, RDS, MLFlow, PyTorch)
+	+ [Salient Live](https://www.salient.com/) - AI Consultant (May. 2024 - Current)
+	  	- Developed anomaly detection data engineering pipeline to automate business logic (Python, Pandas)
+	  	- Oversee 1 senior data scientist on sales forecasting of multi billion record dataset
+	+ [Good Agriculture](https://goodagriculture.com/) - AI Consultant (May. 2024)
+	  	- Led interviews and created technical exames to identifiy and hire a tech lead
+	  	- Consulted on prompt engineering techniques
+
+### [ECGO](https://apps.apple.com/us/app/ecgo/id1638181650) - Chief Technical Officer (Apr. 2022 - Jul. 2024)
++  Co-Founder and CTO; hands on leadership authoring the entirety of the Python backend, GitHub CI/CD, and AWS-Terraform infrastructure for the company
+	- Turned an MVP into a B2B2C platform with 4k users and over $100k in revenue
+  	- Raised over $500k in funding from accelerators and angel investors
+	- Lead a team of 2 front-end developers, 2 data annotators, and a quality assurance tester
+	- Managed design, development, and deployment of 2 web apps, 1 mobile app, and 1 API
+ 	- Architected and developed our app environments including over 20 AWS Services, and 30 fully relational tables in MySQL
+	- Manage multiple annual licenses with prestigious universities (e.g. Georgia Tech, UC Berkeley, etc.)
+	- Curated a proprietary dataset of over 150k images to fine-tune a contrastive captioning model ([CoCa](https://arxiv.org/abs/2205.01917))
+	- Tech Stack: Flutter, Python, MySQL, FastAPI, Docker, Terraform, Github Workflows, HuggingFace, Riverpod, AWS, Firebase, Bash
++ Resigned after loss of confidence in CEO from flawed business discovery process causing product market fit incapability and failure to adapt to a new business model
+
+<br>
+<br>
+
+<h2 align="center">Research</h2>
 
 | Paper | Conference/Journal | Contribution | Year | 
 |---|---|---|---|
@@ -115,7 +120,6 @@
 | [See-through a Vehicle: Augmenting Road Safety Information using Visual Perception and Camera Communication in Vehicles](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858) | IEEE Transactions on Vehicular Technology | Co-Author | 2021 |
 | [Satellite Characterization via Restoration-Free Imaging: A Novel Machine Learning Paradigm for SSA](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf) |  AMOS Conference | Primary Author |  2020 |
 <br>
-<h2 align="center">Research Exeperience</h2>
 
 ### [Remote Sensing For Space Sciences](http://www.astro.gsu.edu/~smj/) - Researcher (Jan. 2020 - Aug. 2020)
 + Published primary author in deep learning for Space Domain Awareness ([paper link](https://amostech.com/TechnicalPapers/2020/Machine-Learning-Applications-of-SSA/Walden.pdf)).
@@ -141,7 +145,7 @@
 
 <br>
 
-<h2 align="center">Academic Experience</h2>
+<h2 align="center">Academia</h2>
 
 ### [University of Texas Austin](https://www.mccombs.utexas.edu/execed/take-a-class/greatlearning) – P.G.P. AI/ML (Aug. 2021 - Mar 2022)
 + This course focuses on data science techniques applied to business applications including
