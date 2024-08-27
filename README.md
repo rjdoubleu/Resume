@@ -14,7 +14,7 @@
 
 <br>
 
-<h2>Notable Achievements</h2>
+<h2 align="center">Notable Achievements</h2>
 <br>
 <li>2024 Upwork Agency Rising Talent (Invite Only) (<a href="https://www.upwork.com/agencies/1801666643235864576/">Link</a>)</li>
 <li>2023 Techstars Accelerator Alumni (1% acceptance rate) (<a href="https://www.coxenterprises.com/news/techstars-impact-2023-class">Article</a>)</li>
