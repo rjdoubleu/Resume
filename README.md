@@ -16,6 +16,7 @@
 
 <h2>Notable Recent Achievements</h2>
 <br>
+<li>2024 Upwork Rising Talent and Machine Learning Skill Certification</li>
 <li>2023 Techstars Accelerator Alumni (1% acceptance rate) (<a href="https://www.coxenterprises.com/news/techstars-impact-2023-class">Article</a>)</li>
 <li>2022 AWS Impact Accelerator Alumni & CTO-Fellowship (0.1% acceptance rate) (<a href="https://aws-startup-lofts.com/amer/program/accelerators/women-founders/meet-the-cohort#ECGO">Article</a>)</li>
 <li>2021 GSU Outstanding Undergraduate Researcher (One student selected annually) (<a href="https://csds.gsu.edu/2021/03/22/computer-science-students-receive-awards-7/">Article</a>)</li>
@@ -23,9 +24,24 @@
 
 <h2 align="center">Work Experience</h2>
 
-### Rosenblatt AI Consulting - Founder (Dec. 2020 - Current)
+### Rosenblatt AI - Owner (May. 2024 - Current)
++ Started and AI agency which has scaled to a team of 7 with over $100k in ARR in only 3 months.
++ Awarded Rising Talent baged and earned the Upwork machine learning skill ceritificate
++ [Branch Politics](https://goodagriculture.com/) - AI Consultant (May. 2024 - Current)
+  	- Lead team of 2 senior machine learning engineers to develop sentence relevancy and topic matching models
+  	- Designed model architectures leading to >95% setence relevance recall and >90% topic matching accuracy
++ [Artbat Live](https://www.artbatlive.com/#1) - Fractional CTO (Jun. 2024 - Current)
+  	- Lead team of 4 engineers on developing the MVP web app and contrastive learning models for image based search
+  	- Designed MVP architecture within AWS
++ [Salient Live](https://www.salient.com/) - AI Consultant (May. 2024 - Current)
+  	- Developed anomaly detection data engineering pipeline to automate business logic
+  	- Oversee 1 senior data scientist on sales forecasting of multi billion record dataset
++ [Good Agriculture](https://goodagriculture.com/) - AI Consultant (May. 2024)
+  	- Led interviews and created technical exames to identifiy and hire a tech lead
+  	- Consulted on prompt engineering techniques
 
-+  [ECGO Recycling App](https://apps.apple.com/us/app/ecgo/id1638181650) - Tech Lead (Jun. 2022 - Current)
+### ECGO - Chief Technical Officer (Apr. 2022 - Jul. 2024)
++  [ECGO Recycling App](https://apps.apple.com/us/app/ecgo/id1638181650)
 	- Turned an MVP into a B2B2C platform with over 3k users and over $100k in annually recurring revenue
 	- Lead a team of 2 front-end developers, 2 data annotators, and a quality assurance tester
 	- Managed design, development, and deployment of 2 web apps, 1 mobile app, and 1 API
@@ -34,9 +50,6 @@
 	- Manage multiple annual licenses with prestigious universities (e.g. Georgia Tech, UC Berkeley, etc.)
 	- Curated a proprietary dataset of over 150k images to fine-tune a contrastive captioning model ([CoCa](https://arxiv.org/abs/2205.01917))
 	- Tech Stack: Flutter, Python, MySQL, FastAPI, Docker, Terraform, Github Workflows, HuggingFace, Riverpod, AWS, Firebase, Bash
-+  [SprtsIQ NFL Predictions](https://sprtsiq.com/) - Data Scientist (Dec. 2021 - Mar. 2022)
-	- Developed sports betting regression models that outperformed the previous best model while using fewer features
- 	- Tech Stack: Python, Scikit Learn, XGBoost, LightGBM, Pandas, Matplotlib, NumPy, SciPy, Jupyter, Bash
 
 ### Expedia - Machine Learning Engineer - Contract - (Oct. 2022 - Mar. 2024)
 + Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
