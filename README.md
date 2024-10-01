@@ -26,8 +26,8 @@
 <h2 align="center">Employment</h2>
 
 ### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - Current)
-+ Lead developer on the business insurance Generative AI Execution Team overseeing 4 developers
-	- Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation
++ Lead developer on the Business Insurance Generative AI Execution Team overseeing 4 developers
+  	- Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation
 	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via LLMs
 	- Tech Stack: GPT-4, Claude 3.5, Python, Pandas, Kubernetes, Docker, Github Actions, AWS, FastAPI, Bash, React, PyTests, Amazon Bedrock
 
@@ -84,15 +84,17 @@
 + Started an AI agency which has scaled to a team of 7, achieving over $20k in MRR after only 3 months
 + Awarded Rising Talent badge and earned the Upwork machine learning skill ceritificate
 	+ [Branch Politics](https://branch.vote/) - AI Consultant (May. 2024 - Current)
-	  	- Lead team of 2 senior machine learning engineers to develop sentence relevancy and topic matching models
+	  	- Led team of 2 senior machine learning engineers to develop sentence relevancy and topic matching models
 	  	- Performed unsupervised topic modeling of web scraped text using BERTopic
-	  	- Designed model architectures leading to >95% setence relevance recall and >90% topic matching accuracy (Scikit-Learn, SentenceTransformers, NLTK, SageMaker, PyTorch)
+	  	- Designed model architectures leading to >95% setence relevance recall and >90% topic matching accuracy
+   		- Tech Stack: Scikit-Learn, SentenceTransformers, NLTK, SageMaker, PyTorch, AWS, Lambda, SageMaker, Step Functions, MLFlow
 	+ [Artbat Live](https://www.artbatlive.com/#1) - Fractional CTO (Jun. 2024 - Current)
 	  	- Lead team of 4 engineers on developing the MVP web app and contrastive learning models for mulit modal search (image and text)
-	  	- Designed microservice MVP architecture within AWS (Lambda, OpenSearch, SageMaker, S3, RDS, MLFlow, PyTorch)
-	+ [Salient Live](https://www.salient.com/) - AI Consultant (May. 2024 - Current)
+	  	- Designed microservice MVP architecture within AWS (Lambda, OpenSearch, SageMaker, S3, RDS, MLFlow, PyTorch, OpenCLIP)
+	+ [Salient Management](https://www.salient.com/) - AI Consultant (May. 2024 - Current)
 	  	- Developed anomaly detection data engineering pipeline to automate business logic (Python, Pandas)
 	  	- Oversee 1 senior data scientist on sales forecasting of multi billion record dataset
+   		- Rewrote Databricks Diviner model source code to accept logistic target variables ([forked repo](https://github.com/RosenblattAI/diviner]))
 	+ [Good Agriculture](https://goodagriculture.com/) - AI Consultant (May. 2024)
 	  	- Led interviews and created technical exames to identifiy and hire a tech lead
 	  	- Consulted on prompt engineering techniques
