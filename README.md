@@ -35,8 +35,8 @@
 + Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
 	- Used the PyMC Bayesian inference framework to perform MMM on click, spend, and impression measurements across different channels
  	- Model results were reported monthly to regional marketing teams, leading to $100M+ ad-spend decisions
- 	- Ensured full unit testing coverage and thorough documentation of all ETL functions
- 	- Fully automated, tested, and deployed 10 major monthly reports to the production environment
+    	- Ensured full unit testing coverage and thorough documentation of all ETL functions
+       	- Fully automated, tested, and deployed 10 major monthly reports to the production environment
   	- Cost champion for the team, overseeing all Databricks clusters and reporting cost trends to management
  	- Tech Stack: Python, Pandas, Meta Prophet, Spark, NumPy, PyMC, JAX, PyTests, Databricks, Docker, Github Actions, Kubernetes, AWS, Bash
 
