@@ -16,7 +16,7 @@
 
 <h2 align="center">Notable Achievements</h2>
 <br>
-<li>2024 Upwork Agency Top Rated Plus (Top 3% of Freelancers) (<a href="https://www.upwork.com/freelancers/~01a885c2b4d113d1e8">Link</a>)</li>
+<li>2024 Upwork Agency Top Rated Plus (3% acceptance rate) (<a href="https://www.upwork.com/freelancers/~01a885c2b4d113d1e8">Link</a>)</li>
 <li>2023 Techstars Accelerator Alumni (1% acceptance rate) (<a href="https://www.coxenterprises.com/news/techstars-impact-2023-class">Article</a>)</li>
 <li>2022 AWS Impact Accelerator Alumni & CTO-Fellowship (0.1% acceptance rate) (<a href="https://aws-startup-lofts.com/amer/program/accelerators/women-founders/meet-the-cohort#ECGO">Article</a>)</li>
 <li>2021 GSU Outstanding Undergraduate Researcher (One student selected annually) (<a href="https://csds.gsu.edu/2021/03/22/computer-science-students-receive-awards-7/">Article</a>)</li>
