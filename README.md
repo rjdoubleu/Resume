@@ -16,7 +16,7 @@
 
 <h2 align="center">Notable Achievements</h2>
 <br>
-<li>2024 Upwork Agency Rising Talent (Invite Only) (<a href="https://www.upwork.com/agencies/1801666643235864576/">Link</a>)</li>
+<li>2024 Upwork Agency Top Rated Plus (Top 3% of Freelancers) (<a href="https://www.upwork.com/freelancers/~01a885c2b4d113d1e8">Link</a>)</li>
 <li>2023 Techstars Accelerator Alumni (1% acceptance rate) (<a href="https://www.coxenterprises.com/news/techstars-impact-2023-class">Article</a>)</li>
 <li>2022 AWS Impact Accelerator Alumni & CTO-Fellowship (0.1% acceptance rate) (<a href="https://aws-startup-lofts.com/amer/program/accelerators/women-founders/meet-the-cohort#ECGO">Article</a>)</li>
 <li>2021 GSU Outstanding Undergraduate Researcher (One student selected annually) (<a href="https://csds.gsu.edu/2021/03/22/computer-science-students-receive-awards-7/">Article</a>)</li>
@@ -26,10 +26,10 @@
 <h2 align="center">Employment</h2>
 
 ### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - Current)
-+ Lead developer on the business insurance GenAI team overseeing 3 developers
-+ Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation for risk control
-+ Team member of Policy Pilot GenAI app for assisting underwritters in note taking via LLMs
-+ Developing a multi-billion record migration from on-premise IBM FileNet servers to AWS for foundation model training
++ Lead developer on the business insurance Generative AI Execution Team overseeing 4 developers
+	- Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation
+	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via LLMs
+	- Tech Stack: GPT-4, Claude 3.5, Python, Pandas, Kubernetes, Docker, Github Actions, AWS, FastAPI, Bash, React, PyTests, Amazon Bedrock
 
 ### [Expedia](https://www.expedia.com/) - Machine Learning Engineer - Contract - (Oct. 2022 - Mar. 2024)
 + Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
@@ -38,7 +38,7 @@
  	- Ensured full unit testing coverage and thorough documentation of all ETL functions
  	- Fully automated, tested, and deployed 10 major monthly reports to the production environment
   	- Cost champion for the team, overseeing all Databricks clusters and reporting cost trends to management
- 	- Tech Stack: Python, Pandas, Meta Prophet, Spark, NumPy, PyMC, JAX, PyTests, Databricks, Docker, Github Workflows, Kubernetes, AWS, Bash
+ 	- Tech Stack: Python, Pandas, Meta Prophet, Spark, NumPy, PyMC, JAX, PyTests, Databricks, Docker, Github Actions, Kubernetes, AWS, Bash
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Machine Learning Engineer - Employee - (Nov. 2021 - Oct. 2022)
 + Participated in the CoLabL leadership training program
