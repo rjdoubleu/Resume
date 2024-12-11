@@ -20,7 +20,7 @@
 <li>2023 Techstars Accelerator Alumni (1% acceptance rate) (<a href="https://www.coxenterprises.com/news/techstars-impact-2023-class">Article</a>)</li>
 <li>2022 AWS Impact Accelerator Alumni & CTO-Fellowship (0.1% acceptance rate) (<a href="https://aws-startup-lofts.com/amer/program/accelerators/women-founders/meet-the-cohort#ECGO">Article</a>)</li>
 <li>2021 GSU Outstanding Undergraduate Researcher (One student selected annually) (<a href="https://csds.gsu.edu/2021/03/22/computer-science-students-receive-awards-7/">Article</a>)</li>
-<li>2015 Kicked Out of High School for Hacking Faculty Accounts using Man-In-The-Middle attacks (<a href="https://www.11alive.com/article/news/fulton-county-school-officials-are-investigating-a-teen-hacker/85-132316937">News Article</a>)</li>
+<li>2015 Kicked Out of High School for Hacking 21 Faculty Accounts using Man-In-The-Middle attacks (<a href="https://www.11alive.com/article/news/fulton-county-school-officials-are-investigating-a-teen-hacker/85-132316937">News Article</a>)</li>
 <br>
 
 <h2 align="center">Employment</h2>
