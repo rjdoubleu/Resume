@@ -8,7 +8,7 @@
 
 |   |  Languages | Libraries / Frameworks / Platforms |
 |---|---|---|
-| **Expert** | Python, SQL | Spark, Pandas, Docker, Terraform, FastAPI, GitHub CI/CD, Databricks, AWS, MySQL |
+| **Expert** | Python, SQL | Spark, Pandas, Docker, Terraform, FastAPI, GitHub CI/CD, Databricks, AWS, MySQL, Databricks |
 | **Versed** | Bash, Flutter | SageMaker, TensorFlow, PyTorch, Plotly, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, Kubernetes, HuggingFace, BeautifulSoup, GCP, Firebase, Riverpod |
 | **Familiar** | Java, C#, Scala, C, C++, TypeScript, HMTL+CSS | PyMC, Hyperopt, Spacy, NLTK, SciPy, Ray, Unity Engine, Airflow, Postgres, MongoDB |
 
@@ -27,9 +27,10 @@
 
 ### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - Current)
 + Lead developer on the Business Insurance Generative AI Execution Team overseeing 4 developers
-  	- Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation
-	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via LLMs
-	- Tech Stack: GPT-4, Claude 3.5, Python, Pandas, Kubernetes, Docker, Github Actions, AWS, FastAPI, Bash, React, PyTests, Amazon Bedrock
+  	- Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation, achieving 83% positive user feedback on version 1
+	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via ChatGPT
+ 	- Leading TextGrad automatic prompt optimization research 
+	- Tech Stack: Terraform, ArgoCD, Claude 3, Python, Pandas, Kubernetes, Docker, Github Actions, AWS, FastAPI, Bash, React, Amazon Bedrock, Postgres
 
 ### [Expedia](https://www.expedia.com/) - Machine Learning Engineer - Contract - (Oct. 2022 - Mar. 2024)
 + Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
@@ -83,7 +84,11 @@
 ### [Rosenblatt AI](https://www.upwork.com/agencies/1801666643235864576/) - Owner (May. 2024 - Current)
 + Started an AI agency which has scaled to a team of 7, achieving over $20k in MRR after only 3 months
 + Awarded Rising Talent badge and earned the Upwork machine learning skill ceritificate
-	+ [Branch Politics](https://branch.vote/) - AI Consultant (May. 2024 - Current)
+	+ [Netarx](https://www.netarx.com/) - AI Consultant (Oct. 2024 - Current)
+                - Lead team of 2 machine learning engineers to develop multi-face detection adn deep fake detection models
+   		- Developed APIs for YOLOv8 and LAA-Net
+     		- Tech Stack: PyTorch, Docker, AWS, OpenCV 	
+	+ [Branch Politics](https://branch.vote/) - AI Consultant (May. 2024 - Oct. 2024)
 	  	- Led team of 2 senior machine learning engineers to develop sentence relevancy and topic matching models
 	  	- Performed unsupervised topic modeling of web scraped text using BERTopic
 	  	- Designed model architectures leading to >95% setence relevance recall and >90% topic matching accuracy
