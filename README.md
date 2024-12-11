@@ -82,8 +82,7 @@
 <h2 align="center">Entrepreneurship</h2>
 
 ### [Rosenblatt AI](https://www.upwork.com/agencies/1801666643235864576/) - Owner (May. 2024 - Current)
-+ Started an AI agency which has scaled to a team of 7, achieving over $20k in MRR after only 3 months
-+ Awarded Rising Talent badge and earned the Upwork machine learning skill ceritificate
++ Awarded Upwork Top Talent badge (September 2024) and earned the Machine Learning Skill Ceritificate (August 2024)
 	+ [Netarx](https://www.netarx.com/) - AI Consultant (Oct. 2024 - Current)
                 - Lead team of 2 machine learning engineers to develop multi-face detection adn deep fake detection models
    		- Developed APIs for YOLOv8 and LAA-Net
