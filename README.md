@@ -1,15 +1,15 @@
 # Ryan James Walden
-#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [Upwork Profile](https://www.upwork.com/freelancers/~01a885c2b4d113d1e8) | [Upwork Agency](https://www.upwork.com/agencies/1801666643235864576/)
+#### [waldenr1@gmail.com](mailto:waldenr1@gmail.com) | ryan@rosenblatt.ai | (404)935-2088 | [LinkedIn](https://www.linkedin.com/in/ryan-walden-28771a8b/) | [Upwork Profile](https://www.upwork.com/freelancers/~01a885c2b4d113d1e8) | [Upwork Agency](https://www.upwork.com/agencies/1801666643235864576/)
 
 <br>
 
-<h2 align="center">Technical Overview</h2>
+<h2 align="center">Tech Stack</h2>
 <br>
 
 |   |  Languages | Libraries / Frameworks / Platforms |
 |---|---|---|
-| **Expert** | Python, SQL | AWS Amplify, Databricks, Spark, Pandas, Docker, Terraform, FastAPI, GitHub CI/CD, Databricks, AWS, MySQL |
-| **Versed** | TypeScript, Bash, Flutter | Next.js, SageMaker, TensorFlow, PyTorch, Plotly, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, Kubernetes, HuggingFace, BeautifulSoup, GCP, Firebase |
+| **Expert** | Python, SQL | AWS, Amplify, Databricks, Spark, Pandas, Docker, Terraform, FastAPI, GitHub CI/CD, Databricks, MySQL |
+| **Skilled** | TypeScript, Bash, Flutter | GCP, Next.js, SageMaker, TensorFlow, PyTorch, Plotly, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, Kubernetes, HuggingFace, BeautifulSoup, Firebase |
 | **Familiar** | Java, C#, Scala, C, C++, HMTL+CSS | PyMC, Hyperopt, Spacy, NLTK, SciPy, Ray, Unity Engine, Airflow, Postgres, MongoDB |
 
 <br>
@@ -25,90 +25,65 @@
 
 <h2 align="center">Employment</h2>
 
-### [ProService]() - Director of AI Engineering - Employee (April 2025 - Current)
+### [ProService](https://www.proservice.com/) - Director of AI Engineering - Employee - (April 2025 - Current)
 + Leading a team to automate HR services with agentic AI solutions
   	- 4 direct reports: 1 AI team lead, 3 senior AI engineers
   	- Developed human in the loop, GenAI-first onboarding experience, shipped to production in 12 weeks
-  	- Tech Stack: TypeScript, AWS Amplify, Amazon Bedrock, Amazon Neptune (GraphRAG), Claude 3.5 v2, Lambda (Custom AI Tools), DynamoDB
+  	- Tech Stack: TypeScript, AWS, Amplify, Bedrock, Neptune (GraphRAG), Claude 3.5 v2, Lambda (Custom AI Tools), DynamoDB
 
-### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - April 2025)
+### [Travelers](https://investor.travelers.com/newsroom/press-releases/news-details/2024/Travelers-Opens-Technology-Office-in-Atlanta/default.aspx) - SWE II - Employee - (July 2024 - April 2025)
 + Lead developer on the Business Insurance Generative AI Execution Team
 	- 4 junior developer direct reports
   	- Developed a production data knowledge base to perform RAG on business documentation, achieving 83% positive user feedback on version 1
 	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via GPT-4o
 	- Tech Stack: Amazon Bedrock, OpenAI, Terraform, ArgoCD, Claude 3, Python, Pandas, Kubernetes, Docker, Github Actions, AWS, FastAPI, Bash, React, Postgres
 
-### [Expedia](https://www.expedia.com/) - Machine Learning Engineer - Contract - (Oct. 2022 - Mar. 2024)
+### [Expedia](https://www.expedia.com/) - MLE II - Contract - (Oct. 2022 - Mar. 2024)
 + Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
-	- Used the PyMC Bayesian inference framework to perform MMM on click, spend, and impression measurements across different channels
+	- Used the PyMC Bayesian inference framework to perform MMM on click, spend, and impression measurements
  	- Model results were reported monthly to regional marketing teams, leading to $100M+ ad-spend decisions
-       	- Fully automated, tested, and deployed major monthly reports to the production environment
+  	- Fully automated, tested, and deployed major monthly reports to the production environment
  	- Tech Stack: Python, Pandas, Meta Prophet, Spark, NumPy, PyMC, JAX, PyTests, Databricks, Docker, Github Actions, Kubernetes, AWS, Bash
 
-### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Machine Learning Engineer - Employee - (Nov. 2021 - Oct. 2022)
+### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - MLE I - Employee - (Nov. 2021 - Oct. 2022)
 + First MLE in the company after participating in the CoLabL leadership training program
 	- Used PySpark to transform multimillion record tables into feature-engineered datasets
   	- Deployed LambdaMART learning-to-rank models into production which improved performance across all evaluation criteria (e.g. +20% top-5 accuracy)
 	- Tech Stack: XGBoost, LightGBM, RandomForest, Docker, FastAPI, Spark,  MLFlow, GitHub Actions, Databricks, AWS, Python, SQL, Bash, C#, TypeScript
 
-### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (FTE Dec. 2020 - Nov. 2021)
-+ Member of the Data Services team working primarily in Databricks
+### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - BDE I - Employee - (Dec. 2020 - Nov. 2021)
++ Big data engineer working primarily in Databricks
 	- Regularly work with tables between 1M-100M records
 	- Worked with team to migrate ETLs from Microsoft SQL Server to Databricks
 	- Performed exploratory data analysis of our community data
 	- Tech Stack: Spark, GitHub Actions, Databricks, AWS, Python, SQL
 
-### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (Contract May 2020 - Dec. 2020)
-+ Flask API engineer on the EDW team working on contract through The Proven Method
+### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - SWE I - Contract - (May 2020 - Dec. 2020)
++ Performed API engineering and machine learning R&D on the EDW team
 	- Created aggregate service reducing API response time by ~48%
-	- Built CI/CD pipelines with Spinnaker and Kubernetes, automated regression testing with Locust
-	- Reformatted procedural library to fully object-oriented, minimizing redundant results caching
-+ Demo'd sentence transformers (S-BERT & modified XLNet) to the EDW Machine Learning team
-+ Implemented Natural Language Processing (Doc2Vec) customer project embeddings p.o.c. for EDW Machine Learning team
-	- Results proved "invaluable" to the marketing department and obtained direct funding to continue development
+  	- Improved customer receipts Doc2Vec embedding model; results proved "invaluable" to the marketing department
 	- Implemented CPU multithreading, resulting in 4x faster embedding generation
-	- Visualized and compared embeddings with Wordles to intuitively communicate results to business users
-+ Cloud: Google Cloud Platform (GCP)
-+ Languages: Python, SQL, Bash
-+ Tools: Kubernetes, Docker, Locust, Atscale, Redis, Flask, PyTorch, HuggingFace, TensorFlow, Pandas, Postman, Gensim, BigQuery
+  	- Tech Stack: Python, SQL, Bash, GCP, Kubernetes, Docker, Locust, Redis, Flask, PyTorch, TensorFlow, Pandas, Postman, Gensim, BigQuery
 
 <br>
 
 <h2 align="center">Entrepreneurship</h2>
 
-### [Rosenblatt AI](https://www.upwork.com/agencies/1801666643235864576/) - Owner (May. 2024 - Current)
-+ Awarded Upwork Top Talent badge (September 2024) and earned the Machine Learning Skill Ceritificate (August 2024)
-	+ [Netarx](https://www.netarx.com/) - AI Consultant (Oct. 2024 - Current)
-                - Lead team of 2 machine learning engineers to develop multi-face detection adn deep fake detection models
-   		- Developed APIs for YOLOv8 and LAA-Net
-     		- Tech Stack: PyTorch, Docker, AWS, OpenCV 	
-	+ [Branch Politics](https://branch.vote/) - AI Consultant (May. 2024 - Oct. 2024)
-	  	- Led team of 2 senior machine learning engineers to develop sentence relevancy and topic matching models
-	  	- Performed unsupervised topic modeling of web scraped text using BERTopic
-	  	- Designed model architectures leading to >95% setence relevance recall and >90% topic matching accuracy
-   		- Tech Stack: Scikit-Learn, SentenceTransformers, NLTK, SageMaker, PyTorch, AWS, Lambda, SageMaker, Step Functions, MLFlow
-	+ [Artbat Live](https://www.artbatlive.com/#1) - Fractional CTO (Jun. 2024 - Current)
-	  	- Lead team of 4 engineers on developing the MVP web app and contrastive learning models for mulit modal search (image and text)
-	  	- Designed microservice MVP architecture within AWS (Lambda, OpenSearch, SageMaker, S3, RDS, MLFlow, PyTorch, OpenCLIP)
-	+ [Salient Management](https://www.salient.com/) - AI Consultant (May. 2024 - Current)
-	  	- Developed anomaly detection data engineering pipeline to automate business logic (Python, Pandas)
-	  	- Oversee 1 senior data scientist on sales forecasting of multi billion record dataset
-   		- Rewrote Databricks Diviner model source code to accept logistic target variables ([forked repo](https://github.com/RosenblattAI/diviner]))
-	+ [Good Agriculture](https://goodagriculture.com/) - AI Consultant (May. 2024)
-	  	- Led interviews and created technical exames to identifiy and hire a tech lead
-	  	- Consulted on prompt engineering techniques
+### [Rosenblatt AI](https://www.upwork.com/agencies/1801666643235864576/) - CEO & Owner - (May. 2024 - Current)
++  Building a team of the most talented AI engineers I know to help businesses on their journey to AI enablement.
+	- Year 1 by the numbers: > $300k revenue, 1 -> 9 team members, multiple Upwork awards, 9 clients served, 2 MVPs launched
+ 	- Diverse projects ranging across computer vision, deep fake detection, GenAI, and sales forecasting
+  	- Currently developing an internal code generation tool specialized in the AWS Amplify framework
 
-### [ECGO](https://apps.apple.com/us/app/ecgo/id1638181650) - Chief Technical Officer (Apr. 2022 - Jul. 2024)
-+  Co-Founder and CTO; hands on leadership authoring the entirety of the Python backend, GitHub CI/CD, and AWS-Terraform infrastructure for the company
+### [ECGO](https://apps.apple.com/us/app/ecgo/id1638181650) - Co-Founder & CTO (Apr. 2022 - Jul. 2024)
++  Hands on leadership while personally authoring the entirety of the Python backend, SQL databse, GitHub CI/CD, and AWS-Terraform infrastructure for the company
 	- Turned an MVP into a B2B2C platform with 4k users and over $100k in revenue
-  	- Raised over $500k in funding from accelerators and angel investors
-	- Lead a team of 2 front-end developers, 2 data annotators, and a quality assurance tester
+  	- Raised over $0.5M in funding from accelerators and angel investors
+	- Lead a team of 2 front-end developers, 2 data annotators, 1 data analyst, and a quality assurance tester
 	- Managed design, development, and deployment of 2 web apps, 1 mobile app, and 1 API
- 	- Architected and developed our app environments including over 20 AWS Services, and 30 fully relational tables in MySQL
-	- Manage multiple annual licenses with prestigious universities (e.g. Georgia Tech, UC Berkeley, etc.)
+ 	- Manage multiple annual licenses with prestigious universities (e.g. Georgia Tech, UC Berkeley, etc.)
 	- Curated a proprietary dataset of over 150k images to fine-tune a contrastive captioning model ([CoCa](https://arxiv.org/abs/2205.01917))
 	- Tech Stack: Flutter, Python, MySQL, FastAPI, Docker, Terraform, Github Workflows, HuggingFace, Riverpod, AWS, Firebase, Bash
-+ Resigned after loss of confidence in CEO from flawed business discovery process causing product market fit incapability and failure to adapt to a new business model
 
 <br>
 
