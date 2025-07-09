@@ -101,7 +101,7 @@ A full stack AI engineer leading teams to rapidly develop cutting edge solutions
 	- Performed synthetic dataset generation in Unity Engine and Bayesian neural architecture search with Weights and Biases
 	- Searched over 400 multi-task deep convolutional neural network architectures using TensorFlow
 	- Orchestrated cost-optimized multi-GPU (V100s), multi-worker training cluster on AWS Batch 
-	- Tools: AWS, Python, C#, TensorFlow 2.3, Unity Engine, S3, Amazon SageMaker, AWS Batch, Weights and Biases, NumPy, Matplotlib+Seaborn, Docker
+	- Tools: AWS, Python, C#, TensorFlow 2.3, Unity Engine, S3, SageMaker, AWS Batch, Weights and Biases, NumPy, Docker
 
 ### [MORSE Studio Lab](https://sites.google.com/view/highspeedmobilevlc/home) - Undergraduate Research Assistant - (Sept. 2019 - May 2020)
 + Co-Authorship on IEEE: Transactions on Vehicular Technology 2021 publication ([paper link](https://engine.lib.uwaterloo.ca/ojs-2.2/index.php/pptvt/article/viewArticle/858)).
@@ -124,5 +124,5 @@ A full stack AI engineer leading teams to rapidly develop cutting edge solutions
 
 ### [Georgia State University](https://www.usnews.com/best-colleges/georgia-state-university-1574) – B.S. Computer Science - (Aug. 2016 - May 2020)
 + In my final year and a half, I changed my focus and curriculum to encompass machine learning research and engineering.
-	- Intro to Deep Learning (Grade: A): Used NumPy to implement simple neural networks, backpropagation, weight normalization, etc.
-	- Big Data Programming (Grade: A): Used Scala to develop Apache Spark programs (CloudFront, API Gateway, Lambda, IAM, S3)
+	- Intro to Deep Learning (Grade: A): Used NumPy to implement simple neural networks, backpropagation, etc.
+	- Big Data Programming (Grade: A): Used Scala to develop Spark programs (CloudFront, API Gateway, Lambda, IAM)
