@@ -8,15 +8,15 @@
 
 |   |  Languages | Libraries / Frameworks / Platforms |
 |---|---|---|
-| **Expert** | Python, SQL | Spark, Pandas, Docker, Terraform, FastAPI, GitHub CI/CD, Databricks, AWS, MySQL, Databricks |
-| **Versed** | Bash, Flutter | SageMaker, TensorFlow, PyTorch, Plotly, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, Kubernetes, HuggingFace, BeautifulSoup, GCP, Firebase, Riverpod |
-| **Familiar** | Java, C#, Scala, C, C++, TypeScript, HMTL+CSS | PyMC, Hyperopt, Spacy, NLTK, SciPy, Ray, Unity Engine, Airflow, Postgres, MongoDB |
+| **Expert** | Python, SQL | AWS Amplify, Databricks, Spark, Pandas, Docker, Terraform, FastAPI, GitHub CI/CD, Databricks, AWS, MySQL |
+| **Versed** | TypeScript, Bash, Flutter | Next.js, SageMaker, TensorFlow, PyTorch, Plotly, Scikit-Learn, XGBoost, MLFlow, Weights & Biases, Kubernetes, HuggingFace, BeautifulSoup, GCP, Firebase |
+| **Familiar** | Java, C#, Scala, C, C++, HMTL+CSS | PyMC, Hyperopt, Spacy, NLTK, SciPy, Ray, Unity Engine, Airflow, Postgres, MongoDB |
 
 <br>
 
 <h2 align="center">Notable Achievements</h2>
 <br>
-<li>2024 Upwork Agency Top Rated Plus (3% acceptance rate) (<a href="https://www.upwork.com/freelancers/~01a885c2b4d113d1e8">Link</a>)</li>
+<li>2024 Upwork Agency Expert Vetted & Top Rated Plus (3% acceptance rate) (<a href="https://www.upwork.com/freelancers/~01a885c2b4d113d1e8">Link</a>)</li>
 <li>2023 Techstars Accelerator Alumni (1% acceptance rate) (<a href="https://www.coxenterprises.com/news/techstars-impact-2023-class">Article</a>)</li>
 <li>2022 AWS Impact Accelerator Alumni & CTO-Fellowship (0.1% acceptance rate) (<a href="https://aws-startup-lofts.com/amer/program/accelerators/women-founders/meet-the-cohort#ECGO">Article</a>)</li>
 <li>2021 GSU Outstanding Undergraduate Researcher (One student selected annually) (<a href="https://csds.gsu.edu/2021/03/22/computer-science-students-receive-awards-7/">Article</a>)</li>
@@ -25,29 +25,28 @@
 
 <h2 align="center">Employment</h2>
 
-### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - Current)
-+ Lead developer on the Business Insurance Generative AI Execution Team overseeing 4 developers
-  	- Developed Amazon Bedrock Knowledge Base to perform RAG on business documentation, achieving 83% positive user feedback on version 1
-	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via ChatGPT
- 	- Leading TextGrad automatic prompt optimization research 
-	- Tech Stack: Terraform, ArgoCD, Claude 3, Python, Pandas, Kubernetes, Docker, Github Actions, AWS, FastAPI, Bash, React, Amazon Bedrock, Postgres
+### [ProService]() - Director of AI Engineering - Employee (April 2025 - Current)
++ Leading a team to automate HR services with agentic AI solutions
+  	- 4 direct reports: 1 AI team lead, 3 senior AI engineers
+  	- Developed human in the loop, GenAI-first onboarding experience, shipped to production in 12 weeks
+  	- Tech Stack: TypeScript, AWS Amplify, Amazon Bedrock, Amazon Neptune (GraphRAG), Claude 3.5 v2, Lambda (Custom AI Tools), DynamoDB
+
+### [Travelers](https://www.travelers.com/) - SWE II - Employee (July 2024 - April 2025)
++ Lead developer on the Business Insurance Generative AI Execution Team
+	- 4 junior developer direct reports
+  	- Developed a production data knowledge base to perform RAG on business documentation, achieving 83% positive user feedback on version 1
+	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via GPT-4o
+	- Tech Stack: Amazon Bedrock, OpenAI, Terraform, ArgoCD, Claude 3, Python, Pandas, Kubernetes, Docker, Github Actions, AWS, FastAPI, Bash, React, Postgres
 
 ### [Expedia](https://www.expedia.com/) - Machine Learning Engineer - Contract - (Oct. 2022 - Mar. 2024)
 + Member of the Media Mix Modeling (MMM) team in charge of bringing our feature engineering and reporting from MVP to production application  
 	- Used the PyMC Bayesian inference framework to perform MMM on click, spend, and impression measurements across different channels
  	- Model results were reported monthly to regional marketing teams, leading to $100M+ ad-spend decisions
-    	- Ensured full unit testing coverage and thorough documentation of all ETL functions
-       	- Fully automated, tested, and deployed 10 major monthly reports to the production environment
-  	- Cost champion for the team, overseeing all Databricks clusters and reporting cost trends to management
+       	- Fully automated, tested, and deployed major monthly reports to the production environment
  	- Tech Stack: Python, Pandas, Meta Prophet, Spark, NumPy, PyMC, JAX, PyTests, Databricks, Docker, Github Actions, Kubernetes, AWS, Bash
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Machine Learning Engineer - Employee - (Nov. 2021 - Oct. 2022)
-+ Participated in the CoLabL leadership training program
-	- Mentor worked in data science/analytics for 20+ years
-	- Developed a data science take-home test, conducted interviews, and hired a data scientist onto our team
-	- Oversee all data science jobs and clusters in APFM Databricks
-	- Organize weekly games and mixers for the data scientists at APFM
-+ Member of Data Services assigned to Community Search team in charge of search engine algorithm development
++ First MLE in the company after participating in the CoLabL leadership training program
 	- Used PySpark to transform multimillion record tables into feature-engineered datasets
   	- Deployed LambdaMART learning-to-rank models into production which improved performance across all evaluation criteria (e.g. +20% top-5 accuracy)
 	- Tech Stack: XGBoost, LightGBM, RandomForest, Docker, FastAPI, Spark,  MLFlow, GitHub Actions, Databricks, AWS, Python, SQL, Bash, C#, TypeScript
@@ -55,13 +54,9 @@
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - Big Data Engineer (FTE Dec. 2020 - Nov. 2021)
 + Member of the Data Services team working primarily in Databricks
 	- Regularly work with tables between 1M-100M records
-	- Developed unit testing library for ETLs
 	- Worked with team to migrate ETLs from Microsoft SQL Server to Databricks
 	- Performed exploratory data analysis of our community data
-+ Responsible for interviewing new data engineers
-	- Developed original Git, Bash, Python, PySpark, and Pandas interview questions in CoderPad and Google Colab
-+ Cloud: Amazon Web Services (AWS)
-+ Languages: Python, SQL, Bash
+	- Tech Stack: Spark, GitHub Actions, Databricks, AWS, Python, SQL
 
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - Software Engineer (Contract May 2020 - Dec. 2020)
 + Flask API engineer on the EDW team working on contract through The Proven Method
