@@ -35,8 +35,8 @@ A full stack AI engineer leading teams to rapidly develop cutting edge solutions
 ### [Travelers](https://investor.travelers.com/newsroom/press-releases/news-details/2024/Travelers-Opens-Technology-Office-in-Atlanta/default.aspx) - SWE II - Employee - (July 2024 - April 2025)
 + Lead developer on the Business Insurance Generative AI Execution Team
 	- 4 junior developer direct reports
-  	- Developed production RAG on business documentation, achieving 83% positive user feedback
-	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via GPT-4o
+ 	- Developed production RAG on business documentation, achieving 83% positive user feedback
+  	- Contributor on Policy Pilot GenAI app for assisting underwritters in note taking via GPT-4o
 	- Tech Stack: Amazon Bedrock, OpenAI, Terraform, Claude 3, Python, K8s, Docker, Github Actions, AWS, FastAPI, React, SQL
 
 ### [Expedia](https://www.expedia.com/) - MLE II - Contract - (Oct. 2022 - Mar. 2024)
@@ -49,7 +49,7 @@ A full stack AI engineer leading teams to rapidly develop cutting edge solutions
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - MLE I - Employee - (Nov. 2021 - Oct. 2022)
 + First MLE in the company after participating in the CoLabL leadership training program
 	- Used PySpark to transform multimillion record tables into feature-engineered datasets
-  	- Deployed LambdaMART models into production, improved +20% top-5 accuracy
+ 	- Deployed LambdaMART models into production, improved +20% top-5 accuracy
 	- Tech Stack: XGBoost, Docker, FastAPI, Spark,  MLFlow, GitHub Actions, Databricks, AWS, Python, SQL, C#, TypeScript
 
 ### [A Place For Mom](https://www.prnewswire.com/news-releases/a-place-for-mom-inc-continues-to-transform-and-advance-senior-living-referral-business-with-new-executive-leadership-team-300989801.html) - BDE I - Employee - (Dec. 2020 - Nov. 2021)
@@ -62,9 +62,9 @@ A full stack AI engineer leading teams to rapidly develop cutting edge solutions
 ### [The Home Depot](https://cloud.google.com/customers/the-home-depot) - SWE I - Contract - (May 2020 - Dec. 2020)
 + Performed API engineering and machine learning R&D on the EDW team
 	- Created aggregate service reducing API response time by ~48%
-  	- Improved customer receipts Doc2Vec embedding model; results proved "invaluable" to the marketing department
+ 	- Improved customer receipts Doc2Vec embedding model; results proved "invaluable" to the marketing department
 	- Implemented CPU multithreading, resulting in 4x faster embedding generation
-  	- Tech Stack: Python, SQL, GCP, Kubernetes, Docker, Locust, Redis, Flask, PyTorch, TensorFlow, Pandas, Gensim, BigQuery
+ 	- Tech Stack: Python, SQL, GCP, Kubernetes, Docker, Locust, Redis, Flask, PyTorch, TensorFlow, Pandas, Gensim, BigQuery
 
 <br>
 
